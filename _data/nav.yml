@@ -1,0 +1,19 @@
+- name: Sobre
+  url: /sobre
+  production: true
+
+- name: Inscrições
+  url: /inscricoes
+  production: true
+
+- name: Programação
+  url: /programa
+  production: false
+
+- name: Patrocínio
+  url: /patrocinio
+  production: false
+
+- name: Código de Conduta
+  url: /codigo-de-conduta
+  production: true

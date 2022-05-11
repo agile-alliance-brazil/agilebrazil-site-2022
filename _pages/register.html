@@ -1,0 +1,103 @@
+---
+title: Inscrições
+permalink: /inscricoes
+---
+
+
+<section class="register-section tickets">
+  <div class="elementor-widget-heading elementor-widget-container">
+    <div class="heading-decor"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0" y="0" viewBox="0 0 35.3 16" xml:space="preserve">
+        <g class="nc-icon-wrapper" stroke="none">
+          <path fill-rule="evenodd" clip-rule="evenodd" d="M2.7 0C1.2 0 0 1.2 0 2.7c0 1.5 1.2 2.7 2.7 2.7 1.5 0 2.7-1.2 2.7-2.7C5.3 1.2 4.1 0 2.7 0zm0 10.7c-1.5 0-2.7 1.2-2.7 2.7C0 14.8 1.2 16 2.7 16c1.5 0 2.7-1.2 2.7-2.7-.1-1.4-1.3-2.6-2.7-2.6zM12.7 0C11.2 0 10 1.2 10 2.7c0 1.5 1.2 2.7 2.7 2.7 1.5 0 2.7-1.2 2.7-2.7-.1-1.5-1.3-2.7-2.7-2.7zm0 10.7c-1.5 0-2.7 1.2-2.7 2.7 0 1.5 1.2 2.7 2.7 2.7 1.5 0 2.7-1.2 2.7-2.7-.1-1.5-1.3-2.7-2.7-2.7zM22.7 0C21.2 0 20 1.2 20 2.7c0 1.5 1.2 2.7 2.7 2.7s2.7-1.2 2.7-2.7C25.3 1.2 24.1 0 22.7 0zm0 10.7c-1.5 0-2.7 1.2-2.7 2.7 0 1.5 1.2 2.7 2.7 2.7s2.7-1.2 2.7-2.7c-.1-1.5-1.3-2.7-2.7-2.7zm10-5.4c1.5 0 2.7-1.2 2.7-2.7 0-1.5-1.2-2.7-2.7-2.7C31.2 0 30 1.2 30 2.7c0 1.4 1.2 2.6 2.7 2.6zm0 5.4c-1.5 0-2.7 1.2-2.7 2.7 0 1.5 1.2 2.7 2.7 2.7 1.5 0 2.7-1.2 2.7-2.7-.1-1.5-1.3-2.7-2.7-2.7z">
+          </path>
+        </g>
+      </svg></div>
+    <h2 class="elementor-heading-title elementor-size-default">ingressos</h2>
+  </div>
+  <div class="elementor-element elementor-element-744742a elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="744742a" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}" style="width: 776px; left: -43px;">
+    <div class="elementor-container elementor-column-gap-no" style="">
+      <div class="elementor-row">
+        {% for ticket in site.data.register %}
+          {% assign price = ticket.price | split: "," %}
+          {% assign now = "now" | date: "%Y-%m-%d" %}
+          {% assign start = ticket.start | date: "%Y-%m-%d" %}
+          {% assign end = ticket.end | date: "%Y-%m-%d" %}
+          {% if start <= now and end > now %}
+            {% assign current = true %}
+          {% else %}
+            {% assign current = false %}
+          {% endif %} 
+          <div class="elementor-element elementor-element-92d97c2 elementor-column elementor-col-20 elementor-top-column" data-id="92d97c2" data-element_type="column">
+            <div class="elementor-column-wrap  elementor-element-populated">
+              <div class="elementor-widget-wrap">
+                <div class="elementor-element elementor-element-8220736 animated-fast elementor-widget elementor-widget-opal-price-table animated opal-move-up" data-id="8220736" data-element_type="widget" data-settings="{'_animation':'opal-move-up'}" data-widget_type="opal-price-table.default">
+                  <div class="elementor-widget-container">
+                    <div class="elementor-price-table {% if current %}bg-gradient{% else %}bg-white{% endif %}">
+                      <div class="elementor-price-table__wrapper-header">
+                        <div class="elementor-price-table__header">
+                          <h3 class="elementor-price-table__heading">{{ticket.name}}</h3>
+                        </div>
+                        <div class="elementor-price-table__price">
+                          <span class="elementor-price-table__currency">R$ </span>
+                          <span class="elementor-price-table__integer-part">{{price[0]}}</span>
+                          <span class="elementor-price-table__decimal-part">,{{price[1]}}</span>
+                        </div>
+                      </div>
+                      {% if ticket.features.size > 0 %}
+                        <ul class="elementor-price-table__features-list">
+                          {% for feature in ticket.features %}
+                            <li><div class="elementor-price-table__feature-inner "><span>{{feature}}</span></div></li>
+                          {% endfor %}
+                        </ul>
+                      {% endif %}
+                      <div class="elementor-price-table__footer">
+                        {% if current %}
+                          <a class="elementor-price-table__button elementor-button elementor-size-md" href="https://inscricoes.agilebrazil.com/">
+                            <span class="elementor-price-table_button-text">Inscreva-se agora!</span>
+                          </a>
+                        {% else %}
+                            <!--span class="elementor-button elementor-size-md" style="background-color: #ccc; color: #fff;">A partir de {{ticket.start | date: "%d/%m"}}</span-->
+                        {% endif %}
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="register-section faq">
+  <div class="elementor-widget-heading elementor-widget-container">
+    <div class="heading-decor"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0" y="0" viewBox="0 0 35.3 16" xml:space="preserve">
+        <g class="nc-icon-wrapper" stroke="none">
+          <path fill-rule="evenodd" clip-rule="evenodd" d="M2.7 0C1.2 0 0 1.2 0 2.7c0 1.5 1.2 2.7 2.7 2.7 1.5 0 2.7-1.2 2.7-2.7C5.3 1.2 4.1 0 2.7 0zm0 10.7c-1.5 0-2.7 1.2-2.7 2.7C0 14.8 1.2 16 2.7 16c1.5 0 2.7-1.2 2.7-2.7-.1-1.4-1.3-2.6-2.7-2.6zM12.7 0C11.2 0 10 1.2 10 2.7c0 1.5 1.2 2.7 2.7 2.7 1.5 0 2.7-1.2 2.7-2.7-.1-1.5-1.3-2.7-2.7-2.7zm0 10.7c-1.5 0-2.7 1.2-2.7 2.7 0 1.5 1.2 2.7 2.7 2.7 1.5 0 2.7-1.2 2.7-2.7-.1-1.5-1.3-2.7-2.7-2.7zM22.7 0C21.2 0 20 1.2 20 2.7c0 1.5 1.2 2.7 2.7 2.7s2.7-1.2 2.7-2.7C25.3 1.2 24.1 0 22.7 0zm0 10.7c-1.5 0-2.7 1.2-2.7 2.7 0 1.5 1.2 2.7 2.7 2.7s2.7-1.2 2.7-2.7c-.1-1.5-1.3-2.7-2.7-2.7zm10-5.4c1.5 0 2.7-1.2 2.7-2.7 0-1.5-1.2-2.7-2.7-2.7C31.2 0 30 1.2 30 2.7c0 1.4 1.2 2.6 2.7 2.6zm0 5.4c-1.5 0-2.7 1.2-2.7 2.7 0 1.5 1.2 2.7 2.7 2.7 1.5 0 2.7-1.2 2.7-2.7-.1-1.5-1.3-2.7-2.7-2.7z">
+          </path>
+        </g>
+      </svg></div>
+    <h2 class="elementor-heading-title elementor-size-default">Perguntas frequentes</h2>
+  </div>
+  <div class="row">
+    <div class="elementor-element elementor-element-2cae404 animated-fast elementor-widget elementor-widget-accordion animated opal-move-up" data-id="2cae404" data-element_type="widget" data-settings="{'_animation':'opal-move-up'}" data-widget_type="accordion.default">
+      <div class="elementor-widget-container">
+        <div class="elementor-accordion">
+          {% for faq in site.data.faq %}
+            <div class="elementor-accordion-item">
+              <div id="elementor-tab-title-{{ forloop.index }}" class="elementor-tab-title" tabindex="{{ forloop.index }}" data-tab="{{ forloop.index }}" aria-controls="elementor-tab-content-{{ forloop.index }}">
+                <span class="elementor-accordion-icon" aria-hidden="true"> <i class="elementor-accordion-icon-closed fa fa-plus"></i> <i class="elementor-accordion-icon-opened fa fa-close"></i> </span>
+                <span class="question">{{ faq.question }}</span>
+              </div>
+              <div id="elementor-tab-content-{{ forloop.index }}" class="elementor-tab-content elementor-clearfix" data-tab="{{ forloop.index }}" aria-labelledby="elementor-tab-title-{{ forloop.index }}" style="display: none;">
+                <p class="answer">{{ faq.answer }}</p>
+              </div>
+            </div>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

@@ -1,0 +1,22 @@
+{% assign yearUrl = site.url | append: site.baseurl  %}
+{% assign nav = site.data.nav %}
+{% assign past = site.data.past-conferences %}
+
+{% if jekyll.environment == 'production' %}
+  {% assign nav = nav | where: "production", true %}
+{% endif %}
+
+<nav id="menu">
+  <ul class="links">
+    {% for item in nav %}
+      <li><a href="{{ yearUrl | append: item.url}}">{{item.name}}</a></li>
+    {% endfor %}
+  </ul>
+
+  <h4>Edições anteriores</h4>
+  <ul class="links">
+    {% for conf in past %}
+      <li><a href="{{conf.url}}">{{conf.name}}</a></li>
+    {% endfor %}
+  </ul>
+</nav>

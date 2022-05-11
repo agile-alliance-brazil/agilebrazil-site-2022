@@ -1,0 +1,22 @@
+# Mac
+.DS_Store
+
+#VSCode
+.vscode
+
+# Jekyl
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+
+# NPM
+node_modules/
+jspm_packages/
+
+### SASS ###
+.sass-cache/
+*.css.map
+*.sass.map
+*.scss.map

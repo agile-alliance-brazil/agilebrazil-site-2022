@@ -1,0 +1,20 @@
+- name: Rafael Albino
+  logo: assets/images/sponsor-logo-rafael-albino.png
+  url: https://linktr.ee/rapha_albino
+  kind: diversity
+
+- name: Criativa Soluções em Eventos
+  logo: assets/images/sponsor-logo-criativa.png
+  url: http://criativaeventos.net
+  kind: support
+
+- name: Agile Alliance
+  logo: assets/images/sponsor-logo-agile-alliance.png
+  url: https://www.agilealliance.org/agilealliancebrazil
+  kind: support
+
+- name: Wildtech
+  logo: assets/images/sponsor-logo-wildtech.png
+  url: https://instagram.com/wildtech_br
+  kind: master
+  
