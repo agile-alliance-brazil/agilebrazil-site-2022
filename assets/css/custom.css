@@ -1,0 +1,10 @@
+.codeOfConduct {
+  color: #A0A0A0;
+  text-align: center;
+}
+
+.codeOfConduct em {
+  color: #808080;
+  font-style: normal;
+  font-weight: 600;
+}
