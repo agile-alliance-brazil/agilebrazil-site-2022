@@ -3951,6 +3951,8 @@ input, select, textarea {
 			}
 
 			#banner > .inner .icon {
+				background-size: 100%;
+				background-image: url("../images/icon.svg");
 				border-radius: 100%;
 				border: 1px solid #ffffff;
 				color: #ffffff;
