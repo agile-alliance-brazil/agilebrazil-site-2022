@@ -29,20 +29,8 @@
 		<!-- Nav -->
     {% include nav.html %}
 
-		<!-- Banner -->
-			<div id="banner">
-				<div class="inner">
-					<span class="icon"></span>
-					<h1>{{ site.title }}</h1>
-					<p>{{ site.location }}, {{ site.dates }}</p>
-					<ul class="actions stacked">
-						<li><a href="#" class="button large primary">Get Started</a></li>
-						<li><a href="#" class="button large">Learn More</a></li>
-					</ul>
-				</div>
-			</div>
-
-			{{ content }}
+		<!-- Content from _pages folder -->
+		{{ content }}
 
 		<!-- Contact -->
 			<section class="wrapper style2">
