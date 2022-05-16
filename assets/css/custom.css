@@ -8,3 +8,36 @@
   font-style: normal;
   font-weight: 600;
 }
+
+.registration .row {
+  gap: 1em;
+  margin: 1rem 0 3rem;
+}
+
+.registration .rate {
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+  flex: 1 1 0;
+  padding: 1rem;
+}
+
+.registration .rate.current {
+  background-color: rgba(67, 172, 75, 0.5);
+}
+
+.registration .rate h3 {
+  min-height: 56px;
+}
+
+.registration .rate .price {
+  font-size: 200%;
+  font-weight: bold;
+}
+
+.registration .rate h3, .registration .rate .price {
+  text-align: center;
+}
+
+.registration dd {
+  margin-bottom: 2rem;
+}
