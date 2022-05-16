@@ -12,7 +12,7 @@
 
 - name: Patrocínio
   url: /patrocinio
-  production: false
+  production: true
 
 - name: Código de Conduta
   url: /codigo-de-conduta
