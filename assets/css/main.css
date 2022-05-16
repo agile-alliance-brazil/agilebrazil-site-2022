@@ -1,6 +1,14 @@
 @import url(fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css?family=Fjalla+One|Source+Sans+Pro:300,400");
 
+html {
+	--ab-logo-azul-escuro: #182C35;
+	--ab-logo-verde-escuro: #147332;
+	--ab-logo-verde-medio: #43AC4B;
+	--ab-logo-laranja: #FFA506;
+	--ab-logo-branco: #FFFFFF;
+}
+
 /*
 	Venue by Pixelarity
 	pixelarity.com | hello@pixelarity.com
@@ -378,7 +386,7 @@ input, select, textarea {
 	}
 
 	header p {
-		color: #4468ca;
+		color: var(--ab-logo-verde-escuro);
 	}
 
 /* Row */
@@ -2011,7 +2019,7 @@ input, select, textarea {
 		input[type="button"].primary,
 		button.primary,
 		.button.primary {
-			background-color: #4468ca;
+			background-color: var(--ab-logo-verde-escuro);
 			box-shadow: none;
 			color: #ffffff !important;
 		}
@@ -2021,7 +2029,7 @@ input, select, textarea {
 			input[type="button"].primary:hover,
 			button.primary:hover,
 			.button.primary:hover {
-				background-color: #5878d0;
+				background-color: var(--ab-logo-verde-medio);
 				box-shadow: none;
 			}
 
@@ -2303,8 +2311,8 @@ input, select, textarea {
 		input[type="url"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #4468ca;
-			box-shadow: 0 0 0 1px #4468ca;
+			border-color: var(--ab-logo-verde-escuro);
+			box-shadow: 0 0 0 1px var(--ab-logo-verde-escuro);
 		}
 
 	select {
@@ -2329,15 +2337,15 @@ input, select, textarea {
 
 	input[type="checkbox"]:checked + label:before,
 	input[type="radio"]:checked + label:before {
-		background-color: #4468ca;
-		border-color: #4468ca;
+		background-color: var(--ab-logo-verde-escuro);
+		border-color: var(--ab-logo-verde-escuro);
 		color: #ffffff;
 	}
 
 	input[type="checkbox"]:focus + label:before,
 	input[type="radio"]:focus + label:before {
-		border-color: #4468ca;
-		box-shadow: 0 0 0 1px #4468ca;
+		border-color: var(--ab-logo-verde-escuro);
+		box-shadow: 0 0 0 1px var(--ab-logo-verde-escuro);
 	}
 
 	::-webkit-input-placeholder {
@@ -2646,8 +2654,8 @@ input, select, textarea {
 				transition: background-color 0.2s ease-in-out, border-color 0.2s ease-in-out, color 0.2s ease-in-out;
 				background-color: transparent;
 				border-radius: 100%;
-				box-shadow: inset 0 0 0 1px #4468ca;
-				color: #4468ca;
+				box-shadow: inset 0 0 0 1px var(--ab-logo-verde-escuro);
+				color: var(--ab-logo-verde-escuro);
 				display: block;
 				font-family: "Fjalla One", sans-serif;
 				font-size: 1.25rem;
@@ -2664,7 +2672,7 @@ input, select, textarea {
 				}
 
 					ul.icons li .icon:hover:active {
-						background-color: #4468ca;
+						background-color: var(--ab-logo-verde-escuro);
 						color: #ffffff;
 					}
 
@@ -3019,7 +3027,7 @@ input, select, textarea {
 
 			.profiles .profile .image {
 				border-radius: 100%;
-				border: 1px solid #4468ca;
+				border: 1px solid var(--ab-logo-verde-escuro);
 				padding: 0.75rem;
 				margin-bottom: 2rem;
 			}
@@ -3092,9 +3100,9 @@ input, select, textarea {
 		}
 
 		.wrapper.style2 {
-			background-color: #353535;
+			background-color: var(--ab-logo-azul-escuro);
 			color: rgba(255, 255, 255, 0.5);
-			background: #2f2f2f;
+			background: var(--ab-logo-azul-escuro);
 		}
 
 			.wrapper.style2 input, .wrapper.style2 select, .wrapper.style2 textarea {
@@ -3159,7 +3167,7 @@ input, select, textarea {
 				.wrapper.style2 input[type="button"].primary,
 				.wrapper.style2 button.primary,
 				.wrapper.style2 .button.primary {
-					background-color: #4468ca;
+					background-color: var(--ab-logo-verde-escuro);
 					box-shadow: none;
 					color: #ffffff !important;
 				}
@@ -3169,7 +3177,7 @@ input, select, textarea {
 					.wrapper.style2 input[type="button"].primary:hover,
 					.wrapper.style2 button.primary:hover,
 					.wrapper.style2 .button.primary:hover {
-						background-color: #5878d0;
+						background-color: var(--ab-logo-verde-medio);
 						box-shadow: none;
 					}
 
@@ -3205,8 +3213,8 @@ input, select, textarea {
 				.wrapper.style2 input[type="url"]:focus,
 				.wrapper.style2 select:focus,
 				.wrapper.style2 textarea:focus {
-					border-color: #4468ca;
-					box-shadow: 0 0 0 1px #4468ca;
+					border-color: var(--ab-logo-verde-escuro);
+					box-shadow: 0 0 0 1px var(--ab-logo-verde-escuro);
 				}
 
 			.wrapper.style2 select {
@@ -3215,7 +3223,7 @@ input, select, textarea {
 
 				.wrapper.style2 select option {
 					color: rgba(255, 255, 255, 0.5);
-					background-color: #353535;
+					background-color: var(--ab-logo-azul-escuro);
 				}
 
 			.wrapper.style2 input[type="checkbox"] + label,
@@ -3231,15 +3239,15 @@ input, select, textarea {
 
 			.wrapper.style2 input[type="checkbox"]:checked + label:before,
 			.wrapper.style2 input[type="radio"]:checked + label:before {
-				background-color: #4468ca;
-				border-color: #4468ca;
+				background-color: var(--ab-logo-verde-escuro);
+				border-color: var(--ab-logo-verde-escuro);
 				color: #ffffff;
 			}
 
 			.wrapper.style2 input[type="checkbox"]:focus + label:before,
 			.wrapper.style2 input[type="radio"]:focus + label:before {
-				border-color: #4468ca;
-				box-shadow: 0 0 0 1px #4468ca;
+				border-color: var(--ab-logo-verde-escuro);
+				box-shadow: 0 0 0 1px var(--ab-logo-verde-escuro);
 			}
 
 			.wrapper.style2 ::-webkit-input-placeholder {
@@ -3263,7 +3271,7 @@ input, select, textarea {
 			}
 
 			.wrapper.style2 header p {
-				color: #4468ca;
+				color: var(--ab-logo-verde-escuro);
 			}
 
 			.wrapper.style2 ul.alt li {
@@ -3380,7 +3388,7 @@ input, select, textarea {
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
-		background: #4468ca;
+		background: var(--ab-logo-verde-escuro);
 		color: rgba(255, 255, 255, 0.5);
 		cursor: default;
 		height: 3.25rem;
@@ -3491,7 +3499,7 @@ input, select, textarea {
 /* Menu */
 
 	#menu {
-		background-color: #353535;
+		background-color: var(--ab-logo-azul-escuro);
 		color: rgba(255, 255, 255, 0.5);
 		-moz-transform: translateX(20rem);
 		-webkit-transform: translateX(20rem);
@@ -3502,7 +3510,7 @@ input, select, textarea {
 		-ms-transition: -ms-transform 0.5s ease, box-shadow 0.5s ease, visibility 0.5s;
 		transition: transform 0.5s ease, box-shadow 0.5s ease, visibility 0.5s;
 		-webkit-overflow-scrolling: touch;
-		background: #5878d0;
+		background: var(--ab-logo-verde-medio);
 		box-shadow: none;
 		height: 100%;
 		max-width: 80%;
@@ -3574,7 +3582,7 @@ input, select, textarea {
 			#menu input[type="button"].primary,
 			#menu button.primary,
 			#menu .button.primary {
-				background-color: #4468ca;
+				background-color: var(--ab-logo-verde-escuro);
 				box-shadow: none;
 				color: #ffffff !important;
 			}
@@ -3584,7 +3592,7 @@ input, select, textarea {
 				#menu input[type="button"].primary:hover,
 				#menu button.primary:hover,
 				#menu .button.primary:hover {
-					background-color: #5878d0;
+					background-color: var(--ab-logo-verde-medio);
 					box-shadow: none;
 				}
 
@@ -3700,7 +3708,7 @@ input, select, textarea {
 /* Banner */
 
 	#banner {
-		background-color: #353535;
+		background-color: var(--ab-logo-azul-escuro);
 		color: rgba(255, 255, 255, 0.5);
 		display: -moz-flex;
 		display: -webkit-flex;
@@ -3788,7 +3796,7 @@ input, select, textarea {
 			#banner input[type="button"].primary,
 			#banner button.primary,
 			#banner .button.primary {
-				background-color: #4468ca;
+				background-color: var(--ab-logo-verde-escuro);
 				box-shadow: none;
 				color: #ffffff !important;
 			}
@@ -3798,7 +3806,7 @@ input, select, textarea {
 				#banner input[type="button"].primary:hover,
 				#banner button.primary:hover,
 				#banner .button.primary:hover {
-					background-color: #5878d0;
+					background-color: var(--ab-logo-verde-medio);
 					box-shadow: none;
 				}
 
@@ -3834,8 +3842,8 @@ input, select, textarea {
 			#banner input[type="url"]:focus,
 			#banner select:focus,
 			#banner textarea:focus {
-				border-color: #4468ca;
-				box-shadow: 0 0 0 1px #4468ca;
+				border-color: var(--ab-logo-verde-escuro);
+				box-shadow: 0 0 0 1px var(--ab-logo-verde-escuro);
 			}
 
 		#banner select {
@@ -3844,7 +3852,7 @@ input, select, textarea {
 
 			#banner select option {
 				color: rgba(255, 255, 255, 0.5);
-				background-color: #353535;
+				background-color: var(--ab-logo-azul-escuro);
 			}
 
 		#banner input[type="checkbox"] + label,
@@ -3860,15 +3868,15 @@ input, select, textarea {
 
 		#banner input[type="checkbox"]:checked + label:before,
 		#banner input[type="radio"]:checked + label:before {
-			background-color: #4468ca;
-			border-color: #4468ca;
+			background-color: var(--ab-logo-verde-escuro);
+			border-color: var(--ab-logo-verde-escuro);
 			color: #ffffff;
 		}
 
 		#banner input[type="checkbox"]:focus + label:before,
 		#banner input[type="radio"]:focus + label:before {
-			border-color: #4468ca;
-			box-shadow: 0 0 0 1px #4468ca;
+			border-color: var(--ab-logo-verde-escuro);
+			box-shadow: 0 0 0 1px var(--ab-logo-verde-escuro);
 		}
 
 		#banner ::-webkit-input-placeholder {
@@ -3892,7 +3900,7 @@ input, select, textarea {
 		}
 
 		#banner header p {
-			color: #4468ca;
+			color: var(--ab-logo-verde-escuro);
 		}
 
 		#banner ul.alt li {
@@ -4094,7 +4102,7 @@ input, select, textarea {
 
 	#footer {
 		padding: 6rem 0 4rem 0 ;
-		background: #353535;
+		background: var(--ab-logo-azul-escuro);
 		color: rgba(255, 255, 255, 0.5);
 		cursor: default;
 		text-align: center;
@@ -4102,6 +4110,11 @@ input, select, textarea {
 
 		#footer ul.icons {
 			margin-bottom: 0;
+		}
+
+		#footer ul.icons a {
+			box-shadow: inset 0 0 0 1px var(--ab-logo-branco);
+			color: var(--ab-logo-branco);
 		}
 
 		#footer .copyright {
