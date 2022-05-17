@@ -4117,12 +4117,20 @@ input, select, textarea {
   }
 
   #footer .divider {
+    border-top: var(--ab-divisores) solid 1px;
+  }
+
+  #footer .footer-wrapper {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
     padding: 2em 4em;
-    border-top: var(--ab-divisores) solid 1px;
+  }
+  
+  #footer .copyleft {
+    padding: 1em 4em;
+    text-align: start;
   }
 
   #footer .divider ul.icons li {
@@ -4148,6 +4156,9 @@ input, select, textarea {
     box-shadow: inset 0 0 0 1px var(--ab-logo-branco);
     color: var(--ab-logo-branco);
     margin: 0;
+    line-height: 35px;
+    height: 35px;
+    width: 35px;
   }
 
   @media screen and (max-width: 980px) {
@@ -4164,7 +4175,7 @@ input, select, textarea {
       padding: 0 1.5rem;
     }
 
-    #footer .divider {
+    #footer .footer-wrapper {
       flex-direction: column-reverse;
       gap: 1em;
     }
