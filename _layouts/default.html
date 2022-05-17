@@ -8,10 +8,12 @@
 	<head>
 		<title>{{ site.title }}</title>
 		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5" />
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
     {% include favicon.html %}
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link rel="stylesheet" href="assets/css/main.css" />
     <link rel="stylesheet" href="assets/css/custom.css" />
 
@@ -33,47 +35,18 @@
 		<!-- Content from _pages folder -->
 		{{ content }}
 
-		<!-- Contact -->
-			<section class="wrapper style2">
+		<!-- sponsors -->
+			<!-- <section class="wrapper style2">
 				<div class="inner narrow">
 					<header class="heading major">
-						<h2>Get in Touch</h2>
-						<p>Amet ligula vulputate consequat sit amet nullam</p>
+						<h2>Patrocidadores</h2>
+						<p>Quem está ajudando nosso evento acondecer:</p>
 					</header>
-					<form action="#" method="post">
-						<div class="field half">
-							<input name="name" id="name" placeholder="Your Name" type="text" />
-						</div>
-						<div class="field half">
-							<input name="email" id="email" placeholder="Your Email Address" type="email" />
-						</div>
-						<div class="field">
-							<textarea name="message" id="message" rows="6" placeholder="Your Message"></textarea>
-						</div>
-						<div class="field">
-							<ul class="actions special">
-								<li><button class="button primary" type="submit">Send Message</button></li>
-							</ul>
-						</div>
-					</form>
 				</div>
-			</section>
+			</section> -->
 
 		<!-- Footer -->
-			<section id="footer">
-				<div class="inner">
-					<ul class="icons">
-						<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
-						<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
-						<li><a href="#" class="icon solid fa-map-marker-alt"><span class="label">Location</span></a></li>
-						<li><a href="#" class="icon solid fa-phone"><span class="label">Phone</span></a></li>
-						<li><a href="#" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
-					</ul>
-				</div>
-				<div class="copyright">
-					&copy; Untitled. All rights reserved.
-				</div>
-			</section>
+    {% include footer.html %}
 
 		<!-- Scripts -->
 			<script src="assets/js/jquery.min.js"></script>
