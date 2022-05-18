@@ -1,32 +1,32 @@
-- question: Sou estudante. Como aplicar o meu desconto?
-  answer: Para se inscrever com estudante, basta usar o código de desconto <b>f5800dac3cc503a8e8b386b612144256</b>. Após o registro, você deve enviar o comprovante de matrícula ou declaração da instituição de ensino para <b>inscricoes@agilebrazil.com</b>. Assim, faremos a liberação da inscrição no sistema e você poderá prosseguir com o pagamento.
-
 - question: Sou membro da Agile Alliance. Tenho desconto?
-  answer: Sim! Se você é membro ativo da Agile Alliance, você tem desconto na sua inscrição, diretamente no sistema de inscrições.
-
-- question: Vocês aceitam empenhos?
-  answer: Sim, empenhos podem ser usados como forma de pagamento. Para este tipo de inscrição, é cobrado o valor da inscrição da faixa "Última hora" da edição vigente, porque só receberemos após o evento. Para pagamento por empenho, envie um e-mail para inscricoes@agilebrazil.com. Será um prazer te atender.
-
-- question: Pagamento por empenho não tem direito a desconto de grupo?
-  answer: Não. Pois o pagamento ocorre após a realização do evento e o desconto de grupo é um benefício apenas para inscrições antes da data da conferência.
+  answer: Sim! Se você é membro ativo da Agile Alliance, você tem 10% de desconto na sua inscrição, diretamente no sistema de inscrições.
 
 - question: Agile Brazil tem descontos em inscrições para grupos?
-  answer:  Sim, para inscrições de Early Bird, preço Normal e de Última Hora. Para montar um grupo, envie um e-mail para inscricoes@agilebrazil.com. Apenas note que descontos de grupo <strong>não se aplicam</strong> à faixa Super Early Bird.
+  answer:  Sim, para inscrições de Early Bird, preço Normal e de Última Hora. Para montar um grupo, envie um e-mail para inscricoes@agilebrazil.com. Empresas também podem inscrever seus funcionários como grupo. Apenas note que descontos de grupo <strong>não se aplicam</strong> à faixa Super Early Bird, nem a pagamentos por empenho.
 
 - question: A partir de quantas pessoas podemos considerar “grupo”?
-  answer: Grupos terão descontos relativos à quantidade de pessoas, para faixas a partir de Early Bird. De 05 a 14 pessoas – 10% de desconto na faixa vigente. De 15 a 29 pessoas – 15% de desconto na faixa vigente. De 30 a 49 pessoas – 20% de desconto na faixa vigente. A partir de 50 pessoas – 25% de desconto na faixa vigente.
+  answer: Grupos terão descontos relativos à quantidade de pessoas, para faixas a partir de Early Bird. De 05 a 14 pessoas – 10% de desconto na faixa vigente. De 15 a 29 pessoas – 15% de desconto na faixa vigente. De 30 a 49 pessoas – 20% de desconto na faixa vigente. A partir de 50 pessoas – 25% de desconto na faixa vigente. Lembrando que descontos de grupo <strong>não se aplicam</strong> à faixa Super Early Bird, nem a pagamentos por empenho.
 
 - question: É possível combinar descontos de vários grupos?
   answer: Não. Só é possível usar um token de grupo/desconto por inscrição.
 
-- question: Se eu fizer a minha inscrição, mas não puder comparecer, eu perco meu dinheiro?
-  answer: "Não, você pode transferir gratuitamente para outra pessoa ou você pode solicitar devolução, mas nesse caso ela será parcial. Em casos de devolução, o percentual de reembolso será calculado de acordo com a data do pedido do cancelamento, conforme a tabela a seguir: até um mês antes do evento: 70% do valor pago; entre 1 mês antes do evento e 72 horas antes do início: 50% de restituição; a partir de 72 horas antes do evento: não há restituição."
+- question: A inscrição de estudante será somente para alunos da graduação, ou poderá também ser utilizado por pós-graduandos?
+  answer: Você também pode se inscrever como pós-graduando. Basta que no momento do credenciamento, você tenha as comprovações solicitadas.
+
+- question: Sou estudante. Como aplicar o meu desconto?
+  answer: Para se beneficiar do desconto para estudantes, você deve inserir o código <strong>f5800dac3cc503a8e8b386b612144256</strong> no campo "código de desconto", disponível no formulário de inscrição. Após fazer o registro, será necessário enviar a declaração da instituição de ensino para inscricoes@agilebrazil.com. Somente após o envio da declaração é que sua inscrição será liberada para pagamento.
 
 - question: Fiz minha inscrição como estudante. O que acontece se eu não apresentar a comprovação da universidade?
   answer: A carteira de estudante ou declaração original feita pela universidade/faculdade é obrigatória e, caso não apresentado, só poderá ingressar na conferência mediante o pagamento da diferença do valor para a inscrição de última hora.
 
-- question: A inscrição de estudante será somente para alunos da graduação, ou poderá também ser utilizado por pós-graduandos?
-  answer: Você também pode se inscrever como pós-graduando. Basta que no momento do credenciamento, você tenha as comprovações solicitadas.
+- question: Vocês aceitam empenhos?
+  answer: Sim, empenhos podem ser usados como forma de pagamento. Para este tipo de inscrição, é cobrado o valor da inscrição da faixa "Última hora" da edição vigente, porque só receberemos após o evento. Para pagamento por empenho, envie um e-mail para inscricoes@agilebrazil.com. Será um prazer te atender.
+
+- question: Pagamento por empenho tem direito a desconto de grupo?
+  answer: Não. Pois o pagamento ocorre após a realização do evento e o desconto de grupo é um benefício apenas para inscrições antes da data da conferência.
 
 - question: O que acontece se eu não pagar a inscrição no prazo de 7 dias corridos?
   answer: Após 7 dias você receberá um email informando que a inscrição será cancelada. O cancelamento será efetivado caso o pagamento não ocorra em até 7 dias após o recebimento deste email.
+
+- question: Se eu fizer a minha inscrição, mas não puder comparecer, eu perco meu dinheiro?
+  answer: "Não, você pode transferir gratuitamente para outra pessoa ou você pode solicitar devolução, mas nesse caso ela será parcial. Em casos de devolução, o percentual de reembolso será calculado de acordo com a data do pedido do cancelamento, conforme a tabela a seguir: até um mês antes do evento: 70% do valor pago; entre 1 mês antes do evento e 72 horas antes do início: 50% de restituição; a partir de 72 horas antes do evento: não há restituição."
