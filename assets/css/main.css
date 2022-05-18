@@ -3725,7 +3725,7 @@ input, select, textarea {
 		justify-content: center;
 		background-attachment: fixed;
 		background-image: url("../images/agile-brazil-2016-volunteers.png");
-		background-position: bottom left;
+		background-position: bottom left 40%;
 		background-size: cover;
 		cursor: default;
 		height: 90vh;
