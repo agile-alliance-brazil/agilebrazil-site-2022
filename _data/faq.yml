@@ -4,17 +4,17 @@
 - question: Agile Brazil tem descontos em inscrições para grupos?
   answer:  Sim, para inscrições de Early Bird, preço Normal e de Última Hora. Para montar um grupo, envie um e-mail para inscricoes@agilebrazil.com. Empresas também podem inscrever seus funcionários como grupo. Apenas note que descontos de grupo <strong>não se aplicam</strong> à faixa Super Early Bird, nem a pagamentos por empenho.
 
-- question: A partir de quantas pessoas podemos considerar “grupo”?
-  answer: Grupos terão descontos relativos à quantidade de pessoas, para faixas a partir de Early Bird. De 05 a 14 pessoas – 10% de desconto na faixa vigente. De 15 a 29 pessoas – 15% de desconto na faixa vigente. De 30 a 49 pessoas – 20% de desconto na faixa vigente. A partir de 50 pessoas – 25% de desconto na faixa vigente. Lembrando que descontos de grupo <strong>não se aplicam</strong> à faixa Super Early Bird, nem a pagamentos por empenho.
+- question: A partir de quantas pessoas podemos considerar "grupo"?
+  answer: Grupos terão descontos relativos à quantidade de pessoas, sobre a faixa vigente, a partir de Early Bird. De 05 a 14 pessoas – 10% de desconto. De 15 a 29 pessoas – 15% de desconto. De 30 a 49 pessoas – 20% de desconto. A partir de 50 pessoas – 25% de desconto. Lembrando que descontos de grupo <strong>não se aplicam</strong> à faixa Super Early Bird, nem a pagamentos por empenho.
 
 - question: É possível combinar descontos de vários grupos?
   answer: Não. Só é possível usar um token de grupo/desconto por inscrição.
 
-- question: A inscrição de estudante será somente para alunos da graduação, ou poderá também ser utilizado por pós-graduandos?
-  answer: Você também pode se inscrever como pós-graduando. Basta que no momento do credenciamento, você tenha as comprovações solicitadas.
+- question: Sou estudante. Como aplico o meu desconto?
+  answer: Para se beneficiar do desconto para estudantes, você deve inserir o código <strong>f5800dac3cc503a8e8b386b612144256</strong> no campo "código de desconto" do formulário de inscrição. Após fazer o registro, será necessário envie a declaração da instituição de ensino para inscricoes@agilebrazil.com. Somente após o envio da declaração é que sua inscrição será liberada para pagamento.
 
-- question: Sou estudante. Como aplicar o meu desconto?
-  answer: Para se beneficiar do desconto para estudantes, você deve inserir o código <strong>f5800dac3cc503a8e8b386b612144256</strong> no campo "código de desconto", disponível no formulário de inscrição. Após fazer o registro, será necessário enviar a declaração da instituição de ensino para inscricoes@agilebrazil.com. Somente após o envio da declaração é que sua inscrição será liberada para pagamento.
+- question: A inscrição de estudante com desconto vale somente para alunos da graduação, ou poderá também ser utilizada por pós-graduandos?
+  answer: Você também pode se inscrever como pós-graduando. No momento do credenciamento, é importante que você tenha as comprovações solicitadas.
 
 - question: Fiz minha inscrição como estudante. O que acontece se eu não apresentar a comprovação da universidade?
   answer: A carteira de estudante ou declaração original feita pela universidade/faculdade é obrigatória e, caso não apresentado, só poderá ingressar na conferência mediante o pagamento da diferença do valor para a inscrição de última hora.
@@ -28,5 +28,11 @@
 - question: O que acontece se eu não pagar a inscrição no prazo de 7 dias corridos?
   answer: Após 7 dias você receberá um email informando que a inscrição será cancelada. O cancelamento será efetivado caso o pagamento não ocorra em até 7 dias após o recebimento deste email.
 
+- question: Recebi uma cobrança de pagamento por boleto, mas já paguei. O que devo fazer?
+  answer: Quando o pagamento é via boleto, há o tempo de processamento bancário. Com isso, é possível que o e-mail tenha sido enviado entre o momento do pagamento e a notificação do nosso sistema. Se você já pagou, o status deve ser atualizado em breve.
+
 - question: Se eu fizer a minha inscrição, mas não puder comparecer, eu perco meu dinheiro?
   answer: "Não, você pode transferir gratuitamente para outra pessoa ou você pode solicitar devolução, mas nesse caso ela será parcial. Em casos de devolução, o percentual de reembolso será calculado de acordo com a data do pedido do cancelamento, conforme a tabela a seguir: até um mês antes do evento: 70% do valor pago; entre 1 mês antes do evento e 72 horas antes do início: 50% de restituição; a partir de 72 horas antes do evento: não há restituição."
+
+- question: Preciso da nota fiscal da inscrição para apresentar para minha empresa. É possível emití-la?
+  answer: Com certeza! Após realizar o pagamento, basta solicitar a NF pelo e-mail inscricoes@agilebrazil.com.
