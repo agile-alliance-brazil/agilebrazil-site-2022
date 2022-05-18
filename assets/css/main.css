@@ -4110,10 +4110,12 @@ input, select, textarea {
 
   #footer-header h3 {
     color: var(--ab-logo-branco);
+    margin: 1em 0 0.2em;
   }
 
   #footer-header a {
-    color: var(--ab-logo-verde-medio)
+    color: var(--ab-logo-verde-medio);
+    display: block;
   }
 
   #footer .divider {
@@ -4130,7 +4132,6 @@ input, select, textarea {
   
   #footer .copyleft {
     padding: 1em 4em;
-    text-align: start;
   }
 
   #footer .divider ul.icons li {

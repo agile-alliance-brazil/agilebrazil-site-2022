@@ -1,71 +1,27 @@
 <!-- Footer -->
-<footer>
-  <div id="footer">
-    <section class="divider footer-wrapper">
-      <div id="footer-header">
-        <h3>Fale com a Agile Brazil</h4>
-        <a href="mailto:contato@agilebrazil.com">contato@agilebrazil.com</a>
-        <br />
-        <a href="mailto:patrocinios@agilebrazil.com"
-          >patrocinios@agilebrazil.com</a
-        >
-      </div>
-      <div class="social-media">
-        <ul class="icons">
+<footer id="footer">
+  <section class="divider footer-wrapper">
+    <div id="footer-header">
+      <h3>Fale com a Agile Brazil</h4>
+      <a href="mailto:contato@agilebrazil.com">contato@agilebrazil.com</a>
+      <a href="mailto:patrocinios@agilebrazil.com">patrocinios@agilebrazil.com</a>
+    </div>
+    <div class="social-media">
+      <ul class="icons">
+        {% for item in site.data.social %}
         <li>
-          <a
-            href="https://www.facebook.com/AgileBrazil"
-            target="_blank"
-            class="icon brands fa-facebook-f"
-            aria-label="Facebook"
-            >
+          <a href="{{item.url}}"
+             target="_blank"
+             class="icon brands {{item.icon}}"
+             aria-label="{{item.media}}">
           </a>
         </li>
-        <li>
-          <a
-            href="https://twitter.com/agilebrazil"
-            target="_blank"
-            class="icon brands fa-twitter"
-            aria-label="Twitter"
-            ></a
-          >
-        </li>
-        <li>
-          <a
-            href="https://www.linkedin.com/company/agilebrazil"
-            target="_blank"
-            class="icon brands fa-linkedin"
-            aria-label="Linkedin"
-            ></a
-          >
-        </li>
-        <li>
-          <a
-            href="https://www.instagram.com/agilebrazil/"
-            target="_blank"
-            class="icon brands fa-instagram"
-            aria-label="Instagram"
-          ></a>
-        </li>
-        <li>
-          <a
-            href="https://www.youtube.com/channel/UCq45wLjEs9BRRreV02Fe8rw"
-            target="_blank"
-            class="icon brands fa-youtube"
-            aria-label="Youtube"
-          ></a>
-        </li>
-        <li>
-          <a
-            href="https://vimeo.com/agilebrazil"
-            target="_blank"
-            class="icon brands fa-vimeo"
-            aria-label="Vímeo"
-          ></a>
-        </li>
+        {% endfor %}
       </ul>
-      </div>
-    </section>
-      <section class="divider copyleft"><span>&copy; Copyleft - Agile Brazil 2010-2022.</span></section>
-  </div>
+    </div>
+  </section>
+
+  <section class="divider copyleft">
+    <span>&copy; Copyleft - Agile Brazil 2010-2022.</span>
+  </section>
 </footer>

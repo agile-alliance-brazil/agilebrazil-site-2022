@@ -1,0 +1,23 @@
+- media: Facebook
+  icon: fa-facebook-f
+  url: https://www.facebook.com/AgileBrazil
+
+- media: Twitter
+  icon: fa-twitter
+  url: https://twitter.com/agilebrazil
+
+- media: LinkedIn
+  icon: fa-linkedin
+  url: https://www.linkedin.com/company/agilebrazil
+
+- media: Instagram
+  icon: fa-instagram
+  url: https://www.instagram.com/agilebrazil/
+
+- media: YouTube
+  icon: fa-youtube
+  url: https://www.youtube.com/channel/UCq45wLjEs9BRRreV02Fe8rw
+
+- media: Vimeo
+  icon: fa-vimeo
+  url: https://vimeo.com/agilebrazil
