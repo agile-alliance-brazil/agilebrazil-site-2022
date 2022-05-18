@@ -1,12 +1,15 @@
 <!-- Footer -->
 <footer id="footer">
   <section class="divider footer-wrapper">
-    <div id="footer-header">
-      <h3>Fale com a Agile Brazil</h4>
-      <a href="mailto:contato@agilebrazil.com">contato@agilebrazil.com</a>
-      <a href="mailto:patrocinios@agilebrazil.com">patrocinios@agilebrazil.com</a>
+    <div class="emails">
+      <h3>Fale com a Agile Brazil</h3>
+      {% for email in site.emails %}
+      <a href="mailto:{{email}}">{{email}}</a>
+      {% endfor %}
     </div>
+
     <div class="social-media">
+      <h3>Siga a Agile Brazil</h3>
       <ul class="icons">
         {% for item in site.data.social %}
         <li>

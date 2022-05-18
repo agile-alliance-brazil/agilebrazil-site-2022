@@ -4108,14 +4108,20 @@ input, select, textarea {
 		text-align: center;
 	}
 
-  #footer-header h3 {
+  #footer h3 {
     color: var(--ab-logo-branco);
-    margin: 1em 0 0.2em;
+    font-size: 2rem;
+    margin-top: 0.5rem;
   }
 
-  #footer-header a {
+  #footer a {
     color: var(--ab-logo-verde-medio);
     display: block;
+  }
+
+  #footer .emails h3 {
+    font-size: 1.5rem;
+    transform: translateY(0.5em);
   }
 
   #footer .divider {
@@ -4179,6 +4185,7 @@ input, select, textarea {
     #footer .footer-wrapper {
       flex-direction: column-reverse;
       gap: 1em;
+      padding: 2em 2em;
     }
 
   }

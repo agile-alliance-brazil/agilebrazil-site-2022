@@ -29,13 +29,9 @@ description: >-
   Estamos juntos para compartilhar conhecimento com todos aqueles que querem aprender e ensinar, independente da sua experiência com agilidade.
   O evento tem como propósito promover a comunicação e a colaboração entre seus integrantes visando a disseminação da cultura Ágil por todo o país.
 
-social:
-  name: Agile Brazil
-  links:
-    - https://twitter.com/agilebrazil
-    - https://www.linkedin.com/company/agilebrazil
-    - https://www.instagram.com/agilebrazil
-    - https://www.facebook.com/AgileBrazil
+emails:
+  - contato@agilebrazil.com
+  - patrocinios@agilebrazil.com
 
 url: "https://www.agilebrazil.com"
 baseurl: "/2022" # the subpath of your site, e.g. /blog
