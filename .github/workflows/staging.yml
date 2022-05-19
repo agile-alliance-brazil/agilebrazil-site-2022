@@ -34,6 +34,7 @@ jobs:
         uses: helaili/jekyll-action@v2
         with:
           build_only: true
+          target_path: _build
 
       - name: 🔐 Install SSH Key
         uses: shimataro/ssh-key-action@v2
@@ -48,3 +49,7 @@ jobs:
         # run: rsync -zav --progress --delete -e 'ssh -o StrictHostKeyChecking=no' jekyll_build/ agilebrazil@staging.agilebrazil.com:staging.agilebrazil.com/2022
         # run: rsync -zav --progress --delete -e 'ssh -o StrictHostKeyChecking=no' "/github/workspace/jekyll_build" agilebrazil@staging.agilebrazil.com:staging.agilebrazil.com/2022
         run: ls -la /home/runner/work/agilebrazil-site-2022/agilebrazil-site-2022
+      - name: 🚀 deploy on staging2
+        # run: rsync -zav --progress --delete -e 'ssh -o StrictHostKeyChecking=no' jekyll_build/ agilebrazil@staging.agilebrazil.com:staging.agilebrazil.com/2022
+        # run: rsync -zav --progress --delete -e 'ssh -o StrictHostKeyChecking=no' "/github/workspace/jekyll_build" agilebrazil@staging.agilebrazil.com:staging.agilebrazil.com/2022
+        run: ls -la /home/runner/work/agilebrazil-site-2022
