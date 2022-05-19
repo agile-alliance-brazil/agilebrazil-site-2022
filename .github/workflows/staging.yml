@@ -37,7 +37,8 @@ jobs:
       #    target_path: _build
 
       - name: 🔨 build staging
-        uses: jerryjvl/jekyll-build-action@v1
+        #uses: jerryjvl/jekyll-build-action@v1
+        uses:  lemonarc/jekyll-action@1.0.0
 
       - name: 🔐 Install SSH Key
         uses: shimataro/ssh-key-action@v2
