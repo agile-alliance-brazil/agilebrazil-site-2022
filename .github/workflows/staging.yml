@@ -12,17 +12,17 @@ jobs:
       - name: 📂 setup
         uses: actions/checkout@v2
       
-      #- uses: actions/cache@v2
-      #  with:
-      #    path: vendor/bundle
-      #    key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile') }}
-      #    restore-keys: |
-      #      ${{ runner.os }}-gems-
+      - uses: actions/cache@v2
+        with:
+          path: vendor/bundle
+          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile') }}
+          restore-keys: |
+            ${{ runner.os }}-gems-
 
-      #- name: 💎 setup ruby
-      #  uses: ruby/setup-ruby@v1
-      #  with:
-      #    ruby-version: 2.6
+      - name: 💎 setup ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 2.6
 
       # - name: 🚀 deploy on gh-pages
       #  uses: helaili/jekyll-action@v2
@@ -30,19 +30,19 @@ jobs:
       #    token: ${{ secrets.GITHUB_TOKEN }}
       #    jekyll_env: development
 
-      #- name: 🔨 build staging
-      #  uses: helaili/jekyll-action@v2
-      #  with:
-      #    build_only: true
+      - name: 🔨 build staging
+        uses: helaili/jekyll-action@v2
+        with:
+          build_only: true
 
-      #- name: 🔐 Install SSH Key
-      #  uses: shimataro/ssh-key-action@v2
-      #  with:
-      #    key: ${{ secrets.SSH_PRIVATE_KEY }} 
-      #    known_hosts: 'just-a-placeholder-so-we-dont-get-errors'
+      - name: 🔐 Install SSH Key
+        uses: shimataro/ssh-key-action@v2
+        with:
+          key: ${{ secrets.SSH_PRIVATE_KEY }} 
+          known_hosts: 'just-a-placeholder-so-we-dont-get-errors'
       
-      #- name: 🎯 Adding Known Hosts
-      #  run: ssh-keyscan -H staging.agilebrazil.com >> ~/.ssh/known_hosts
+      - name: 🎯 Adding Known Hosts
+        run: ssh-keyscan -H staging.agilebrazil.com >> ~/.ssh/known_hosts
       
       - name: 🚀 deploy on staging
         # run: rsync -zav --progress --delete -e 'ssh -o StrictHostKeyChecking=no' jekyll_build/ agilebrazil@staging.agilebrazil.com:staging.agilebrazil.com/2022
