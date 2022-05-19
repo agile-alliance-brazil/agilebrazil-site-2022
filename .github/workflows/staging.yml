@@ -47,4 +47,4 @@ jobs:
       - name: 🚀 deploy on staging
         # run: rsync -zav --progress --delete -e 'ssh -o StrictHostKeyChecking=no' jekyll_build/ agilebrazil@staging.agilebrazil.com:staging.agilebrazil.com/2022
         # run: rsync -zav --progress --delete -e 'ssh -o StrictHostKeyChecking=no' "/github/workspace/jekyll_build" agilebrazil@staging.agilebrazil.com:staging.agilebrazil.com/2022
-        run: ls -la /home/runner/work
+        run: ls -la /home/runner/work/agilebrazil-site-2022
