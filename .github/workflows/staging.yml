@@ -30,11 +30,14 @@ jobs:
       #    token: ${{ secrets.GITHUB_TOKEN }}
       #    jekyll_env: development
 
+      #- name: 🔨 build staging
+      #  uses: helaili/jekyll-action@v2
+      #  with:
+      #    build_only: true
+      #    target_path: _build
+
       - name: 🔨 build staging
-        uses: helaili/jekyll-action@v2
-        with:
-          build_only: true
-          target_path: _build
+        run: bundle exec jekyll build
 
       - name: 🔐 Install SSH Key
         uses: shimataro/ssh-key-action@v2
