@@ -24,21 +24,12 @@ jobs:
         with:
           ruby-version: 2.6
 
-      # - name: 🚀 deploy on gh-pages
-      #  uses: helaili/jekyll-action@v2
-      #  with:
-      #    token: ${{ secrets.GITHUB_TOKEN }}
-      #    jekyll_env: development
-
-      #- name: 🔨 build staging
-      #  uses: helaili/jekyll-action@v2
-      #  with:
-      #    build_only: true
-      #    target_path: _build
-
       - name: 🔨 build staging
-        #uses: jerryjvl/jekyll-build-action@v1
-        uses:  lemonarc/jekyll-action@1.0.0
+        #uses: lemonarc/jekyll-action@1.0.0
+        run: |
+          bundle config path vendor/bundle
+          bundle install
+          bundle exec jekyll build
 
       - name: 🔐 Install SSH Key
         uses: shimataro/ssh-key-action@v2
@@ -51,5 +42,3 @@ jobs:
       
       - name: 🚀 deploy on staging
         run: rsync -zav --progress --delete -e 'ssh -o StrictHostKeyChecking=no' _site/ agilebrazil@staging.agilebrazil.com:staging.agilebrazil.com/2022
-        # run: rsync -zav --progress --delete -e 'ssh -o StrictHostKeyChecking=no' "/github/workspace/jekyll_build" agilebrazil@staging.agilebrazil.com:staging.agilebrazil.com/2022
-        #run: ls -la /home/runner/work/agilebrazil-site-2022/agilebrazil-site-2022
