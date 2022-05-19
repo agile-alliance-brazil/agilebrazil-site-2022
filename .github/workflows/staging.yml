@@ -37,7 +37,7 @@ jobs:
       #    target_path: _build
 
       - name: 🔨 build staging
-        run: bundle exec jekyll build
+        uses: jerryjvl/jekyll-build-action@v1
 
       - name: 🔐 Install SSH Key
         uses: shimataro/ssh-key-action@v2
