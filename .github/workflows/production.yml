@@ -25,9 +25,11 @@ jobs:
           ruby-version: 2.6
 
       - name: 🔨 build production
-        uses: helaili/jekyll-action@v2
-        with:
-          build_only: true
+        #uses: lemonarc/jekyll-action@1.0.0
+        run: |
+          bundle config path vendor/bundle
+          bundle install
+          bundle exec jekyll build
 
       - name: 🔐 Install SSH Key
         uses: shimataro/ssh-key-action@v2
@@ -39,4 +41,4 @@ jobs:
         run: ssh-keyscan -H agilebrazil.com >> ~/.ssh/known_hosts
       
       - name: 🚀 deploy on production
-        run: rsync -zav --progress --delete -e 'ssh -o StrictHostKeyChecking=no' build/ agilebrazil@agilebrazil.com:agilebrazil.com/2022
+        run: rsync -zav --progress --delete -e 'ssh -o StrictHostKeyChecking=no' _site/ agilebrazil@agilebrazil.com:agilebrazil.com/2022
