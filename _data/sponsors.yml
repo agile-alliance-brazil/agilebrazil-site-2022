@@ -1,20 +1,19 @@
-- name: Rafael Albino
-  logo: assets/images/sponsor-logo-rafael-albino.png
-  url: https://linktr.ee/rapha_albino
-  kind: diversity
+- name: Globant
+  logo: assets/images/sponsors/sponsor-logo-globant.png
+  url: https://www.globant.com/pt-br
+  kind: master
+  
+- name: Os Agilistas - DTI
+  logo: assets/images/sponsors/sponsor-logo-dti.png
+  url: https://www.dtidigital.com.br
+  kind: master
 
 - name: Criativa Soluções em Eventos
-  logo: assets/images/sponsor-logo-criativa.png
+  logo: assets/images/sponsors/sponsor-logo-criativa.png
   url: http://criativaeventos.net
   kind: support
 
 - name: Agile Alliance
-  logo: assets/images/sponsor-logo-agile-alliance.png
+  logo: assets/images/sponsors/sponsor-logo-agile-alliance.png
   url: https://www.agilealliance.org/agilealliancebrazil
   kind: support
-
-- name: Wildtech
-  logo: assets/images/sponsor-logo-wildtech.png
-  url: https://instagram.com/wildtech_br
-  kind: master
-  
