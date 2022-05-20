@@ -6,10 +6,6 @@
   url: /inscricoes
   production: true
 
-- name: Programação
-  url: /programa
-  production: false
-
 - name: Patrocínio
   url: /patrocinio
   production: true
