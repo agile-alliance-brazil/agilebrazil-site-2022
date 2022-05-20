@@ -23,11 +23,11 @@ permalink: /inscricoes
         {% else %}
           {% assign current = '' %}
         {% endif %} 
-        <div class="rate {{current}}">
+        <a class="rate {{current}}" href="{{ site.sistemas.inscricoes }}">
           <h3>{{ticket.name}}</h3>
           <p>Até {{ticket.end | date: "%d/%m/%Y"}} ou {{ticket.amount}} unidades.</p>
           <p class="price">R${{ticket.price}}</p>
-        </div>
+        </a>
       {% endfor %}
     </div>
 

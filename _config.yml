@@ -34,6 +34,10 @@ emails:
   - contato@agilebrazil.com
   - patrocinios@agilebrazil.com
 
+sistemas:
+  submissoes: "https://submissoes.agilebrazil.com"
+  inscricoes: "https://inscricoes.agilebrazil.com/"
+
 url: "https://www.agilebrazil.com"
 baseurl: "/2022" # the subpath of your site, e.g. /blog
 
