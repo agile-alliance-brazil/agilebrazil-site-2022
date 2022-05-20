@@ -4059,14 +4059,6 @@ input, select, textarea {
 						line-height: 3rem;
 					}
 
-					#banner > .inner br {
-						display: none;
-					}
-
-					#banner > .inner p {
-						font-size: 1rem;
-					}
-
 					#banner > .inner .icon {
 						margin-bottom: 2rem;
 					}
