@@ -18,15 +18,23 @@
   margin: 1rem 0 3rem;
 }
 
-.registration .rate {
+.registration a.rate {
   box-sizing: border-box;
   border: 1px solid #ccc;
+  cursor: default;
+  display: block;
   flex: 1 1 0;
   padding: 1rem;
+  text-decoration: none;
 }
 
-.registration .rate.current {
-  background-color: rgba(67, 172, 75, 0.5);
+.registration a.rate:visited {
+  color: inherit;
+} 
+
+.registration a.rate.current {
+  background-color: rgba(255, 165, 6, 0.42);
+  cursor: pointer;
 }
 
 .registration .rate h3 {
