@@ -20,7 +20,7 @@ permalink: /inscricoes
         {% else %}
           {% assign current = '' %}
         {% endif %} 
-        <a class="rate {{current}}" href="{{ site.sistemas.inscricoes }}">
+        <a class="rate {{current}}" href="{{ site.sistemas.inscricoes }}" target="_blank">
           <h3>{{ticket.name}}</h3>
           <p>Até {{ticket.end | date: "%d/%m/%Y"}} ou {{ticket.amount}} unidades.</p>
           <p class="price">R${{ticket.price}}</p>
