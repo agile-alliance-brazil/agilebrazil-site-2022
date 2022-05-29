@@ -13,3 +13,7 @@
 - name: Código de Conduta
   url: /codigo-de-conduta
   production: true
+
+- name: Diversidade & Inclusão
+  url: /diversidade-e-inclusao
+  production: true
