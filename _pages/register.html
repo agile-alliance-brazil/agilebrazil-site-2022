@@ -15,10 +15,7 @@ permalink: /inscricoes
 
     <div class="row gtr-50 gtr-uniform">
       {% for ticket in site.data.register %}
-        {% assign price = ticket.price | split: "," %}
-        {% assign start = ticket.start | date: "%Y-%m-%d" %}
-        {% assign end = ticket.end | date: "%Y-%m-%d" %}
-        {% if start <= now and end > now %}
+        {% if ticket.current %}
           {% assign current = 'current' %}
         {% else %}
           {% assign current = '' %}
