@@ -2,35 +2,41 @@
 - name: Super Early Bird
   price: 460
   amount: 160
+  current: false
   start: 2022-05-09
   end: 2022-05-23
 
 - name: Early Bird
   price: 600
   amount: 150
+  current: true
   start: 2022-05-24
   end: 2022-06-23
 
 - name: Late Bird
   price: 730
   amount: 150
+  current: false
   start: 2022-06-24
   end: 2022-07-24
 
 - name: Normal
   price: 920
   amount: 270
+  current: false
   start: 2022-07-25
   end: 2023-09-23
 
 - name: Última hora
   price: 1040
   amount: 270
+  current: false
   start: 2021-09-24
   end: 2021-10-07
 
 - name: Estudante
   price: 460
   amount: 40
+  current: false
   start: 2021-05-09
   end: 2021-10-07
