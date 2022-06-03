@@ -2864,7 +2864,7 @@ input, select, textarea {
 		@media screen and (max-width: 736px) {
 
 			.features > * {
-				padding: 1.5rem;
+				padding: 2.5rem 1.5rem;
 				width: 100%;
 			}
 
