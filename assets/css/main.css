@@ -3962,6 +3962,7 @@ input, select, textarea {
 
 			#banner > .inner .icon {
 				background-size: 100%;
+				background-color: var(--ab-logo-azul-escuro);
 				background-image: url("../images/icon.svg");
 				border-radius: 100%;
 				border: 1px solid #ffffff;
