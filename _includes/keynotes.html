@@ -1,0 +1,21 @@
+    <div class="profiles">
+
+      {% for keynote in site.data.keynotes %}
+      <div class="profile">
+        <div class="image">
+          <img src="{{ keynote.photo }}" alt="" />
+        </div>
+        <header class="heading">
+          <h3>{{ keynote.name }}</h3>
+          <p>{{ keynote.title }}</p>
+        </header>
+        <p>{{ keynote.minibio }}</p>
+        <ul class="icons">
+          <li><a href="{{ keynote.linkedin }}" class="icon brands fa-linkedin-in" target="_blank"><span class="label">LinkedIn</span></a></li>
+          <li><a href="{{ keynote.twitter }}" class="icon brands fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
+          <li><a href="{{ keynote.site }}" class="icon brands fa-solid fa-link" target="_blank"><span class="label">Facebook</span></a></li>
+        </ul>
+      </div>
+      {% endfor %}
+
+    </div>

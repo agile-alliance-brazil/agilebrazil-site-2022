@@ -3035,6 +3035,7 @@ input, select, textarea {
 
 				.profiles .profile .image img {
 					border-radius: 100%;
+					height: 200px;
 				}
 
 		@media screen and (min-width: 1281px) {
