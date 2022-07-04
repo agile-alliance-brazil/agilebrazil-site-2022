@@ -10,6 +10,10 @@
   url: /patrocinio
   production: true
 
+- name: WBMA
+  url: /wbma
+  production: true
+
 - name: Código de Conduta
   url: /codigo-de-conduta
   production: true
