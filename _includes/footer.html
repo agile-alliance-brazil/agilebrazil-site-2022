@@ -1,14 +1,19 @@
 <!-- Footer -->
 <footer id="footer">
-  <section class="divider footer-wrapper">
-    <div class="emails">
-      <h3>Fale com a Agile Brazil</h3>
-      {% for email in site.emails %}
-      <a href="mailto:{{email}}">{{email}}</a>
-      {% endfor %}
+  <section class="footer-wrapper">
+    <div class="sponsors-wrapper">
+      <h2>Nossos patrocinadores</h2>
+
+      <div class="sponsors">
+        {% for sponsor in site.data.sponsors %}
+        <a href="{{sponsor.url}}" target="_blank">
+          <img src="{{sponsor.logo}}" alt="{{sponsor.name}}">
+        </a>
+        {% endfor %}
+      </div>
     </div>
 
-    <div class="social-media">
+    <div class="social">
       <h3>Siga a Agile Brazil</h3>
       <ul class="icons">
         {% for item in site.data.social %}
@@ -21,6 +26,11 @@
         </li>
         {% endfor %}
       </ul>
+
+      <h3 class="emails">Fale com a Agile Brazil</h3>
+      {% for email in site.emails %}
+      <a href="mailto:{{email}}">{{email}}</a>
+      {% endfor %}
     </div>
   </section>
 
