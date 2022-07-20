@@ -1,10 +1,19 @@
+- name: DTI
+  logo: assets/images/sponsors/sponsor-logo-dti.png
+  url: https://dti.ag/home-agilebrazil-2022
+  level: diamante
+
 - name: SoftDesign
   logo: assets/images/sponsors/sponsor-logo-softdesign.png
   url: https://softdesign.com.br/
-  kind: master
-  
-- name: Os Agilistas - DTI
-  logo: assets/images/sponsors/sponsor-logo-dti.png
-  url: https://www.dtidigital.com.br
-  kind: master
+  level: prata
 
+- name: ArcelorMittal
+  logo: assets/images/sponsors/sponsor-logo-arcelormittal.png
+  url: https://brasil.arcelormittal.com/a-arcelormittal/arcelormittal-sistemas
+  level: prata
+
+- name: Bain
+  logo: assets/images/sponsors/sponsor-logo-bain.png
+  url: https://www.bain.com/consulting-services/agile/
+  level: bronze

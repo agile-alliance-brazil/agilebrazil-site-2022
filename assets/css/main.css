@@ -4140,6 +4140,7 @@ input, select, textarea {
 		display: flex;
 		flex-direction: row;
 		gap: 2em;
+		align-items: flex-start;
 		justify-content: space-between;
 		align-items: center;
 		padding: 2em 4em;
@@ -4149,6 +4150,7 @@ input, select, textarea {
 		display: flex;
 		flex-grow: 1;
 		flex-wrap: wrap;
+		align-items: center;
 		justify-content: space-around;
 	}
 
@@ -4227,9 +4229,10 @@ input, select, textarea {
 			padding-top: 2em;
 		}
 
-		#footer .apoio h2 {
+		#footer h2 {
 			text-align: center;
 			font-size: 2rem;
+			padding-bottom: 1rem;
 		}
 
 		#footer .supporters {
