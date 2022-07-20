@@ -1,7 +1,7 @@
 <!-- Footer -->
 <footer id="footer">
   <section class="footer-wrapper">
-    <div class="sponsors-wrapper">
+    <div class="patrocinadores">
       <h2>Nossos patrocinadores</h2>
 
       <div class="sponsors">
@@ -11,6 +11,20 @@
         </a>
         {% endfor %}
       </div>
+    </div>
+
+    <div class="apoio">
+      <h2>Apoio</h2>
+
+      <ul class="supporters">
+        {% for supporter in site.data.supporters %}
+        <li>
+          <a href="{{supporter.url}}" target="_blank">
+            <img src="{{supporter.logo}}" alt="{{supporter.name}}">
+          </a>
+        </li>
+        {% endfor %}
+      </ul>
     </div>
 
     <div class="social">

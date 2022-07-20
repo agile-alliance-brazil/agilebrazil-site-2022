@@ -4120,6 +4120,12 @@ input, select, textarea {
 		display: block;
 	}
 
+	#footer ul,
+	#footer li {
+		list-style: none;
+		padding-left: 0;
+	}
+
 	#footer h3.emails {
 		font-size: 1.5rem;
 		padding-top: 1em;
@@ -4133,6 +4139,7 @@ input, select, textarea {
 	#footer .footer-wrapper {
 		display: flex;
 		flex-direction: row;
+		gap: 2em;
 		justify-content: space-between;
 		align-items: center;
 		padding: 2em 4em;
@@ -4150,9 +4157,25 @@ input, select, textarea {
 		max-width: 240px;
 	}
 
+	#footer .apoio,
 	#footer .social {
 		border-left: var(--ab-divisores) solid 1px;
 		padding-left: 2em;
+	}
+
+	#footer .supporters {
+		display: flex;
+		flex-direction: column;
+		margin-bottom: 0;
+	}
+
+	#footer .apoio a,
+	#footer .apoio img {
+		width: 140px;
+		padding-bottom: 0.5em;
+	}
+
+	#footer .social {
 		min-width: 320px;
 	}
 
@@ -4196,11 +4219,25 @@ input, select, textarea {
 			padding: 2em 2em;
 		}
 
+		#footer .apoio,
 		#footer .social {
 			border-left: none;
 			padding-left: unset;
 			border-top: var(--ab-divisores) solid 1px;
 			padding-top: 2em;
+		}
+
+		#footer .apoio h2 {
+			text-align: center;
+			font-size: 2rem;
+		}
+
+		#footer .supporters {
+			align-items: center;
+			flex-direction: row;
+			flex-wrap: wrap;
+			gap: 2em;
+			justify-content: space-evenly;
 		}
 	}
 
