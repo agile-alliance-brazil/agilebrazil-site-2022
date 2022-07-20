@@ -4150,6 +4150,7 @@ input, select, textarea {
 		display: flex;
 		flex-grow: 1;
 		flex-wrap: wrap;
+		gap: 1rem;
 		align-items: center;
 		justify-content: space-around;
 	}
