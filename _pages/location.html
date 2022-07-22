@@ -1,0 +1,40 @@
+---
+title: Local
+permalink: /local
+---
+
+<div id="main" class="wrapper">
+  <div class="inner local">
+    <header class="heading major">
+      <h1>Local e parcerias</h1>
+      <p>Planeje sua estada em {{ site.city }}</p>
+    </header>
+
+    <p>Porto Alegre é um dos berços da agilidade no Brasil e, até por isso, recebeu a primeira edição da Agile Brazil, da comunidade para a comunidade, lá em 2010. Finalmente, estamos de volta à capital gaúcha.</p>
+
+    <p>Enquanto preparamos nossas próprias sugestões para conhecer os arredores, você pode explorar o site de turismo da Prefeitura de Porto Alegre, através <a href="https://prefeitura.poa.br/maisturismo" target="_blank" rel="noopener noreferrer">desse link</a>.</p>
+
+    <h2>Parcerias</h2>
+
+    <p>Sabendo que boa parte do nosso público vem de outras localidades, o Comitê Local vem fechando parcerias e descontos com hotéis em Porto Alegre.</p>
+
+    <table>
+      <thead>
+        <th>Hotel</th>
+        <th>Condição</th>
+        <th>Código de Desconto</th>
+        <th>Reservas</th>
+      </thead>
+      <tbody>
+        {% for hotel in site.data.offers %}
+        <tr>
+          <td>{{hotel.name}}</td>
+          <td>{{hotel.text}}</td>
+          <td>{{hotel.discountCode}}</td>
+          <td><a href="{{hotel.url}}" class="button primary small" target="_blank">Site</a></td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</div>
