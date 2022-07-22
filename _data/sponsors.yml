@@ -1,19 +1,19 @@
-- name: Globant
-  logo: assets/images/sponsors/sponsor-logo-globant.png
-  url: https://www.globant.com/pt-br
-  kind: master
-  
-- name: Os Agilistas - DTI
+- name: DTI
   logo: assets/images/sponsors/sponsor-logo-dti.png
-  url: https://www.dtidigital.com.br
-  kind: master
+  url: https://dti.ag/home-agilebrazil-2022
+  level: diamante
 
-- name: Criativa Soluções em Eventos
-  logo: assets/images/sponsors/sponsor-logo-criativa.png
-  url: http://criativaeventos.net
-  kind: support
+- name: SoftDesign
+  logo: assets/images/sponsors/sponsor-logo-softdesign.png
+  url: https://softdesign.com.br/
+  level: prata
 
-- name: Agile Alliance
-  logo: assets/images/sponsors/sponsor-logo-agile-alliance.png
-  url: https://www.agilealliance.org/agilealliancebrazil
-  kind: support
+- name: ArcelorMittal
+  logo: assets/images/sponsors/sponsor-logo-arcelormittal.png
+  url: https://brasil.arcelormittal.com/a-arcelormittal/arcelormittal-sistemas
+  level: prata
+
+- name: Bain
+  logo: assets/images/sponsors/sponsor-logo-bain.png
+  url: https://www.bain.com.br/
+  level: bronze
