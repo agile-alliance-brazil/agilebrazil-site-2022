@@ -34,7 +34,7 @@
   margin: 1rem 0 3rem;
 }
 
-.registration a.rate {
+.registration .rate {
   box-sizing: border-box;
   border: 1px solid #ccc;
   cursor: default;
@@ -48,7 +48,7 @@
   color: inherit;
 } 
 
-.registration a.rate.current {
+.registration .rate.current {
   background-color: rgba(255, 165, 6, 0.42);
   cursor: pointer;
 }

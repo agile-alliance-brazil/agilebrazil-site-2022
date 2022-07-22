@@ -14,18 +14,21 @@ permalink: /inscricoes
     <h1>Ingressos e faixas de preço</h1>
 
     <div class="row gtr-50 gtr-uniform">
-      {% for ticket in site.data.register %}
-        {% if ticket.current %}
-          {% assign current = 'current' %}
-        {% else %}
-          {% assign current = '' %}
-        {% endif %} 
-        <a class="rate {{current}}" href="{{ site.sistemas.inscricoes }}" target="_blank">
+    {% for ticket in site.data.register %}
+      {% if ticket.current %}
+        <a class="rate current" href="{{ site.sistemas.inscricoes }}" target="_blank">
+      {% else %}
+        <div class="rate">
+      {% endif %}
           <h3>{{ticket.name}}</h3>
           <p>Até {{ticket.end | date: "%d/%m/%Y"}} ou {{ticket.amount}} unidades.</p>
           <p class="price">R${{ticket.price}}</p>
+      {% if ticket.current %}
         </a>
-      {% endfor %}
+      {% else %}
+        </div>
+      {% endif %}
+    {% endfor %}
     </div>
 
 
