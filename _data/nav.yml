@@ -14,6 +14,10 @@
   url: /wbma
   production: true
 
+- name: Local e parcerias
+  url: /local
+  production: true
+
 - name: Código de Conduta
   url: /codigo-de-conduta
   production: true

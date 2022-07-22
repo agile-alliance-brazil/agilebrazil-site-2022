@@ -1,0 +1,19 @@
+- name: Intercity
+  discountCode: AGILEBRAZIL2022
+  text: 10% de desconto para reservas realizadas no site.
+  url: https://www.intercityhoteis.com.br/hotel-porto-alegre/hotel-intercity-porto-alegre/37/#galeria
+
+- name: Eko Residence Hotel
+  discountCode: AGILE2022
+  text: 10% de desconto para reservas realizadas no site ou pelo e-mail <a href="mailto:reservas@ekoresidence.com.br">reservas@ekoresidence.com.br</a>.
+  url: https://ekoresidence.com.br/
+
+- name: Deville Prime Porto Alegre
+  discountCode: AGILE2022
+  text: 20% de desconto para reservas realizadas no site
+  url: https://www.deville.com.br/hotel-deville-prime-porto-alegre
+
+- name: Ritter
+  discountCode: AGILE2022
+  text: 25% de desconto para reservas realizadas pelo site.
+  url: http://www.ritterhoteis.com.br/
