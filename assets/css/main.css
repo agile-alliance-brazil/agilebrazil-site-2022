@@ -4155,9 +4155,11 @@ input, select, textarea {
 		justify-content: space-around;
 	}
 
+	/* sponsor level sizing at custom.css */
 	#footer .sponsors img {
-		max-height: 104px;
+		max-height: 120px;
 		max-width: 240px;
+		padding: 1em;
 	}
 
 	#footer .apoio,

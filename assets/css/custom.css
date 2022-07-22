@@ -1,3 +1,19 @@
+
+#footer .sponsors .diamante {
+  width: 280px;
+  max-height: fit-content;
+}
+
+#footer .sponsors .prata {
+  width: 240px;
+  max-height: fit-content;
+}
+
+#footer .sponsors .bronze {
+  width: 220px;
+  max-height: fit-content;
+}
+
 .codeOfConduct {
   color: #A0A0A0;
   text-align: center;
