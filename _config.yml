@@ -22,6 +22,8 @@ title: Agile Brazil 2022
 author: Agile Brazil
 generator: Agile Brazil
 lang: pt-BR
+languages: ["pt-BR", "en"]
+exclude_from_localizations: ["assets"]
 city: Porto Alegre
 venue: PUC-RS
 dates: 5 a 7/outubro, 2022
