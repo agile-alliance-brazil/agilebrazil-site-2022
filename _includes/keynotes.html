@@ -3,7 +3,7 @@
       {% for keynote in site.data.keynotes %}
       <div class="profile">
         <div class="image">
-          <img src="{{ keynote.photo }}" alt="foto de {{keynote.name}}" />
+          <img src="{{ keynote.photo | prepend: site.baseurl_root }}" alt="foto de {{keynote.name}}" />
         </div>
         <header class="heading">
           <h3>{{ keynote.name }}</h3>

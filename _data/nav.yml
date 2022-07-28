@@ -1,8 +1,8 @@
-- name: Sobre
+- name: nav.about
   url: /sobre
   production: true
 
-- name: Inscrições
+- name: nav.registrations
   url: /inscricoes
   production: true
 

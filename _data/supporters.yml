@@ -1,11 +1,11 @@
 - name: PUC-RS
-  logo: assets/images/sponsors/supporter-logo-pucrs.png
+  logo: /assets/images/sponsors/supporter-logo-pucrs.png
   url: https://www.pucrs.br/
 
 - name: Criativa Soluções em Eventos
-  logo: assets/images/sponsors/sponsor-logo-criativa.png
+  logo: /assets/images/sponsors/sponsor-logo-criativa.png
   url: http://criativaeventos.net
 
 - name: Agile Alliance
-  logo: assets/images/sponsors/sponsor-logo-agilealliancebrazil.png
+  logo: /assets/images/sponsors/sponsor-logo-agilealliancebrazil.png
   url: https://www.agilealliance.org/agilealliancebrazil

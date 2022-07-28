@@ -1,24 +1,24 @@
 - name: Kanbanize
-  logo: assets/images/sponsors/sponsor-logo-kanbanize.png
+  logo: /assets/images/sponsors/sponsor-logo-kanbanize.png
   url: https://kanbanize.com/
   level: titulo
 
 - name: DTI
-  logo: assets/images/sponsors/sponsor-logo-dti.png
+  logo: /assets/images/sponsors/sponsor-logo-dti.png
   url: https://dti.ag/home-agilebrazil-2022
   level: diamante
 
 - name: SoftDesign
-  logo: assets/images/sponsors/sponsor-logo-softdesign.png
+  logo: /assets/images/sponsors/sponsor-logo-softdesign.png
   url: https://softdesign.com.br/
   level: prata
 
 - name: ArcelorMittal
-  logo: assets/images/sponsors/sponsor-logo-arcelormittal.png
+  logo: /assets/images/sponsors/sponsor-logo-arcelormittal.png
   url: https://www.linkedin.com/company/arcelormittal-sistemas
   level: prata
 
 - name: Bain
-  logo: assets/images/sponsors/sponsor-logo-bain.png
+  logo: /assets/images/sponsors/sponsor-logo-bain.png
   url: https://www.bain.com.br/
   level: bronze

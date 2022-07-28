@@ -7,7 +7,7 @@
       <div class="sponsors">
         {% for sponsor in site.data.sponsors %}
         <a href="{{sponsor.url}}" target="_blank">
-          <img class="{{sponsor.level}}  {{sponsor.name}}" src="{{sponsor.logo}}" alt="{{sponsor.name}}">
+          <img class="{{sponsor.level}}  {{sponsor.name}}" src="{{sponsor.logo | prepend: site.baseurl_root}}" alt="{{sponsor.name}}">
         </a>
         {% endfor %}
       </div>
@@ -20,7 +20,7 @@
         {% for supporter in site.data.supporters %}
         <li>
           <a href="{{supporter.url}}" target="_blank">
-            <img src="{{supporter.logo}}" alt="{{supporter.name}}">
+            <img src="{{supporter.logo | prepend: site.baseurl_root}}" alt="{{supporter.name}}">
           </a>
         </li>
         {% endfor %}
