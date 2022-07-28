@@ -4,6 +4,13 @@ titles:
 nav:
   about: Sobre
   registrations: Inscrições
+  program: Programa
+  sponsorship: Patrocínio
+  wbma: Workshop Brasileiro de Métodos Ágeis
+  location: Local e parcerias
+  code_of_conduct: Código de Conduta
+  diversity_and_inclusion: Diversidade & Inclusão
 
 labels:
   menu: Menu
+  previous_editions: Edições anteriores

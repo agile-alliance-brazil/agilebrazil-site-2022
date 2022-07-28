@@ -3,7 +3,14 @@ titles:
 
 nav:
   about: About
-  registrations: registrations
+  registrations: Registrations
+  program: Program
+  sponsorship: Sonsorship
+  wbma: Workshop Brasileiro de Métodos Ágeis
+  location: Location and partners
+  code_of_conduct: Code of Conduct
+  diversity_and_inclusion: Diversity & Inclusion
 
 labels:
   menu: Menu
+  previous_editions: Previous editions
