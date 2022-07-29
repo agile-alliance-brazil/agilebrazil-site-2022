@@ -10,7 +10,7 @@ permalink: /
     <h1>{{ site.title }}</h1>
     <p>{% t conference.city %}, {% t conference.venue %} <br>{% t conference.dates %}</p>
     <ul class="actions stacked">
-      <li><a href="./inscricoes" class="button large primary">{% t labels.register %}</a></li>
+      <li><a href="{% tl registrations %}" class="button large primary">{% t actions.register %}</a></li>
     </ul>
   </div>
 </div>
@@ -26,27 +26,27 @@ permalink: /
         </header>
         <p>{% t texts.registrations_are_open %}<br />{% t texts.registrations_are_open_2 %}</p>
         <ul class="actions special">
-          <li><a href="{% tl registrations %}" class="button primary">{% t labels.register %}</a></li>
+          <li><a href="{% tl registrations %}" class="button primary">{% t actions.register %}</a></li>
         </ul>
       </div>
       <div class="feature">
         <header class="heading">
-          <h2>Programa</h2>
-          <p>O que vai rolar na AB</p>
+          <h2>{% t labels.program %}</h2>
+          <p>{% t labels.what_will_happen_at_the_ab %}</p>
         </header>
-        <p>Você já pode ver uma prévia da programação da Agile Brazil 2022! Entre na página de Programa e veja a lista das sessões aprovadas e já confirmadas por palestrantes!</p>
+        <p>{% t texts.what_will_happen_at_the_ab %}</p>
         <ul class="actions special">
-          <li><a href="./programa" class="button primary">Conheça a programação</a></li>
+          <li><a href="{% tl program %}" class="button primary">{% t actions.know_the_program  %}</a></li>
         </ul>
       </div>
       <div class="feature">
         <header class="heading">
-          <h2>Patrocine!</h2>
-          <p>Sua marca na Agile Brazil</p>
+          <h2>{% t labels.patronize %}</h2>
+          <p>{% t labels.your_brand_on_agilebrazil %}</p>
         </header>
-        <p>Profissionais, potenciais clientes e parceiros de negócio olham para nossos patrocinadores como referências em agilidade. Crie o pacote de patrocínio personalizado para seus objetivos.</p>
+        <p>{% t texts.your_brand_on_agilebrazil %}</p>
         <ul class="actions special">
-          <li><a href="./patrocinio" class="button primary">Monte seu patrocínio</a></li>
+          <li><a href="{% tl sponsorship %}" class="button primary">{% t actions.build_your_sponsorship %}</a></li>
         </ul>
       </div>
     </div>
