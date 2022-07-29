@@ -1,10 +1,11 @@
 titles:
-  about: Sobre o Agile Brazil 2022
+  about: About Agile Brazil
 
 conference:
   city: Porto Alegre
   venue: PUC-RS
   dates: 5 a 7/outubro, 2022
+  year: '2022'
   # description: >-
   #   Agile Brazil é mais que uma conferência, é uma comunidade de pessoas unidas pelo voluntariado. 
   #   Estamos juntos para compartilhar conhecimento com todos aqueles que querem aprender e ensinar, independente da sua experiência com agilidade.
@@ -12,6 +13,7 @@ conference:
 
 nav:
   about: Sobre
+  about_covid_protocol_anchor: protocoloCovid
   registrations: Inscrições
   program: Programa
   sponsorship: Patrocínio
@@ -19,11 +21,15 @@ nav:
   location: Local e parcerias
   code_of_conduct: Código de Conduta
   diversity_and_inclusion: Diversidade & Inclusão
+  privacy_policy: Política de privacidade
 
 actions:
   register: Faça sua inscrição!
   know_the_program: Conheça a programação
   build_your_sponsorship: Monte seu patrocínio
+  read_the_code_of_conduct: Leia o código de conduta
+  know_health_actions: Conheça medidas de saúde
+  privacy_policy: Política de privacidade
 
 labels:
   menu: Menu
@@ -34,13 +40,16 @@ labels:
   what_will_happen_at_the_ab: O que vai rolar na AB
   patronize: Patrocine!
   your_brand_on_agilebrazil: Sua marca na Agile Brazil
-
+  keynotes: Keynotes
+  health_protocols: Protocolos de Saúde
+  privacy_policy: Política de privacidade
 
 texts:
   registrations_are_open: As inscrições para a Agile Brazil 2022 já estão abertas e nos veremos em Porto Alegre, de 5 a 7 de outubro, para palestras, papos de corredor e happy hours!
   registrations_are_open_2: Mal podemos esperar!
   what_will_happen_at_the_ab: Você já pode ver uma prévia da programação da Agile Brazil 2022! Entre na página de Programa e veja a lista das sessões aprovadas e já confirmadas por palestrantes!
   your_brand_on_agilebrazil: Profissionais, potenciais clientes e parceiros de negócio olham para nossos patrocinadores como referências em agilidade. Crie o pacote de patrocínio personalizado para seus objetivos.
-
-
-
+  tips_to_make_our_event_excellent: Informações para nosso encontro ser excelente
+  code_of_conduct: Levamos a segurança e experiência de todas as pessoas com a devida seriedade. Participantes, palestrantes e organizadores da Agile Brazil devem seguir nosso Código de Conduta.
+  health_protocols: Na nossa seção "Sobre a AB" você também encontra os protocolos que adotaremos para que possamos nos encontrar presencialmente e com segurança. Saiba mais sobre requisitos vacinais e afins.
+  privacy_policy: Você pode conhecer mais sobre porque perguntamos algumas informações e como usamos os dados coletados na inscrição, na submissão e na navegação desse site, na nossa Política de Privacidade. 

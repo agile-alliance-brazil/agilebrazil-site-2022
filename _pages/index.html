@@ -56,7 +56,7 @@ permalink: /
 <section id="keynotes" class="wrapper style1">
   <div class="inner">
     <header class="heading major">
-      <h2>Keynotes</h2>
+      <h2>{% t labels.keynotes %}</h2>
     </header>
 
     {% include keynotes.html %}
@@ -66,34 +66,34 @@ permalink: /
 <section id="protocolos" class="wrapper style1">
   <div class="inner">
     <header class="heading major">
-      <h2>Sobre a Agile Brazil</h2>
-      <p>Informações para nosso encontro ser excelente</p>
+      <h2>{% t titles.about %}</h2>
+      <p>{% t texts.tips_to_make_our_event_excellent %}</p>
     </header>
     <div class="spotlights">
       <div class="spotlight">
         <article class="content">
-          <h3>Código de Conduta</h3>
-          <p>Levamos a segurança e experiência de todas as pessoas com a devida seriedade. Participantes, palestrantes e organizadores da Agile Brazil devem seguir nosso Código de Conduta.</p>
+          <h3>{% t nav.code_of_conduct %}</h3>
+          <p>{% t texts.code_of_conduct %}</p>
           <ul class="actions special">
-            <li><a href="./codigo-de-conduta" class="button primary">Leia o código de conduta</a></li>
+            <li><a href="{% tl code_of_conduct %}" class="button primary">{% t actions.read_the_code_of_conduct %}</a></li>
           </ul>
         </article>
       </div>
       <div class="spotlight">
         <article class="content">
-          <h3>Protocolos de Saúde</h3>
-          <p>Na nossa seção "Sobre a AB" você também encontra os protocolos que adotaremos para que possamos nos encontrar presencialmente e com segurança. Saiba mais sobre requisitos vacinais e afins.</p>
+          <h3>{% t labels.health_protocols %}</h3>
+          <p>{% t texts.health_protocols %}</p>
           <ul class="actions special">
-            <li><a href="./sobre#protocoloCovid" class="button primary">Conheça medidas de saúde</a></li>
+            <li><a href="{% tl about %}{% t nav.about_covid_protocol_anchor %}" class="button primary">{% t actions.know_health_actions %}</a></li>
           </ul>
         </article>
       </div>
       <div class="spotlight">
         <article class="content">
-          <h3>Política de privacidade</h3>
-          <p>Você pode conhecer mais sobre porque perguntamos algumas informações e como usamos os dados coletados na inscrição, na submissão e na navegação desse site, na nossa Política de Privacidade. </p>
+          <h3>{% t labels.privacy_policy %}</h3>
+          <p>{% t texts.privacy_policy %}</p>
           <ul class="actions special">
-            <li><a href="./politica-de-privacidade" class="button primary">Política de privacidade</a></li>
+            <li><a href="{% tl privacy_policy %}" class="button primary">{% t actions.privacy_policy %}</a></li>
           </ul>
         </article>
       </div>
