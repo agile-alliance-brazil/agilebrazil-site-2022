@@ -69,3 +69,7 @@
 .registration dd {
   margin-bottom: 2rem;
 }
+
+table.sessions thead {
+  font-weight: bold;
+}

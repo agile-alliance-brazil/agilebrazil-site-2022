@@ -18,13 +18,13 @@
   amount: 270
   current: true
   start: 2022-06-24
-  end: 2022-08-10
+  end: 2022-08-31
 
 - name: Normal
   price: 920
   amount: 250
   current: false
-  start: 2022-08-11
+  start: 2022-09-01
   end: 2022-09-30
 
 - name: Última hora
