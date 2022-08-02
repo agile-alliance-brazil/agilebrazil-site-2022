@@ -22,7 +22,12 @@ permalink: /programa
       {% for session in site.data.sessions %}
         <tr>
           <td>{{session.title}}</td>
-          <td>{{session.author}}</td>
+          <td>
+            {{session.author}}
+            {% if session.coAuthor %}
+              & {{session.coAuthor}}
+            {% endif %}
+          </td>
         </tr>
       {% endfor %}
       </tbody>

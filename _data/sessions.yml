@@ -157,59 +157,37 @@
 - sessionId: 3240
   title: "Como o Lean, Agile e Gestão 3.0 irão aumentar a entrega de valor?"
   author: Mayra de Souza
-
-- sessionId: 3240
-  title: "Como o Lean, Agile e Gestão 3.0 irão aumentar a entrega de valor?"
-  author: Aurineide Cavalcante
+  coAuthor: Aurineide Cavalcante
 
 - sessionId: 3255
   title: "9 meses em 4 dias: Como a Coca-Cola inovou no lançamento de produtos"
   author: Marcos Garrido
-
-- sessionId: 3255
-  title: "9 meses em 4 dias: Como a Coca-Cola inovou no lançamento de produtos"
-  author: Fernanda Magalhães
+  coAuthor: Fernanda Magalhães
 
 - sessionId: 3277
   title: Como a análise de maturidade ágil de times pode alavancar a agilidade na sua organização
   author: Rubia Toledo
-
-- sessionId: 3277
-  title: Como a análise de maturidade ágil de times pode alavancar a agilidade na sua organização
-  author: Samuel Soares
+  coAuthor: Samuel Soares
 
 - sessionId: 3297
   title: Descomplicando o framework Fit For Purpose
   author: João Grabosque
-
-- sessionId: 3297
-  title: Descomplicando o framework Fit For Purpose
-  author: RANIERI SANTOS
+  coAuthor: RANIERI SANTOS
 
 - sessionId: 3308
   title: Design para o ‘Metaverso’
   author: Lúcia Kaplan
-
-- sessionId: 3308
-  title: Design para o ‘Metaverso’
-  author: Leonardo Azzi Martins
-
-- sessionId: 3314
-  title: "Apertem os cintos
-   o controle sumiu! Como manter o foco e reduzir o stress do Agile Coach"
-  author: Caco - Cleiton Mafra
+  coAuthor: Leonardo Azzi Martins
 
 - sessionId: 3314
   title: "Apertem os cintos, o controle sumiu! Como manter o foco e reduzir o stress do Agile Coach"
-  author: Anderson Gonzaga de Souza
+  author: Caco - Cleiton Mafra
+  coAuthor: Anderson Gonzaga de Souza
 
 - sessionId: 3331
   title: Como aplicar melhoria implacável num chapter de agilidade utilizando o Fit for purpose - F4P
   author: Uedson Carlos
-
-- sessionId: 3331
-  title: Como aplicar melhoria implacável num chapter de agilidade utilizando o Fit for purpose - F4P
-  author: Victor Vidal
+  coAuthor: Victor Vidal
 
 - sessionId: 3332
   title: "Unindo esforços: RH com Agilidade virando um produto"
@@ -219,74 +197,47 @@
 - sessionId: 3362
   title: "Cultura Ágil com Entregas Frequentes, Iterativas e Incrementais: Meu Software Está Pronto pra Isso?"
   author: Lucas Nunes
-
-- sessionId: 3362
-  title: "Cultura Ágil com Entregas Frequentes, Iterativas e Incrementais: Meu Software Está Pronto pra Isso?"
-  author: Mariana Minossi
+  coAuthor: Mariana Minossi
 
 - sessionId: 3375
   title: Como criar um programa de estágio que une agilidade e mentoria técnica com diversidade e inclusão
   author: Denize Vásquez
-
-- sessionId: 3375
-  title: Como criar um programa de estágio que une agilidade e mentoria técnica com diversidade e inclusão
-  author: Lucas Nunes
+  coAuthor: Lucas Nunes
 
 - sessionId: 3379
   title: "NuBlacks case: Como a agilidade pode influenciar a pauta de Diversidade e Inclusão."
   author: Priscila De Souza Nunes
-
-- sessionId: 3379
-  title: "NuBlacks case: Como a agilidade pode influenciar a pauta de Diversidade e Inclusão."
-  author: Raphael Donaire Albino
+  coAuthor: Raphael Donaire Albino
 
 - sessionId: 3387
   title: A importância do valor para o negócio e impacto na experiência do usuário nas nossas entregas
   author: Ruth Helena Mendes da Silva
-
-- sessionId: 3387
-  title: A importância do valor para o negócio e impacto na experiência do usuário nas nossas entregas
-  author: Michele Prieto
+  coAuthor: Michele Prieto
 
 - sessionId: 3400
   title: "Soluções ágeis em saúde: gestão da mudança em cenários de crise."
   author: Renata Monteiro
-
-- sessionId: 3400
-  title: "Soluções ágeis em saúde: gestão da mudança em cenários de crise."
-  author: Rogério Ribeiro
+  coAuthor: Rogério Ribeiro
 
 - sessionId: 3402
   title: Deixe de ser uma organização tarefeira e torne-se um parceiro estratégico do seu cliente
   author: Samuel Soares
-
-- sessionId: 3402
-  title: Deixe de ser uma organização tarefeira e torne-se um parceiro estratégico do seu cliente
-  author: Anderson de Souza Ribeiro
+  coAuthor: Anderson de Souza Ribeiro
 
 - sessionId: 3435
   title: Agilidade e a liderança emergente feminina
   author: Hanna Ohi
-
-- sessionId: 3435
-  title: Agilidade e a liderança emergente feminina
-  author: Thaís Galão
+  coAuthor: Thaís Galão
 
 - sessionId: 3449
   title: Agilidade Remote First - Disseminando a Cultura Ágil para uma Empresa Remota com + de 1K pessoas.
   author: Rafael de Oliveira
-
-- sessionId: 3449
-  title: Agilidade Remote First - Disseminando a Cultura Ágil para uma Empresa Remota com + de 1K pessoas.
-  author: Isabel Coutinho
+  coAuthor: Isabel Coutinho
 
 - sessionId: 3455
   title: Como melhorar a manutenção do código através de boas práticas e métricas de qualidade
   author: JESSICA SALVADOR RODRIGUES ROCHA
-
-- sessionId: 3455
-  title: Como melhorar a manutenção do código através de boas práticas e métricas de qualidade
-  author: Antonio Vilmar Silveira Castro
+  coAuthor: Antonio Vilmar Silveira Castro
 
 - sessionId: 3489
   title: Onboarding de carreira na Agilidade
@@ -299,63 +250,39 @@
 - sessionId: 3504
   title: A Agilidade apoiando na estratégia e modernização dos Produtos Digitais da Globo
   author: Samuel Thome
-
-- sessionId: 3504
-  title: A Agilidade apoiando na estratégia e modernização dos Produtos Digitais da Globo
-  author: Vanessa D'Aguiar
+  coAuthor: Vanessa D'Aguiar
 
 - sessionId: 3159
   title: Kanban Game - Aprenda como esse jogo ONLINE e GRÁTIS pode ser o catalisador das práticas Kanban
   author: Caco - Cleiton Mafra
-
-- sessionId: 3159
-  title: Kanban Game - Aprenda como esse jogo ONLINE e GRÁTIS pode ser o catalisador das práticas Kanban
-  author: Dieine Silva
+  coAuthor: Dieine Silva
 
 - sessionId: 3242
   title: Praticando conceitos de MVP com blocos de montar
   author: Hanna Ohi
-
-- sessionId: 3242
-  title: Praticando conceitos de MVP com blocos de montar
-  author: Layra Gonçalves
+  coAuthor: Layra Gonçalves
 
 - sessionId: 3253
   title: Lightning Decision Jam - Como resolver problemas e tomar decisões em até 90min.
   author: Isabel Coutinho
-
-- sessionId: 3253
-  title: Lightning Decision Jam - Como resolver problemas e tomar decisões em até 90min.
-  author: Luciana Mara Neves Vogas
+  coAuthor: Luciana Mara Neves Vogas
 
 - sessionId: 3260
   title: "Design Shot: concebendo soluções inovadoras com tecnologias portadoras de futuro"
   author: Eduardo Meira Peres
-
-- sessionId: 3260
-  title: "Design Shot: concebendo soluções inovadoras com tecnologias portadoras de futuro"
-  author: Alessandra Guglieri
+  coAuthor: Alessandra Guglieri
 
 - sessionId: 3316
   title: "Sustainable Development: Managing Technical Debt"
   author: Joseph Yoder
-
-- sessionId: 3316
-  title: "Sustainable Development: Managing Technical Debt"
-  author: Graziela Simone Tonin
+  coAuthor: Graziela Simone Tonin
 
 - sessionId: 3392
   title: Design Flow na prática - Etapa AS IS
   author: RAQUEL RODRIGUES SILVA
-
-- sessionId: 3392
-  title: Design Flow na prática - Etapa AS IS
-  author: Patricia Hajdu
+  coAuthor: Patricia Hajdu
 
 - sessionId: 3465
   title: Os impactos da comunicação não-inclusiva para as empresas
   author: Lasye Vicente
-
-- sessionId: 3465
-  title: Os impactos da comunicação não-inclusiva para as empresas
-  author: Diogo Rodrigues
+  coAuthor: Diogo Rodrigues
