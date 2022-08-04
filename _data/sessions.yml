@@ -1,285 +1,350 @@
 - sessionId: 3163
   title: Agile Testing realmente existe?
   author: Alan Voigt
+  track: "Mão no código: desenvolvimento de software e tecnologia"
 
 - sessionId: 3166
   title: Quando agilidade e o C-level se encontram
   author: Ewerton Santos (Ton)
+  track: "Relatos de Experiência: sua história sobre agilidade"
 
 - sessionId: 3196
   title: O segredo para ser um Agilista em diferentes culturas
   author: Marina Bellenzier
+  track: "Relatos de Experiência: sua história sobre agilidade"
 
 - sessionId: 3209
   title: Mais funcionalidades não vão melhorar seu produto
   author: Marcell Almeida
+  track: "Produtos e negócios: concepção, design e gestão"
 
 - sessionId: 3220
   title: Desafios na criação de um Capítulo de Agilidade
   author: Thaís Rigolon
+  track: "Relatos de Experiência: sua história sobre agilidade"
 
 - sessionId: 3226
   title: "Business Agility: Explorando os desafios do negócio"
   author: Tatiana Feitosa Correa Lima
+  track: "Culturas de trabalho: pessoas, times e organizações"
 
 - sessionId: 3231
   title: "Arquétipos do Product Owner: descubra quem é você na gestão de produto"
   author: Rodrigo Pinto
+  track: "Produtos e negócios: concepção, design e gestão"
 
 - sessionId: 3245
-  title: "Apache NiFi - Fluxo de dados 100% automatizado, 1% codificado."
+  title: Apache NiFi - Fluxo de dados 100% automatizado, 1% codificado.
   author: Cristian Celestino
+  track: "Mão no código: desenvolvimento de software e tecnologia"
 
 - sessionId: 3257
   title: "Fractais: inspiração de Simplicidade na construção de Organizações Complexas"
   author: Mariana Zaparolli Martins
+  track: "Produtos e negócios: concepção, design e gestão"
 
 - sessionId: 3274
   title: Nunca me sonharam - Da favela para a mundo da agilidade.
   author: Monica Andrade
+  track: "Relatos de Experiência: sua história sobre agilidade"
 
 - sessionId: 3282
   title: Diminuindo os Custos Iniciais de uma Infraestrutura de Microsserviços
   author: Jiba Waghetti
+  track: "Mão no código: desenvolvimento de software e tecnologia"
 
 - sessionId: 3284
   title: "Gestão de Portfólio na Prática: Conectando a Estratégia do Negócio com Execução (Case Ultragaz)"
   author: Rodrigo Fernandes Barbosa
+  track: "Práticas de trabalho: da ideia à entrega"
 
 - sessionId: 3299
   title: Porque é tão difícil ser um Scrum Master de verdade dentro das Empresas?
   author: Roberto Brasileiro
+  track: "Práticas de trabalho: da ideia à entrega"
 
 - sessionId: 3315
   title: Chaves de sucesso dos times DevOps de plataforma
   author: Marcelo Noskoski
+  track: "Práticas de trabalho: da ideia à entrega"
 
 - sessionId: 3325
   title: Being Agile about Architecture
   author: Joseph Yoder
+  track: "Mão no código: desenvolvimento de software e tecnologia"
 
 - sessionId: 3327
   title: O produto não começa no código...
   author: Bruna Biontino de OLiveira
+  track: "Práticas de trabalho: da ideia à entrega"
 
 - sessionId: 3330
   title: Como desenvolver um pensamento estratégico para a Business Agility
   author: Luiz Parzianello
+  track: "Produtos e negócios: concepção, design e gestão"
 
 - sessionId: 3339
   title: Criando facilitações mais inclusivas sem mistério
   author: Felipe Higa
+  track: "Culturas de trabalho: pessoas, times e organizações"
 
 - sessionId: 3349
   title: "Mais que amigos, friends: QA e Produto, como criar sinergia para ampliar a qualidade"
   author: Jeniffer Deus
+  track: "Mão no código: desenvolvimento de software e tecnologia"
 
 - sessionId: 3357
   title: "Revelando a história do produto: Da estratégia a execução com User Story mapping"
   author: Rafael Caceres
+  track: "Produtos e negócios: concepção, design e gestão"
 
 - sessionId: 3363
   title: "Além da bolha: Inovação, diversidade e gestão pública"
   author: Naomy Oliveira
+  track: "Relatos de Experiência: sua história sobre agilidade"
 
 - sessionId: 3376
   title: Por lideranças mais Brown e menos Musk
   author: Gustavo Ayres Ferreira
+  track: "Culturas de trabalho: pessoas, times e organizações"
 
 - sessionId: 3378
   title: Como tratar com intencionalidade a dívida técnica da sua empresa
   author: Alan Kuhn
+  track: "Mão no código: desenvolvimento de software e tecnologia"
 
 - sessionId: 3396
-  title: "Product Operations, o que é e como vem ajudando na escala dos times de produto"
+  title: Product Operations, o que é e como vem ajudando na escala dos times de produto
   author: Diogenes Laertius Silva de Oliveira Filho
+  track: "Produtos e negócios: concepção, design e gestão"
 
 - sessionId: 3398
   title: Qual a importância da cultura da qualidade para entregas ágeis?
   author: Francielle Vareira
+  track: "Mão no código: desenvolvimento de software e tecnologia"
 
 - sessionId: 3415
   title: Me tornei desnecessária. E agora?
   author: Ceci Fernandes
+  track: "Práticas de trabalho: da ideia à entrega"
 
 - sessionId: 3425
   title: Aging WIP - Se preocupe menos com o futuro e mais com o que você faz hoje.
   author: Danilo M Garcia
+  track: "Práticas de trabalho: da ideia à entrega"
 
 - sessionId: 3428
   title: As 3 fases da uma empresa exponencial
   author: Evandro Silvestre
+  track: "Produtos e negócios: concepção, design e gestão"
 
 - sessionId: 3436
   title: Lean Portfolio Management - Conectando a Estratégia com a Execução
   author: Andy Barbosa
+  track: "Produtos e negócios: concepção, design e gestão"
 
 - sessionId: 3438
-  title: "Do Situation Wall ao Gemba, poderosos elementos para o Lean Digital Transformation"
+  title: Do Situation Wall ao Gemba, poderosos elementos para o Lean Digital Transformation
   author: Renato Macedo
+  track: "Práticas de trabalho: da ideia à entrega"
 
 - sessionId: 3456
-  title: "A verdade  nua e crua por trás das Transformações Ágeis"
+  title: A verdade  nua e crua por trás das Transformações Ágeis
   author: Manoel Pimentel Medeiros
+  track: "Culturas de trabalho: pessoas, times e organizações"
 
 - sessionId: 3458
   title: Retrospectiva de OKRs - Analisando e evoluindo objetivos e resultados chave além dos números
   author: Marília Nascimento Monteiro
+  track: "Culturas de trabalho: pessoas, times e organizações"
 
 - sessionId: 3472
-  title: "Música, Ensino, Programação e Transformações Ágeis"
+  title: Música, Ensino, Programação e Transformações Ágeis
   author: Juliano Ribeiro
+  track: "Relatos de Experiência: sua história sobre agilidade"
 
 - sessionId: 3485
   title: A Transformação Ágil na Engenharia e Manutenção de Portos e Terminais de uma empresa logística
   author: Fernando Souza
+  track: "Relatos de Experiência: sua história sobre agilidade"
 
 - sessionId: 3496
-  title: "Ágil sem agilismo: um desenvolvimento orgânico"
+  title: "Ágil sem “agilismo”: um desenvolvimento orgânico"
   author: Vívian Barreto
+  track: "Relatos de Experiência: sua história sobre agilidade"
 
 - sessionId: 3501
   title: Indo além do técnico para desenvolver sistemas que evoluem na velocidade do negócio
   author: Sebastian Ferrari
+  track: "Mão no código: desenvolvimento de software e tecnologia"
 
 - sessionId: 3319
   title: Interpretando Métricas - Um jogo em busca da eficiência!
   author: Natalia Lima
+  track: "Práticas de trabalho: da ideia à entrega"
 
 - sessionId: 3338
   title: Bora aprender com Sherlock Holmes a resolver problemas?
   author: Jéssica Ferrari
+  track: "Culturas de trabalho: pessoas, times e organizações"
 
 - sessionId: 3490
   title: "Entendendendo Pessoas e Personalidades: o Modelo Big Five"
   author: Rodrigo Yoshima
+  track: "Culturas de trabalho: pessoas, times e organizações"
 
 - sessionId: 3240
-  title: "Como o Lean, Agile e Gestão 3.0 irão aumentar a entrega de valor?"
+  title: Como o Lean, Agile e Gestão 3.0 irão aumentar a entrega de valor?
   author: Mayra de Souza
   coAuthor: Aurineide Cavalcante
+  track: "Práticas de trabalho: da ideia à entrega"
 
 - sessionId: 3255
   title: "9 meses em 4 dias: Como a Coca-Cola inovou no lançamento de produtos"
   author: Marcos Garrido
   coAuthor: Fernanda Magalhães
+  track: "Práticas de trabalho: da ideia à entrega"
 
 - sessionId: 3277
   title: Como a análise de maturidade ágil de times pode alavancar a agilidade na sua organização
   author: Rubia Toledo
   coAuthor: Samuel Soares
+  track: "Culturas de trabalho: pessoas, times e organizações"
 
 - sessionId: 3297
   title: Descomplicando o framework Fit For Purpose
   author: João Grabosque
   coAuthor: Ranieri Santos
+  track: "Produtos e negócios: concepção, design e gestão"
 
 - sessionId: 3308
   title: Design para o ‘Metaverso’
   author: Lúcia Kaplan
   coAuthor: Leonardo Azzi Martins
+  track: "Produtos e negócios: concepção, design e gestão"
 
 - sessionId: 3314
-  title: "Apertem os cintos, o controle sumiu! Como manter o foco e reduzir o stress do Agile Coach"
+  title: Apertem os cintos, o controle sumiu! Como manter o foco e reduzir o stress do Agile Coach
   author: Caco - Cleiton Mafra
   coAuthor: Anderson Gonzaga de Souza
+  track: "Relatos de Experiência: sua história sobre agilidade"
 
 - sessionId: 3331
   title: Como aplicar melhoria implacável num chapter de agilidade utilizando o Fit for purpose - F4P
   author: Uedson Carlos
   coAuthor: Victor Vidal
+  track: "Culturas de trabalho: pessoas, times e organizações"
 
 - sessionId: 3332
   title: "Unindo esforços: RH com Agilidade virando um produto"
   author: Cindy Morais
   coAuthor: Felipe Higa
+  track: "Relatos de Experiência: sua história sobre agilidade"
 
 - sessionId: 3362
   title: "Cultura Ágil com Entregas Frequentes, Iterativas e Incrementais: Meu Software Está Pronto pra Isso?"
   author: Lucas Nunes
   coAuthor: Mariana Minossi
+  track: "Mão no código: desenvolvimento de software e tecnologia"
 
 - sessionId: 3375
   title: Como criar um programa de estágio que une agilidade e mentoria técnica com diversidade e inclusão
   author: Denize Vásquez
   coAuthor: Lucas Nunes
+  track: "Relatos de Experiência: sua história sobre agilidade"
 
 - sessionId: 3379
   title: "NuBlacks case: Como a agilidade pode influenciar a pauta de Diversidade e Inclusão."
   author: Priscila De Souza Nunes
   coAuthor: Raphael Donaire Albino
+  track: "Relatos de Experiência: sua história sobre agilidade"
 
 - sessionId: 3387
   title: A importância do valor para o negócio e impacto na experiência do usuário nas nossas entregas
   author: Ruth Helena Mendes da Silva
   coAuthor: Michele Prieto
+  track: "Relatos de Experiência: sua história sobre agilidade"
 
 - sessionId: 3400
   title: "Soluções ágeis em saúde: gestão da mudança em cenários de crise."
   author: Renata Monteiro
   coAuthor: Rogério Ribeiro
+  track: "Produtos e negócios: concepção, design e gestão"
 
 - sessionId: 3402
   title: Deixe de ser uma organização tarefeira e torne-se um parceiro estratégico do seu cliente
   author: Samuel Soares
   coAuthor: Anderson de Souza Ribeiro
+  track: "Práticas de trabalho: da ideia à entrega"
 
 - sessionId: 3435
   title: Agilidade e a liderança emergente feminina
   author: Hanna Ohi
   coAuthor: Thaís Galão
+  track: "Culturas de trabalho: pessoas, times e organizações"
 
 - sessionId: 3449
   title: Agilidade Remote First - Disseminando a Cultura Ágil para uma Empresa Remota com + de 1K pessoas.
   author: Rafael de Oliveira
   coAuthor: Isabel Coutinho
+  track: "Relatos de Experiência: sua história sobre agilidade"
 
 - sessionId: 3455
   title: Como melhorar a manutenção do código através de boas práticas e métricas de qualidade
   author: Jessica Salvador Rodrigues Rocha
   coAuthor: Antonio Vilmar Silveira Castro
+  track: "Mão no código: desenvolvimento de software e tecnologia"
 
 - sessionId: 3489
   title: Onboarding de carreira na Agilidade
   author: Janaina Lima Guimarães
   coAuthor: Vívian Barreto
+  track: "Práticas de trabalho: da ideia à entrega"
 
 - sessionId: 3504
   title: A Agilidade apoiando na estratégia e modernização dos Produtos Digitais da Globo
   author: Samuel Thome
   coAuthor: Vanessa D'Aguiar
+  track: "Relatos de Experiência: sua história sobre agilidade"
 
 - sessionId: 3159
   title: Kanban Game - Aprenda como esse jogo ONLINE e GRÁTIS pode ser o catalisador das práticas Kanban
   author: Caco - Cleiton Mafra
   coAuthor: Dieine Silva
+  track: "Práticas de trabalho: da ideia à entrega"
 
 - sessionId: 3242
   title: Praticando conceitos de MVP com blocos de montar
   author: Hanna Ohi
   coAuthor: Layra Gonçalves
+  track: "Práticas de trabalho: da ideia à entrega"
 
 - sessionId: 3253
   title: Lightning Decision Jam - Como resolver problemas e tomar decisões em até 90min.
   author: Isabel Coutinho
   coAuthor: Luciana Mara Neves Vogas
+  track: "Práticas de trabalho: da ideia à entrega"
 
 - sessionId: 3260
   title: "Design Shot: concebendo soluções inovadoras com tecnologias portadoras de futuro"
   author: Eduardo Meira Peres
   coAuthor: Alessandra Guglieri
+  track: "Produtos e negócios: concepção, design e gestão"
 
 - sessionId: 3316
   title: "Sustainable Development: Managing Technical Debt"
   author: Joseph Yoder
   coAuthor: Graziela Simone Tonin
+  track: "Mão no código: desenvolvimento de software e tecnologia"
 
 - sessionId: 3392
   title: Design Flow na prática - Etapa AS IS
   author: Raquel Rodrigues Silva
   coAuthor: Patricia Hajdu
+  track: "Culturas de trabalho: pessoas, times e organizações"
 
 - sessionId: 3465
   title: Os impactos da comunicação não-inclusiva para as empresas
   author: Lasye Vicente
   coAuthor: Diogo Rodrigues
+  track: "Culturas de trabalho: pessoas, times e organizações"
