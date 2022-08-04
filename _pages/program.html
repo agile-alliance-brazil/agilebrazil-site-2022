@@ -14,6 +14,7 @@ permalink: /programa
     <table class="sessions">
       <thead>
         <tr>
+          <td>Trilha</td>
           <td>Nome da sessão</td>
           <td>Palestrantes</td>
         </tr>
@@ -21,6 +22,7 @@ permalink: /programa
       <tbody>
       {% for session in site.data.sessions %}
         <tr>
+          <td>{{session.track}}</td>
           <td>{{session.title}}</td>
           <td>
             {{session.author}}
