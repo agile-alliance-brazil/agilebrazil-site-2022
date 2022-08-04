@@ -70,6 +70,49 @@
   margin-bottom: 2rem;
 }
 
+/* Program */
+
+.program {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1em;
+  justify-content: space-between;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.program .session {
+  border: solid 1px #ddd;
+  flex-grow: 1;
+  padding: 1em;
+  max-width: 32%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.program .session h3 {
+  letter-spacing: 1px;
+  margin-bottom: 0;
+}
+
+.program .session p {
+  margin-bottom: 0.5em;
+}
+
+@media screen and (max-width: 980px) {
+  .program .session {
+    max-width: 48%;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .program .session {
+    max-width: unset;
+  }
+}
+
 table.sessions thead {
   font-weight: bold;
 }

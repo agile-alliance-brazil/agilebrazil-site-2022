@@ -1,0 +1,41 @@
+---
+title: Programação
+permalink: /sessoes
+---
+<div id="main" class="wrapper">
+  <div class="inner">
+    <header class="heading major">
+      <h1>Programa</h1>
+      <p>O que vai rolar na Agile Brazil 2022</p>
+    </header>
+
+    <p class="left">A programação da Agile Brazil está saindo do forno e você já pode ver uma prévia do que vai rolar! Durante a conferência, a grade será mostrada em um app para que você acompanhe as mudanças <em>live</em>.</p>
+
+    <p>Vale lembrar que a grade pode mudr a qualquer momento, respondendo às mudanças que chegam até nós!</p>
+
+    <section>
+      <ul class="program">
+      {% for session in site.data.sessions %}
+        <li class="session">
+          <h3>{{ session.title }}</h3>
+          <p>
+            {{session.author}}
+            {% if session.coAuthor %}
+              & {{session.coAuthor}}
+            {% endif %}
+          </p>
+          <p>{{session.track | truncatewords: 3, "" | remove: ":"}}</p>
+          <a href="" class="button small">Saiba mais</a>
+        </li>
+      {% endfor %}
+      </ul>
+  </section>
+
+    <hr>
+
+    <p>Para conhecer um pouco do conteúdo que recebemos na conferência, assista as palestras de outras edições da Agile Brazil no nosso canal no Youtube!</p>
+        <ul class="actions special">
+          <li><a href="https://www.youtube.com/channel/UCq45wLjEs9BRRreV02Fe8rw" class="button primary" target="_blank"><span class="fab fa-youtube"></span> Reveja conteúdo da AB</a></li>
+        </ul>
+  </div>
+</div>
