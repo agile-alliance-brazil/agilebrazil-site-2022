@@ -1,16 +1,25 @@
+#footer .sponsors img.titulo {
+  width: 45rem;
+  max-height: fit-content;
+}
 
 #footer .sponsors .diamante {
-  width: 280px;
+  width: 14rem;
   max-height: fit-content;
 }
 
 #footer .sponsors .prata {
-  width: 240px;
+  width: 12rem;
+  max-height: fit-content;
+}
+
+#footer .sponsors .prata.SoftDesign {
+  width: 15rem;
   max-height: fit-content;
 }
 
 #footer .sponsors .bronze {
-  width: 220px;
+  width: 12rem;
   max-height: fit-content;
 }
 
