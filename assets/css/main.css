@@ -4158,7 +4158,7 @@ input, select, textarea {
 	/* sponsor level sizing at custom.css */
 	#footer .sponsors img {
 		max-height: 120px;
-		max-width: 240px;
+		max-width: 100vw;
 		padding: 1em;
 	}
 

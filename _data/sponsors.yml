@@ -1,3 +1,8 @@
+- name: Kanbanize
+  logo: assets/images/sponsors/sponsor-logo-kanbanize.png
+  url: https://kanbanize.com/
+  level: titulo
+
 - name: DTI
   logo: assets/images/sponsors/sponsor-logo-dti.png
   url: https://dti.ag/home-agilebrazil-2022
