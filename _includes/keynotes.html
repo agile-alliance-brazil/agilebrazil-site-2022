@@ -3,7 +3,7 @@
       {% for keynote in site.data.keynotes %}
       <div class="profile">
         <div class="image">
-          <img src="{{ keynote.photo | prepend: site.baseurl_root }}" alt="foto de {{keynote.name}}" />
+          <img src="{{ keynote.photo | prepend: site.baseurl_root }}" alt="{% t labels.photo_of %} {{keynote.name}}" />
         </div>
         <header class="heading">
           <h3>{{ keynote.name }}</h3>
@@ -20,15 +20,15 @@
 
       <div class="profile">
         <div class="image">
-          <img src="assets/images/community.svg" alt="Comunidade" />
+          <img src="{{ "/assets/images/community.svg" | prepend: site.baseurl_root }}" alt="{% t labels.community %}" />
         </div>
         <header class="heading">
-          <h3>E muito mais!</h3>
-          <p>Conheça o restante da programação</p>
+          <h3>{% t labels.and_more %}</h3>
+          <p>{% t texts.know_the_rest_of_the_program %}</p>
         </header>
-        <p>Além de keynotes, a programação da Agile Brazil conta com muitas outras sessões, palestras e mãos na massa, de pessoas veteranas e estreantes da comunidade ágil! Você já pode ver as sessões na página de Programa.</p>
+        <p>{% t texts.call_to_program %}</p>
 
-        <a href="./programa" class="button primary icon solid far fa-list-alt">Veja a programação</a>
+        <a href="{% tl program %}" class="button primary icon solid far fa-list-alt">{% t labels.see_the_program %}</a>
       </div>
 
     </div>

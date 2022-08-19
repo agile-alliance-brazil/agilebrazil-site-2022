@@ -36,13 +36,16 @@ labels:
   previous_editions: Edições anteriores
   participate: Participe!
   registrations_are_open: Inscrições estão abertas!
-  program: Programa
   what_will_happen_at_the_ab: O que vai rolar na AB
   patronize: Patrocine!
   your_brand_on_agilebrazil: Sua marca na Agile Brazil
   keynotes: Keynotes
   health_protocols: Protocolos de Saúde
   privacy_policy: Política de privacidade
+  and_more: E muito mais!
+  community: Comunidade
+  see_the_program: Veja a programação
+  photo_of: Foto de 
 
 texts:
   registrations_are_open: As inscrições para a Agile Brazil 2022 já estão abertas e nos veremos em Porto Alegre, de 5 a 7 de outubro, para palestras, papos de corredor e happy hours!
@@ -53,3 +56,5 @@ texts:
   code_of_conduct: Levamos a segurança e experiência de todas as pessoas com a devida seriedade. Participantes, palestrantes e organizadores da Agile Brazil devem seguir nosso Código de Conduta.
   health_protocols: Na nossa seção "Sobre a AB" você também encontra os protocolos que adotaremos para que possamos nos encontrar presencialmente e com segurança. Saiba mais sobre requisitos vacinais e afins.
   privacy_policy: Você pode conhecer mais sobre porque perguntamos algumas informações e como usamos os dados coletados na inscrição, na submissão e na navegação desse site, na nossa Política de Privacidade. 
+  know_the_rest_of_the_program: Conheça o restante da programação
+  call_to_program: Além de keynotes, a programação da Agile Brazil conta com muitas outras sessões, palestras e mãos na massa, de pessoas veteranas e estreantes da comunidade ágil! Você já pode ver as sessões na página de Programa.
