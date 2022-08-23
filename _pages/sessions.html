@@ -11,12 +11,17 @@ permalink: /sessoes
 
     <p class="left">A programação da Agile Brazil está saindo do forno e você já pode ver uma prévia do que vai rolar! Durante a conferência, a grade será mostrada em um app para que você acompanhe as mudanças <em>live</em>.</p>
 
-    <p>Vale lembrar que a grade pode mudr a qualquer momento, respondendo às mudanças que chegam até nós!</p>
+    <p>Vale lembrar que a grade pode ser alterada a qualquer momento, respondendo às mudanças que chegam até nós!</p>
 
     <section>
       <ul class="program">
       {% for session in site.data.sessions %}
-        <li class="session">
+        <li class="session" id="session{{session.sessionId}}">
+          <div class="row classifications">
+            <p class="track"><strong>Trilha:</strong> {{session.track | truncatewords: 3, "" | remove: ":"}}</p>
+            <p class="level"><strong>Nível:</strong> {{session.level | truncatewords: 1, ""}}</p>
+            <p class="type"><strong>Tipo:</strong> {{session.type}}</p>
+          </div>
           <h3>{{ session.title }}</h3>
           <p>
             {{session.author}}
@@ -24,8 +29,13 @@ permalink: /sessoes
               & {{session.coAuthor}}
             {% endif %}
           </p>
-          <p>{{session.track | truncatewords: 3, "" | remove: ":"}}</p>
-          <a href="" class="button small">Saiba mais</a>
+          <details>
+            <summary>Saiba mais</summary>
+            {{session.abstract}}
+
+            <hr>
+            <strong>Pré-requisitos: </strong> {{session.preReqs}}
+          </details>
         </li>
       {% endfor %}
       </ul>

@@ -99,30 +99,35 @@
   border: solid 1px #ddd;
   flex-grow: 1;
   padding: 1em;
-  max-width: 32%;
+  max-width: 49%;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
 }
 
-.program .session h3 {
-  letter-spacing: 1px;
+.program .session .classifications p {
   margin-bottom: 0;
 }
 
-.program .session p {
-  margin-bottom: 0.5em;
+.program .session h3 {
+  letter-spacing: 1px;
+  margin-bottom: 0;
+  margin-top: 1.25rem;
 }
 
 @media screen and (max-width: 980px) {
   .program .session {
-    max-width: 48%;
+    max-width: 100%;
   }
 }
 
 @media screen and (max-width: 480px) {
   .program .session {
     max-width: unset;
+  }
+
+  .program .session .classifications {
+    flex-direction: column;
   }
 }
 
