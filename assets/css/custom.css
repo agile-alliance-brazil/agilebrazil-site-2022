@@ -8,6 +8,10 @@
   max-height: fit-content;
 }
 
+#footer .sponsors .diamante.Flomatika {
+  width: 22rem;
+}
+
 #footer .sponsors .prata {
   width: 12rem;
   max-height: fit-content;
@@ -19,7 +23,7 @@
 }
 
 #footer .sponsors .bronze {
-  width: 12rem;
+  width: 10rem;
   max-height: fit-content;
 }
 
