@@ -1,39 +1,47 @@
 ---
-title: Programa
+title: Programação
 permalink: /programa
 ---
 <div id="main" class="wrapper">
-  <div class="inner program">
+  <div class="inner">
     <header class="heading major">
       <h1>Programa</h1>
       <p>O que vai rolar na Agile Brazil 2022</p>
     </header>
 
-    <p>A programação da Agile Brazil está saindo do forno e, como valorizamos entrega desde cedo e com frequência de valor, você já pode ver uma prévia do que vai rolar -- depois vamos melhorando o formato e riqueza da informação.</p>
+    <p class="left">A programação da Agile Brazil está saindo do forno e você já pode ver uma prévia do que vai rolar! Durante a conferência, a grade será mostrada em um app para que você acompanhe as mudanças <em>live</em>.</p>
 
-    <table class="sessions">
-      <thead>
-        <tr>
-          <td>Trilha</td>
-          <td>Nome da sessão</td>
-          <td>Palestrantes</td>
-        </tr>
-      </thead>
-      <tbody>
+    <p>Vale lembrar que a grade pode ser alterada a qualquer momento, respondendo às mudanças que chegam até nós!</p>
+
+    <section>
+      <ul class="program">
       {% for session in site.data.sessions %}
-        <tr>
-          <td>{{session.track | truncatewords: 3, "" | remove: ":"}}</td>
-          <td>{{session.title}}</td>
-          <td>
+        <li class="session" id="session{{session.sessionId}}">
+          <div class="row classifications">
+            <p class="track"><strong>Trilha:</strong> {{session.track | truncatewords: 3, "" | remove: ":"}}</p>
+            <p class="level"><strong>Nível:</strong> {{session.level | truncatewords: 1, ""}}</p>
+            <p class="type"><strong>Tipo:</strong> {{session.type}}</p>
+          </div>
+          <h3>{{ session.title }}</h3>
+          <p>
             {{session.author}}
             {% if session.coAuthor %}
               & {{session.coAuthor}}
             {% endif %}
-          </td>
-        </tr>
+          </p>
+          <details>
+            <summary>Saiba mais</summary>
+            {{session.abstract}}
+
+            <hr>
+            <strong>Pré-requisitos: </strong> {{session.preReqs}}
+          </details>
+        </li>
       {% endfor %}
-      </tbody>
-    </table>
+      </ul>
+  </section>
+
+    <hr>
 
     <p>Para conhecer um pouco do conteúdo que recebemos na conferência, assista as palestras de outras edições da Agile Brazil no nosso canal no Youtube!</p>
         <ul class="actions special">
