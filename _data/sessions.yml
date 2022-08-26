@@ -1,13 +1,13 @@
-- sessionId: 3389
-  title: "Planejamento Estratégico Adaptativo no Setor Público: Relatos de Experiência"
-  author: "Bruno Baranda"
-  track: "Práticas De Trabalho: Da Ideia à Entrega"
-  abstract: |
-    <p>Em um mundo em constante transformação o planejamento estratégico não pode ser estático. Tendências como transformação digital, metodologias ágeis, cultura colaborativa, entre outras devem ser incorporadas ao pensamento sistêmico e construção de cenários no âmbito das organizações. Nesse contexto, os desafios da gestão pública em lidar com problemas complexos e dinâmicos fazem emergir o planejamento estratégico adaptativo, de modo a interpretar os sinais e permitir a geração de valor para seus usuários, além dos métodos e frameworks tradicionais.</p>
-  level: Inicial (Pré Requisitos São Opcionais)
-  type: Apresentação
-  duration: 25
-  preReqs: "Conhecimento prévio sobre planejamento estratégico"
+#- sessionId: 3389
+#  title: "Planejamento Estratégico Adaptativo no Setor Público: Relatos de Experiência"
+#  author: "Bruno Baranda"
+#  track: "Práticas De Trabalho: Da Ideia à Entrega"
+#  abstract: |
+#    <p>Em um mundo em constante transformação o planejamento estratégico não pode ser estático. Tendências como transformação digital, metodologias ágeis, cultura colaborativa, entre outras devem ser incorporadas ao pensamento sistêmico e construção de cenários no âmbito das organizações. Nesse contexto, os desafios da gestão pública em lidar com problemas complexos e dinâmicos fazem emergir o planejamento estratégico adaptativo, de modo a interpretar os sinais e permitir a geração de valor para seus usuários, além dos métodos e frameworks tradicionais.</p>
+#  level: Inicial (Pré Requisitos São Opcionais)
+#  type: Apresentação
+#  duration: 25
+#  preReqs: "Conhecimento prévio sobre planejamento estratégico"
 
 - sessionId: 3441
   title: "Elevando sua análise de métricas para o próximo nível"
