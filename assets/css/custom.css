@@ -85,7 +85,7 @@
 
 /* Program */
 
-.program {
+.program ul {
   display: flex;
   flex-wrap: wrap;
   gap: 1em;
@@ -93,6 +93,10 @@
   list-style: none;
   margin: 0;
   padding: 0;
+}
+
+.program h2 {
+  margin-top: 2em;
 }
 
 .program .session {
