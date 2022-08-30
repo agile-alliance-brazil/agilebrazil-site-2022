@@ -4107,16 +4107,11 @@ input, select, textarea {
 		text-align: center;
 	}
 
-	#footer h2 {
-		color: var(--ab-logo-branco);
-		margin-top: 0.5rem;
-		text-align: left;
-	}
-
 	#footer h3 {
 		color: var(--ab-logo-branco);
 		font-size: 2rem;
 		margin-top: 0.5rem;
+		text-align: left;
 	}
 
 	#footer a {
@@ -4150,6 +4145,10 @@ input, select, textarea {
 		padding: 2em 4em;
 	}
 
+	#footer .patrocinadores h2 {
+		color: var(--ab-logo-branco);
+	}
+
 	#footer .sponsors {
 		display: flex;
 		flex-grow: 1;
@@ -4166,52 +4165,59 @@ input, select, textarea {
 		padding: 1em;
 	}
 
+	#footer .localizacao address {
+		display: inline-block;
+		vertical-align: top;
+		padding-left: 1em;
+		text-align: left;
+		font-size: 1.2rem;
+	} 
+
+	#footer .localizacao address p {
+		margin-bottom: 0;
+	}
+
+	#footer .localizacao address strong {
+		color: var(--ab-logo-branco);
+		display: block;
+		margin-bottom: 0.5em;
+	}
+	
 	#footer .apoio,
 	#footer .social {
 		border-left: var(--ab-divisores) solid 1px;
 		padding-left: 2em;
+		min-width: 320px;
+		max-width: 320px;
 	}
 
-	#footer .supporters {
+	#footer .apoio img {
+		width: 132px;
+		padding-bottom: 1em;
+	}
+
+	#footer .apoio .supporters {
+		align-items: center;
 		display: flex;
-		flex-direction: column;
+		flex-wrap: wrap;
+		gap: 1em;
+		justify-content: space-evenly;
 		margin-bottom: 0;
 	}
 
-	#footer .apoio a,
-	#footer .apoio img {
-		width: 140px;
-		padding-bottom: 0.5em;
-	}
-
-	#footer .social {
-		min-width: 320px;
-	}
-
 	#footer .copyleft {
+		font-size: 13px;
 		padding: 1em 4em;
 	}
 
-	#footer .divider ul.icons li {
-		padding: 0;
-	}
-
-	#footer .divider span {
-		font-size: 13px;
-	}
-
-	#footer ul.icons {
+	#footer .social ul.icons {
 		display: flex;
 		flex-direction: row;
 		justify-content: space-evenly;
 		margin-bottom: 0;
 	}
 
-	#footer ul.icons li {
-		display: block;
-	}
-
-	#footer ul.icons li a {
+	#footer .social ul.icons li a {
 		box-shadow: inset 0 0 0 1px var(--ab-logo-branco);
 		color: var(--ab-logo-branco);
 		margin: 0;
@@ -4225,7 +4231,7 @@ input, select, textarea {
 		#footer .footer-wrapper {
 			flex-direction: column;
 			gap: 1em;
-			padding: 2em 2em;
+			padding: 2em;
 		}
 
 		#footer .apoio,
@@ -4234,27 +4240,16 @@ input, select, textarea {
 			padding-left: unset;
 			border-top: var(--ab-divisores) solid 1px;
 			padding-top: 2em;
+			min-width: none;
 		}
 
-		#footer h2 {
+		#footer h3 {
 			text-align: center;
-			font-size: 2rem;
-			padding-bottom: 1rem;
-		}
-
-		#footer .supporters {
-			align-items: center;
-			flex-direction: row;
-			flex-wrap: wrap;
-			gap: 2em;
-			justify-content: space-evenly;
 		}
 	}
 
 	@media screen and (max-width: 736px) {
-
 	}
 
 	@media screen and (max-width: 480px) {
-
 	}
