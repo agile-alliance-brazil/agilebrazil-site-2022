@@ -1,30 +1,73 @@
-#footer .sponsors img.titulo {
-  width: 45rem;
-  max-height: fit-content;
+/* Footer default sizes, desktop */
+#footer .sponsorsInLevel img.título {
+  width: 48vw;
 }
 
-#footer .sponsors .diamante {
-  width: 14rem;
-  max-height: fit-content;
+#footer .sponsorsInLevel img.diamante {
+  width: 32vw;
 }
 
-#footer .sponsors .diamante.Flomatika {
-  width: 22rem;
+#footer .sponsorsInLevel img.prata {
+  width: 16vw;
 }
 
-#footer .sponsors .prata {
-  width: 12rem;
-  max-height: fit-content;
+#footer .sponsorsInLevel img.bronze {
+  width: 12vw;
 }
 
-#footer .sponsors .prata.SoftDesign {
-  width: 15rem;
-  max-height: fit-content;
+#footer .sponsorsInLevel img.comunidade,
+#footer .sponsorsInLevel img.diversidade {
+  width: 10vw;
 }
 
-#footer .sponsors .bronze {
-  width: 10rem;
-  max-height: fit-content;
+/* Footer customizations, desktop */
+#footer .sponsorsInLevel img.diamante.DTI {
+  width: 10vw;
+}
+
+#footer .sponsorsInLevel img.prata.SoftDesign {
+  width: 22vw;
+}
+
+#footer .sponsorsInLevel img.comunidade.Wildtech {
+  width: 12vw;
+}
+
+@media screen and (max-width: 736px) {
+  /* Footer default sizes, mobile */
+  #footer .sponsorsInLevel img.título {
+    width: 90vw;
+  }
+
+  #footer .sponsorsInLevel img.diamante {
+    width: 60vw;
+  }
+
+  #footer .sponsorsInLevel img.prata {
+    width: 40vw;
+  }
+
+  #footer .sponsorsInLevel img.bronze {
+    width: 30vw;
+  }
+
+  #footer .sponsorsInLevel img.comunidade,
+  #footer .sponsorsInLevel img.diversidade {
+    width: 20vw;
+  }
+
+  /* Footer customizations, mobile */
+  #footer .sponsorsInLevel img.diamante.DTI {
+    width: 20vw;
+  }
+
+  #footer .sponsorsInLevel img.prata.SoftDesign {
+    width: 48vw;
+  }
+
+  #footer .sponsorsInLevel img.comunidade.Wildtech {
+    width: 30vw;
+  }
 }
 
 .codeOfConduct {

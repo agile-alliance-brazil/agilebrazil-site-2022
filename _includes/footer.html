@@ -1,20 +1,8 @@
 <!-- Footer -->
 <footer id="footer">
-  <section class="footer-wrapper">
-    <div class="patrocinadores">
-      <h2>Patrocínio</h2>
+  {% include sponsors.html %}
 
-      <div class="sponsors">
-      {% for sponsor in site.data.sponsors %}
-        <a href="{{sponsor.url}}" target="_blank">
-          <img class="{{sponsor.level}}  {{sponsor.name}}" src="{{sponsor.logo}}" alt="{{sponsor.name}}">
-        </a>
-      {% endfor %}
-      </div>
-    </div>
-  </section>
-
-  <section class="footer-wrapper divider">
+  <section class="sobre">
     <div class="localizacao">
       <h3>Local</h3>
 
