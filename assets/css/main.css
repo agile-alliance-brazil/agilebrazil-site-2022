@@ -4188,6 +4188,10 @@ input, select, textarea {
     justify-content: space-evenly;
 	}
 
+	#footer .patrocinadoras .empresas img {
+		margin: 5vh 0;
+	}
+
 	/* sponsor level sizing at custom.css */
 
 	@media screen and (max-width: 736px) {
