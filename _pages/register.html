@@ -16,7 +16,10 @@ permalink: /inscricoes
     <div class="row gtr-50 gtr-uniform">
     {% for ticket in site.data.register %}
       {% if ticket.current %}
-        <a class="rate current" href="{{ site.sistemas.inscricoes }}" target="_blank">
+        {% if ticket.name="Estudante" %}
+          <a class="rate current" href="#faq">
+        {% else %}
+          <a class="rate current" href="{{ site.sistemas.inscricoes }}" target="_blank">
       {% else %}
         <div class="rate">
       {% endif %}
@@ -32,7 +35,7 @@ permalink: /inscricoes
     </div>
 
 
-    <h2>Perguntas frequentes</h2>
+    <h2 id="faq">Perguntas frequentes</h2>
     <dl>
       {% for faq in site.data.faq %}
       <dt>{{faq.question}}</dt>
