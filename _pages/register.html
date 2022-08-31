@@ -16,7 +16,7 @@ permalink: /inscricoes
     <div class="row gtr-50 gtr-uniform">
     {% for ticket in site.data.register %}
       {% if ticket.current %}
-        {% if ticket.name="Estudante" %}
+        {% if ticket.name=="Estudante" %}
           <a class="rate current" href="#faq">
         {% else %}
           <a class="rate current" href="{{ site.sistemas.inscricoes }}" target="_blank">
