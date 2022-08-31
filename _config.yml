@@ -41,6 +41,15 @@ sistemas:
 url: "https://www.agilebrazil.com"
 baseurl: "/2022" # the subpath of your site, e.g. /blog
 
+cotas:
+  - título
+  - diamante
+#  - ouro
+  - prata
+  - bronze
+  - comunidade
+  - diversidade
+
 permalink: :slug
 theme: jekyll-theme-minimal
 

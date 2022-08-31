@@ -1,7 +1,7 @@
 - name: Kanbanize
   logo: assets/images/sponsors/sponsor-logo-kanbanize.png
   url: https://kanbanize.com/
-  level: titulo
+  level: título
 
 - name: DTI
   logo: assets/images/sponsors/sponsor-logo-dti.png
@@ -13,8 +13,13 @@
   url: https://www.flomatika.com/
   level: diamante
 
+- name: ThoughtWorks
+  logo: assets/images/sponsors/sponsor-logo-thoughtworks.png
+  url: https://www.thoughtworks.com/
+  level: diamante
+
 - name: SoftDesign
-  logo: assets/images/sponsors/sponsor-logo-softdesign.png
+  logo: assets/images/sponsors/sponsor-logo-softDesign.png
   url: https://softdesign.com.br/
   level: prata
 
@@ -27,3 +32,18 @@
   logo: assets/images/sponsors/sponsor-logo-Bain.png
   url: https://www.bain.com.br/
   level: bronze
+
+- name: Suzano
+  logo: assets/images/sponsors/sponsor-logo-suzano.png
+  url: https://www.suzano.com.br/
+  level: bronze
+
+- name: Wildtech
+  logo: assets/images/sponsors/sponsor-logo-wildtech.png
+  url: https://www.wildtech.com.br/
+  level: comunidade
+
+- name: RaphaAlbino
+  logo: assets/images/sponsors/sponsor-logo-raphaalbino.png
+  url: https://rapha-albino.com.br/
+  level: diversidade

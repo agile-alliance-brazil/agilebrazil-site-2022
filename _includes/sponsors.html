@@ -1,0 +1,24 @@
+<!-- Sponsors -->
+<section class="patrocinadoras">
+  <header class="heading major">
+    <h2>Patrocinadoras</h2>
+    <p>Conheça as empresas que apoiam a Agile Brazil</p>
+  </header>
+
+  {% for cota in site.cotas %}
+  <div class="sponsorsInLevel {{cota}}">
+    <div class="cota">
+      <h3>Patrocínio {{cota}}</h3>
+    </div>
+
+    <div class="empresas">
+    {% assign levelSponsors = site.data.sponsors | where: "level", cota %}
+    {% for sponsor in levelSponsors %}
+      <a href="{{sponsor.url}}" target="_blank">
+        <img class="{{sponsor.level}}  {{sponsor.name}}" src="{{sponsor.logo}}" alt="{{sponsor.name}}">
+      </a>
+    {% endfor %}
+    </div>
+  </div>
+  {% endfor %}
+</section>
