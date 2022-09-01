@@ -18,13 +18,20 @@
   amount: 270
   current: true
   start: 2022-06-24
-  end: 2022-08-31
+  end: 2022-09-14
+
+- name: Estudante
+  price: 460
+  amount: 40
+  current: true
+  start: 2022-05-09
+  end: 2022-10-07
 
 - name: Normal
   price: 920
   amount: 250
   current: false
-  start: 2022-09-01
+  start: 2022-09-15
   end: 2022-09-30
 
 - name: Última hora
@@ -32,11 +39,4 @@
   amount: 30
   current: false
   start: 2022-10-01
-  end: 2022-10-07
-
-- name: Estudante
-  price: 460
-  amount: 40
-  current: false
-  start: 2022-05-09
   end: 2022-10-07
