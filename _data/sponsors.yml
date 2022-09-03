@@ -28,6 +28,11 @@
   url: https://www.linkedin.com/company/arcelormittal-sistemas
   level: prata
 
+- name: DB
+  logo: assets/images/sponsors/sponsor-logo-db.png
+  url: https://db.tec.br/
+  level: prata
+
 - name: Bain
   logo: assets/images/sponsors/sponsor-logo-Bain.png
   url: https://www.bain.com.br/
