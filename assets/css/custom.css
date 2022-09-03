@@ -29,6 +29,10 @@
   width: 22vw;
 }
 
+#footer .sponsorsInLevel img.prata.SoftDesign {
+  width: 18vw;
+}
+
 #footer .sponsorsInLevel img.diversidade.RaphaAlbino,
 #footer .sponsorsInLevel img.comunidade.Wildtech {
   width: 12vw;
@@ -64,6 +68,10 @@
 
   #footer .sponsorsInLevel img.prata.SoftDesign {
     width: 48vw;
+  }
+
+  #footer .sponsorsInLevel img.prata.SoftDesign {
+    width: 36vw;
   }
 
   #footer .sponsorsInLevel img.diversidade.RaphaAlbino,
