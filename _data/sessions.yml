@@ -776,30 +776,30 @@
   author: "Fabio Massa"
   track: "Culturas de Trabalho: pessoas, times e organizações"
   abstract: |
-    <p>-</p>
+    <p>Vamos falar sobre pessoas?</p><p>Quem iniciou a carreira como engenheiro de software/desenvolvedor e almeja algum cargo de liderança, passa por inúmeros questionamentos e muita indecisão. Afinal, ficar à frente da liderança de um time requer muita responsabilidade, ou ao menos, é sempre a primeira impressão sobre esse papel.</p><p>A proposta dessa talk é baseada na minha trajetória, como desenvolvedor, irei compartilhar como foi assumir o cargo de gestão e deixar de lado algo que eu gostava muito que era programar. Vou contar um pouquinho de quais desafios te esperam, e também dos momentos de orgulho e realizações nessa posição. Se você almeja um dia ficar à frente da liderança de um time de tecnologia, essa talk é para você!</p>
   level: Inicial (Pré Requisitos São Opcionais)
   type: Apresentação
   duration: 25
-  preReqs: "-"
+  preReqs: "Desejo e/ou vontade de liderar pessoas."
 
 - sessionId: 3486
   title: "Destravando a LIDERANÇA ÁGIL com LEGO® SERIOUS PLAY®"
   author: "Marcelo Macedo"
   track: "Culturas de Trabalho: pessoas, times e organizações"
   abstract: |
-    <p>-</p>
+    <p>Criar novas habilidades é uma responsabilidade de todos, mas as lideranças tem papel fundamental para o sucesso das mudanças organizacionais.</p><p>A grande questão é que muitas vezes líderes se encontram TRAVADOS em estilos de gestão que os distanciam dos resultados desejados.</p><p>Esse WORKSHOP irá ajudar LÍDERES e AGILISTAS a compreender como desenvolver habilidades necessárias para construir times com maior autonomia, engajamento e energia para superar até as atividades mais desafiadoras!</p><p>Workshop totalmente prático e desbravador, você terá uma imersão profunda, por meio da metodologia LEGO® SERIOUS PLAY®, que promove a criatividade e a interação entre pessoas para descobrir formas de DESTRAVAR a liderança ágil.</p><p>Inscreva-se nesse workshop e venha destravar com a gente!</p>
   level: Intermediário (Pré Requisitos São Importantes, Contudo Podem Ser Mais Genéricos)
   type: Mão Na Massa
   duration: 110
-  preReqs: "-"
+  preReqs: "Fundamentos de agilidade."
 
 - sessionId: 3165
   title: "Elaborando boas histórias na prática. Para além do INVEST"
   author: "Nilton Garcia"
   track: "Práticas de Trabalho: da ideia à entrega"
   abstract: |
-    <p>-</p>
+    <p>Histórias estão no centro da entrega de valor! Mas é comum o inicial ser dado por ultrapassado conforme os times avançam na adoção de preceitos da Agilidade.</p><p>Por isso, mostrarei alguns PADRÕES que ajudam a identificar e elaborar boas histórias, contribuindo com o INVEST do Mike Cohn. Você verá: 3 formas de gerir backlog, 2 formas de identificar histórias, 10 formas de fatiá-las, 8 disfunções ao escrever e o que conecta tudo, com exemplos.</p><p>Isso inclui, claro, os essenciais critérios de aceitação! "Ah, mas é tão difícil elaborá-los no formato BDD…". Bom, mostrarei uma alternativa interessante, que pode ser útil no seu contexto.</p><p>E, para além desse (importante) reforço, na esteira das tendências, indicarei 8 product-led patterns que também ajudam nessa busca contínua da eficácia.</p>
   level: Intermediário (Pré Requisitos São Importantes, Contudo Podem Ser Mais Genéricos)
   type: Apresentação
   duration: 60
-  preReqs: "-"
+  preReqs: "Familiaridade com a terminologia geral da Agilidade. Um pouco de prática com elaboração de histórias ajuda a entender a aplicação dos conceitos."
