@@ -1,20 +1,20 @@
-#- sessionId: 3389
-#  title: "Planejamento Estratégico Adaptativo no Setor Público: Relatos de Experiência"
-#  author: "Bruno Baranda"
-#  track: "Práticas De Trabalho: Da Ideia à Entrega"
-#  abstract: |
-#    <p>Em um mundo em constante transformação o planejamento estratégico não pode ser estático. Tendências como transformação digital, metodologias ágeis, cultura colaborativa, entre outras devem ser incorporadas ao pensamento sistêmico e construção de cenários no âmbito das organizações. Nesse contexto, os desafios da gestão pública em lidar com problemas complexos e dinâmicos fazem emergir o planejamento estratégico adaptativo, de modo a interpretar os sinais e permitir a geração de valor para seus usuários, além dos métodos e frameworks tradicionais.</p>
-#  level: Inicial (Pré Requisitos São Opcionais)
-#  type: Apresentação
-#  duration: 25
-#  preReqs: "Conhecimento prévio sobre planejamento estratégico"
+- sessionId: 3389
+  title: "Planejamento Adaptativo, agilidade organizacional ao seu alcance"
+  author: "Bruno Baranda"
+  track: "Práticas de Trabalho: Da Ideia à Entrega"
+  abstract: |
+    <p>Num mundo em constante transformação faz pouco sentido ter um plano inflexível pois ele se torna uma mera peça de ficção. Diante desse cenário, é importante entendermos como as metodologias ágeis podem facilitar o processo de planejamento organização para permitir a adaptabilidade necessária sem perder o foco na missão organizacional.</p><p>O planejamento adaptativo é uma maneira nova e flexível de organizar projetos e ações permitindo respostas rápidas às mudanças e evitando desperdícios.</p><p>Suas características incluem: visão holística, estratégia situacional, multidimensionalidade e interdependência, planos em camadas, iteração, coparticipação, autogerenciamento e entregas frequentes. E os resultados revelam ganhos de eficiência e engajamento.</p><p>Um framework atual que já é experimentado e implementado em unidades do setor público, tanto no Ministério da Economia (LABORA! gov) como no Ministério da Cidadania (Formação Cidadania) e vem atraindo interesse por outras unidades e órgãos do setor público, inclusive fora do governo.</p><p>Venha ver como o LABORA! gov e o Formação Cidadania vem implementando soluções para lidar com um mundo em constante mudança.</p>
+  level: Inicial (Pré Requisitos São Opcionais)
+  type: Apresentação
+  duration: 25
+  preReqs: "Conhecimento prévio sobre planejamento estratégico"
 
 - sessionId: 3441
   title: "Elevando sua análise de métricas para o próximo nível"
   author: "João Grabosque"
-  track: "Práticas De Trabalho: Da Ideia à Entrega"
+  track: "Práticas de Trabalho: Da Ideia à Entrega"
   abstract: |
-    <p>Se você já tem utilizado métricas no dia a dia mas sente que no final acaba se limitando apenas a análises básicas e superficiais essa talk é para você! </p><p>Vou te mostrar na prática quais são os próximos passos para dar um upgrade na forma como você tem usado as métricas a fim de ir além do óbvio e alcançar melhores resultados.</p><p>Irei compartilhar várias dicas rápidas e práticas com exemplos e insights que vão te guiar para tomar melhores decisões, conseguir identificar os principais ofensores existentes e também as alavancas certas para construir evoluções sólidas a partir do seu cenário atual.</p>
+    <p>Se você já tem utilizado métricas no dia a dia mas sente que no final acaba se limitando apenas a análises básicas e superficiais essa talk é para você! </p><p>Vou te mostrar na prática quais são os próximos passos para dar um upgrade na forma como você tem usado as métricas a fim de ir além do óbvio e alcançar melhores resultados. </p><p>Irei compartilhar várias dicas rápidas e práticas com exemplos e insights que vão te guiar para tomar melhores decisões, conseguir identificar os principais ofensores existentes e também as alavancas certas para construir evoluções sólidas a partir do seu cenário atual.</p>
   level: Intermediário (Pré Requisitos São Importantes, Contudo Podem Ser Mais Genéricos)
   type: Apresentação
   duration: 50
@@ -23,7 +23,7 @@
 - sessionId: 3381
   title: "Como Extreme Programming Mudou Minha Vida"
   author: "Jiba Waghetti"
-  track: "Relatos De Experiência: Sua História Sobre Agilidade"
+  track: "Relatos de Experiência: Sua História Sobre Agilidade"
   abstract: |
     <p>Scrum Flácido é maneira como Martin Fowler descreve o contexto onde se escolhe Scrum, se implementam as práticas e, talvez, até os princípios. Mas por falta de boas práticas de engenharia, o real valor da agilidade não é percebido.</p><p>Nesta palestra, trago minha experiência pessoal de como Extreme Programming (XP) mudou minha percepção relacionada ao que era agilidade em um contexto onde o Scrum era Flácido. Não apenas pela falta de boas práticas de engenharia, mas também por um incorreto entendimento de Scrum e o agilidade de uma maneira geral.</p><p>Botando a mão na massa com XP, de olho também em seus valores e princípios, muitas pessoas saíram do fundo de um poço onde agilidade era apenas uma palavra vazia para aplicar agilidade em cada momento do seu dia de trabalho.</p>
   level: Inicial (Pré Requisitos São Opcionais)
@@ -34,7 +34,7 @@
 - sessionId: 3475
   title: "Negociando escopo e melhorando visibilidade de entrega através dos gráficos"
   author: "Foca - Luiz Felipe Sanches Gonçalves"
-  track: "Relatos De Experiência: Sua História Sobre Agilidade"
+  track: "Relatos de Experiência: Sua História Sobre Agilidade"
   abstract: |
     <p>Quando temos projetos que tem orçamento fixo ou data de entrega inegociável, a ansiedade do cliente costuma ser muito alta.</p><p>Essa ansiedade pode acabar afetando o time e isso piora quando este cliente não está acostumado com a forma de trabalho de times ágeis.</p><p>Vamos demonstrar como diminuímos esse sentimento utilizando uma gestão visual com gráficos, por exemplo burndown e burnup.</p><p>Também demonstraremos como essa transparência nos auxiliou nas negociações de escopo, para uma entrega factível e de qualidade, norteando a expectativa do cliente ao longo da jornada.</p>
   level: Inicial (Pré Requisitos São Opcionais)
@@ -46,7 +46,7 @@
   title: "A Agilidade apoiando na estratégia e modernização dos Produtos Digitais da Globo"
   author: "Samuel Thome"
   coAuthor: "Vanessa D'Aguiar"
-  track: "Relatos De Experiência: Sua História Sobre Agilidade"
+  track: "Relatos de Experiência: Sua História Sobre Agilidade"
   abstract: |
     <p>A forma como consumimos conteúdos online mudou e a Agilidade também. O mundo digital e as redes sociais aproximaram mais os usuários que estão cada vez mais exigentes, querendo mais vídeos, personalizações ou uma usabilidade melhor. Já a Agilidade pede por adaptações de acordo com cada contexto. Por isso aqui na Globo, nós estamos olhando para as experiências dos nossos produtos digitais com um olhar estratégico, seja para produtos já consolidados como a globo.com, o gshow, g1, ge e cartola ou novas apostas como big game bbb e o giga gloob. Sendo apoiado pelo globo framework, nosso framework de agilidade, utilizando OKRs e dinâmicas de co-criação para discovery dentro da nossa quarter planning, que une negócios e tecnologia. Inspire-se para trazer as adaptações que o mercado está pedindo!</p>
   level: Intermediário (Pré Requisitos São Importantes, Contudo Podem Ser Mais Genéricos)
@@ -57,7 +57,7 @@
 - sessionId: 3501
   title: "Indo além do técnico para desenvolver sistemas que evoluem na velocidade do negócio"
   author: "Sebastian Ferrari"
-  track: "Mão No Código: Desenvolvimento De Software E Tecnologia"
+  track: "Mão no Código: Desenvolvimento de Software e Tecnologia"
   abstract: |
     <p>Se já viu ou ouviu falar dos temidos sistemas legados sabe que modificar ou acrescentar novas funcionalidades são tarefas complexas ou inviáveis recorrendo a famosa e muito utilizada técnica de refazer tudo do zero com a esperança de que desta vez o software responda na mesma velocidade que o negócio evolui. E mesmo aplicando as “boas práticas” com o passar do tempo o resultado é o mesmo, um sistema complexo repleto de abstrações que não fazem sentido pro negócio.</p><p>Nesta palestra vou te mostrar abordagens e ferramentas do Domain Driven Design (DDD) que vão te ajudar a construir sistemas de maneira colaborativa com o pessoal que entende do negócio junto com quem é mais técnico (Devs, UX, …) para que o sistema reflita o negócio e evolua de acordo com a velocidade do negócio.</p>
   level: Intermediário (Pré Requisitos São Importantes, Contudo Podem Ser Mais Genéricos)
@@ -68,9 +68,9 @@
 - sessionId: 3496
   title: "Ágil sem “agilismo”: um desenvolvimento orgânico"
   author: "Vívian Laís Silva Barreto"
-  track: "Relatos De Experiência: Sua História Sobre Agilidade"
+  track: "Relatos de Experiência: Sua História Sobre Agilidade"
   abstract: |
-    <p>Kanban ou Scrum? Story points, T-shirts ou No Estimates? Leadtime ou System leadtime? Precisamos limitar o WIP! Já temos as definições de DoR e DoD? Essa demanda é Expedite, Fixed Dated ou Standard?</p><p>Quantos conceitos a serem ensinados; quantas decisões a serem tomadas... E depois de repassar tudo isso para o time, você ainda pode não ter sucesso com a aplicação do ágil. O motivo é simples, em meio a tanto conhecimento disseminado, por vezes, esquecemos de focar no que verdadeiramente importa: os problemas do time.</p><p>Esta apresentação demonstrará como apliquei práticas ágeis junto de forma orgânica, focando nos problemas do cliente, que neste caso é time.</p>
+    <p>Kanban ou Scrum? Story points, T-shirts ou No Estimates? Leadtime ou System leadtime? Precisamos limitar o WIP! Já temos as definições de DoR e DoD? Essa demanda é Expedite, Fixed Dated ou Standard? </p><p>Quantos conceitos a serem ensinados; quantas decisões a serem tomadas... E depois de repassar tudo isso para o time, você ainda pode não ter sucesso com a aplicação do ágil. O motivo é simples, em meio a tanto conhecimento disseminado, por vezes, esquecemos de focar no que verdadeiramente importa: os problemas do time.</p><p>Esta apresentação demonstrará como apliquei práticas ágeis junto de forma orgânica, focando nos problemas do cliente, que neste caso é time.</p>
   level: Intermediário (Pré Requisitos São Importantes, Contudo Podem Ser Mais Genéricos)
   type: Apresentação
   duration: 25
@@ -79,7 +79,7 @@
 - sessionId: 3490
   title: "Entendendendo Pessoas e Personalidades: o Modelo Big Five"
   author: "Rodrigo Yoshima"
-  track: "Culturas De Trabalho: Pessoas, Times E Organizações"
+  track: "Culturas de Trabalho: Pessoas, Times e Organizações"
   abstract: |
     <p>Por que as pessoas resistem mudar? Por que certas pessoas são mais pessimistas e não compram riscos? Por que a comunicação é tão complicada com certas pessoas? Por que certas pessoas sobre valorizam a sua experiência ao invés de indicadores? Por que a inovação não acontece? Por que mudar o mindset é tão difícil? Se você tem essas perguntas é bem provável que a resposta esteja em lugares inusitados: a personalidade das pessoas as impede de se engajar em certas iniciativas e projetos.</p><p>Nesta sessão interativa prática com Rodrigo Yoshima você irá aprender mais sobre a sua personalidade e como a personalidade das pessoas da sua organização podem minar ou potencializar a solução de problemas, a gestão de mudanças e a inovação.</p>
   level: Profundo (Pré Requisitos São Obrigatórios, E Devem Ser Específicos)
@@ -91,7 +91,7 @@
   title: "Onboarding de carreira na Agilidade"
   author: "Janaina Lima Guimarães"
   coAuthor: "Vívian Laís Silva Barreto"
-  track: "Práticas De Trabalho: Da Ideia à Entrega"
+  track: "Práticas de Trabalho: Da Ideia à Entrega"
   abstract: |
     <p>Você está iniciando na carreira de agilidade e se sente perdida, sem saber o que deve estudar e aprender para se tornar uma pessoa agilista desejada pelo mercado? Ou você já está no mercado e ainda se sente em dúvida sobre qual o próximo item a avançar nos tópicos de agilidade? Saber pesquisar e filtrar todas as informações e conteúdos disponíveis pela internet não é uma tarefa fácil. E acredite, você não precisa saber de tudo, mas é preciso entender o seu desafio atual ou desejado para selecionar qual o próximo passo que você precisa dar. Foi pensando nisso que nós desenvolvemos um material que oferece uma visão geral das qualidades e conhecimentos que uma pessoa agilista deve ter e com ele você será capaz de montar sua própria rota e acelerar o desenvolvimento da sua carreira.</p>
   level: Inicial (Pré Requisitos São Opcionais)
@@ -102,7 +102,7 @@
 - sessionId: 3485
   title: "A Transformação Ágil na Engenharia e Manutenção de Portos e Terminais de uma empresa logística"
   author: "Fernando Souza"
-  track: "Relatos De Experiência: Sua História Sobre Agilidade"
+  track: "Relatos de Experiência: Sua História Sobre Agilidade"
   abstract: |
     <p>É possível que uma área tradicional como a a Engenharia, possa passar por uma Transformação Ágil, ainda mais no setor logístico e obter bons resultados? As práticas ágeis podem melhorar os indicadores da engenharia? Podem aumentar a produtividade de um time que já utiliza de diversos controles e indicadores? É possível gerar algum valor nas primeiras iterações? Quais são os fatores de sucesso que realmente fazem a diferença na adoção do Ágil em áreas fora da TI.</p><p>Nessa palestra relatar a existência obtida e os resultados alcançados, sobre a história da Agilidade na área de Engenharia e Manutenção de Portos e Terminais de uma empresa logística, e seus desdobramentos.</p>
   level: Intermediário (Pré Requisitos São Importantes, Contudo Podem Ser Mais Genéricos)
@@ -113,7 +113,7 @@
 - sessionId: 3472
   title: "Música, Ensino, Programação e Transformações Ágeis"
   author: "Juliano Ribeiro"
-  track: "Relatos De Experiência: Sua História Sobre Agilidade"
+  track: "Relatos de Experiência: Sua História Sobre Agilidade"
   abstract: |
     <p>Nessa talk meio fora da caixa, eu vou mostrar o quanto a gente replica nossos métodos de educação que nos foram passados desde a mais tenra infância para tentar transformar organizações, apenas para falhar miseravelmente. Ah, claro, eu te conto como resolver e conseguir melhores resultados.</p>
   level: Inicial (Pré Requisitos São Opcionais)
@@ -123,11 +123,11 @@
 
 - sessionId: 3465
   title: "Os impactos da comunicação não-inclusiva nas pessoas e para as empresas"
-  author: "Lasye Vicente"
+  author: "Layse Vicente"
   coAuthor: "Diogo Rodrigues"
-  track: "Culturas De Trabalho: Pessoas, Times E Organizações"
+  track: "Culturas de Trabalho: Pessoas, Times e Organizações"
   abstract: |
-    <p>Já parou para pensar sobre o quanto a falha na comunicação impacta no sucesso dos projetos?</p><p>Sabemos que Indivíduos e interações são mais que processos e ferramentas e é exatamente por isso que a comunicação se torna um pilar essencial para entregas de real valor, engajamento da equipe e menor índice de retrabalho e prejuízos.</p><p>A forma como a sua comunicação acontece é inclusiva para todas as pessoas da empresa? </p><p>Com casos reais do nosso cotidiano traremos um painel interativo para entendermos os impactos negativos de uma comunicação não-inclusiva; desenvolvermos uma visão holística e intencional nas mensagens; e apresentar formas mais inclusivas de se comunicar com as pessoas dentro e fora da empresa.</p><p>Convite a uma experiencia de inclusão e diversão!</p>
+    <p>Já parou para pensar sobre o quanto a falha na comunicação impacta no sucesso dos projetos? </p><p>Sabemos que Indivíduos e interações são mais que processos e ferramentas e é exatamente por isso que a comunicação se torna um pilar essencial para entregas de real valor, engajamento da equipe e menor índice de retrabalho e prejuízos. </p><p>A forma como a sua comunicação acontece é inclusiva para todas as pessoas da empresa? </p><p>Com casos reais do nosso cotidiano traremos um painel interativo para entendermos os impactos negativos de uma comunicação não-inclusiva; desenvolvermos uma visão holística e intencional nas mensagens; e apresentar formas mais inclusivas de se comunicar com as pessoas dentro e fora da empresa. </p><p> convite a uma experiencia de inclusão e diversão!</p>
   level: Inicial (Pré Requisitos São Opcionais)
   type: Mão Na Massa
   duration: 50
@@ -136,9 +136,9 @@
 - sessionId: 3458
   title: "Retrospectiva de OKRs - Analisando e evoluindo objetivos e resultados chave além dos números"
   author: "Marília Nascimento Monteiro"
-  track: "Culturas De Trabalho: Pessoas, Times E Organizações"
+  track: "Culturas de Trabalho: Pessoas, Times e Organizações"
   abstract: |
-    <p>Quando chegamos ao fim de um ciclo de OKRs é comum que avaliemos o sucesso nos objetivos de forma quantitativa, através do atingimento dos Key Results (resultados chave); ao menos foi assim que utilizei a ferramenta por bastante tempo, e talvez você também trabalhe dessa forma.</p><p>Acontece que esse tipo de análise omite pontos que podem nos ajudar a evoluir como organização e construir OKRs cada vez melhores. Marcações puramente quantitativas não conseguem representar de forma completa avanços ou dificuldades enfrentadas pelos times, e pensando nisso construí uma ferramenta de análise qualitativa de OKRs.</p><p>Essa ferramenta tem nos ajudado a garantir melhoria contínua e a evitar que a ferramenta perca força na organização. Bora conversar?!</p>
+    <p>Quando chegamos ao fim de um ciclo de OKRs é comum que avaliemos o sucesso nos objetivos de forma quantitativa, através do atingimento dos Key Results (resultados chave); ao menos foi assim que utilizei a ferramenta por bastante tempo, e talvez você também trabalhe dessa forma. </p><p>Acontece que esse tipo de análise omite pontos que podem nos ajudar a evoluir como organização e construir OKRs cada vez melhores. Marcações puramente quantitativas não conseguem representar de forma completa avanços ou dificuldades enfrentadas pelos times, e pensando nisso construí uma ferramenta de análise qualitativa de OKRs. </p><p>Essa ferramenta tem nos ajudado a garantir melhoria contínua e a evitar que a ferramenta perca força na organização. Bora conversar?!</p>
   level: Intermediário (Pré Requisitos São Importantes, Contudo Podem Ser Mais Genéricos)
   type: Apresentação
   duration: 25
@@ -147,7 +147,7 @@
 - sessionId: 3456
   title: "The naked truth behind most of the Agile Transformations"
   author: "Manoel Pimentel Medeiros"
-  track: "Culturas De Trabalho: Pessoas, Times E Organizações"
+  track: "Culturas de Trabalho: Pessoas, Times e Organizações"
   abstract: |
     <p>Muitas empresas tem gasto rios de dinheiro com transformações ágeis mirabolantes nos últimos anos. Isso pode ser interpretado como algo positivo, porém, apesar de todo o ‘buzz’ gerado por esse momento, será que essas mesmas companhias realmente estão conseguindo absorver a essência da agilidade e colher benefícios reais de toda essa energia investida? Esta sessão tem como objetivo socializar algumas observações de fatos reais sobre esse assunto que eu tenho testemunhado em empresas ao redor do mundo. Será um relato honesto, nu e cru. Como resultado, os participantes dessa palestra sairão com um filtro um pouco mais enriquecido para analisar criticamente e melhorar as estratégias de transformações usadas em suas organizações.</p>
   level: Profundo (Pré Requisitos São Obrigatórios, E Devem Ser Específicos)
@@ -159,7 +159,7 @@
   title: "Como melhorar a manutenção do código através das métricas de qualidade"
   author: "Jessica Salvador Rodrigues Rocha"
   coAuthor: "Antonio Vilmar Silveira Castro"
-  track: "Mão No Código: Desenvolvimento De Software E Tecnologia"
+  track: "Mão no Código: Desenvolvimento de Software e Tecnologia"
   abstract: |
     <p>Em nossa trajetória já nos deparamos com softwares que foram descontinuados pela alta complexidade para serem evoluídos e normalmente a causa é sempre a mesma: código difícil de ser extendido, compreendido e testes que não geram nenhum valor ou ausentes.</p><p>Com base nisso gostaríamos de apresentar alguns padrões e práticas que influenciam a escrita de um bom código, como alguns princípios do SOLID e práticas que ajudam a garantir a saúde do código durante a sua evolução através de métricas e análise estática de código.</p>
   level: Intermediário (Pré Requisitos São Importantes, Contudo Podem Ser Mais Genéricos)
@@ -171,9 +171,9 @@
   title: "Agilidade Remote First - Disseminando a Cultura Ágil para uma Empresa Remota com + de 1K pessoas."
   author: "Rafael De Oliveira"
   coAuthor: "Isabel Coutinho"
-  track: "Relatos De Experiência: Sua História Sobre Agilidade"
+  track: "Relatos de Experiência: Sua História Sobre Agilidade"
   abstract: |
-    <p>Sabemos que o trabalho remoto não é mais novidade nem tendência e sim uma realidade da maioria das organizações.</p><p>É possível disseminar a cultura de agilidade em formato remoto? Como conseguir manter o engajamento das pessoas? Como escalar a agilidade para mais de 100 pessoas agilistas? Se você já pensou em alguma dessas perguntas, essa apresentação é para você.</p><p>Vamos falar de agilidade organizacional, de práticas em escala olhando para vários aspectos da agilidade, de comunidade ágil em organizações e muito mais.</p>
+    <p>Sabemos que o trabalho remoto não é mais novidade nem tendência e sim uma realidade da maioria das organizações. </p><p>É possível disseminar a cultura de agilidade em formato remoto? Como conseguir manter o engajamento das pessoas? Como escalar a agilidade para mais de 100 pessoas agilistas? Se você já pensou em alguma dessas perguntas, essa apresentação é para você.</p><p>Vamos falar de agilidade organizacional, de práticas em escala olhando para vários aspectos da agilidade, de comunidade ágil em organizações e muito mais.</p>
   level: Inicial (Pré Requisitos São Opcionais)
   type: Apresentação
   duration: 50
@@ -182,9 +182,9 @@
 - sessionId: 3438
   title: "Do Situation Wall ao Gemba, poderosos elementos para o Lean Digital Transformation"
   author: "Renato Macedo"
-  track: "Práticas De Trabalho: Da Ideia à Entrega"
+  track: "Práticas de Trabalho: Da Ideia à Entrega"
   abstract: |
-    <p>Dois elementos vitais para a transformação digital, baseada nos conceitos Lean são: o Situation Wall e a Gemba!</p><p>Situation Wall é um poderoso elemento para centralizar informações de um fluxo de valor, construído e mantido colaborativamente, deve possuir informações relacionadas a pessoas, produto, processos e tecnologia. Longe de ser um framework, respeita todas as particularidades de cada contexto.</p><p>Uma vez estruturado, o Situation Wall passa ser a base para os Gembas, momentos em que pessoas se reúnem em torno da situação real de cada pilar do fluxo para tomar decisões e realizar planos de ação baseados em números e hipóteses.</p><p>Estes dois elementos poderosos juntos são simples, e ao mesmo tempo impactantes e transformadores.</p>
+    <p>Dois elementos vitais para a transformação digital, baseada nos conceitos Lean são: o Situation Wall e a Gemba! </p><p>Situation Wall é um poderoso elemento para centralizar informações de um fluxo de valor, construído e mantido colaborativamente, deve possuir informações relacionadas a pessoas, produto, processos e tecnologia. Longe de ser um framework, respeita todas as particularidades de cada contexto. </p><p>Uma vez estruturado, o Situation Wall passa ser a base para os Gembas, momentos em que pessoas se reúnem em torno da situação real de cada pilar do fluxo para tomar decisões e realizar planos de ação baseados em números e hipóteses.</p><p>Estes dois elementos poderosos juntos são simples, e ao mesmo tempo impactantes e transformadores.</p>
   level: Intermediário (Pré Requisitos São Importantes, Contudo Podem Ser Mais Genéricos)
   type: Apresentação
   duration: 50
@@ -193,7 +193,7 @@
 - sessionId: 3436
   title: "Lean Portfolio Management - Conectando a Estratégia com a Execução"
   author: "Andy Barbosa"
-  track: "Produtos E Negócios: Concepção, Design E Gestão"
+  track: "Produtos e Negócios: Concepção, Design e Gestão"
   abstract: |
     <p>Nesta sessão iremos discorrer sobre casos práticos de como podemos implementar o Lean Portfolio Management, envolvendo: Conectando OKRs Estratégicos, Táticos e Operacionais, Orientação do Trabalho para Geração de Valor (Value Stream Management), Gestão de Fluxo Unificado (Upstream - Downstream), Ideação Estratégica (Discovery), Governança Mínima Viável por meio do Lean Portfolio Management, Gestão de Alianças, Papéis e Responsabilidades, Ciclos de I&A (Estratégicos, Táticos e Operacionais), Métricas de Desempenho, Previsibilidade e Fluxo, Step by Step de Implementação</p>
   level: Inicial (Pré Requisitos São Opcionais)
@@ -205,7 +205,7 @@
   title: "Agilidade e a liderança emergente feminina"
   author: "Hanna Ohi"
   coAuthor: "Thaís Galão"
-  track: "Culturas De Trabalho: Pessoas, Times E Organizações"
+  track: "Culturas de Trabalho: Pessoas, Times e Organizações"
   abstract: |
     <p>Quantas mulheres há na sua família? Quantas delas ocupam posição de liderança?</p><p>Pensando em uma liderança cada vez mais diversa e inclusiva, empresas dos setores público e privado têm assumido metas de aumentar a participação feminina na força de trabalho.</p><p>Esta palestra abordará a carreira na Agilidade como uma perspectiva para a liderança emergente feminina.</p>
   level: Inicial (Pré Requisitos São Opcionais)
@@ -216,7 +216,7 @@
 - sessionId: 3428
   title: "As 3 fases da uma empresa exponencial"
   author: "Evandro Silvestre"
-  track: "Produtos E Negócios: Concepção, Design E Gestão"
+  track: "Produtos e Negócios: Concepção, Design e Gestão"
   abstract: |
     <p>A jornada de uma empresa começa com nenhum clientes e os objetivos estão muito ligados a encontrar o Product Market Fit (Startup de 0 a 1). Depois começa a segunda fase, levar o produto para o maior número de pessoas possíveis (Scaleup de 1 a 100), podendo ou não chegar a um crescimento exponencial (Blitzscaling de 100 a 1.000.000).</p><p>Nessa palestra você entenderá as principais métricas, qual é o papel da liderança, e o papel de algumas áreas da empresa em cada fase dessa jornada a procura de um crescimento exponencial.</p>
   level: Intermediário (Pré Requisitos São Importantes, Contudo Podem Ser Mais Genéricos)
@@ -227,7 +227,7 @@
 - sessionId: 3425
   title: "Aging WIP - Se preocupe menos com o futuro e mais com o que você faz hoje."
   author: "Danilo M Garcia"
-  track: "Práticas De Trabalho: Da Ideia à Entrega"
+  track: "Práticas de Trabalho: Da Ideia à Entrega"
   abstract: |
     <p>Quando vai ficar pronto? Essa é a grande pergunta que todos querem a resposta. Mas pra responde-la nós precisamos olhar para o nosso passado e presente e esquecer um pouco do futuro. Nesta palestra quero mostrar a importancia de ter cuidado com o que usamos de dados no passado e como nos organizamos no presente para poder responder essa pergunta de forma confiável.</p>
   level: Intermediário (Pré Requisitos São Importantes, Contudo Podem Ser Mais Genéricos)
@@ -238,7 +238,7 @@
 - sessionId: 3415
   title: "Me tornei desnecessária. E agora?"
   author: "Ceci Fernandes"
-  track: "Práticas De Trabalho: Da Ideia à Entrega"
+  track: "Práticas de Trabalho: Da Ideia à Entrega"
   abstract: |
     <p>Falamos há muitos anos das tais estruturas auto-organizadas e de como um time que funciona realmente bem não é dependente de agilistas (agile coach, scrum master, ou qualquer variação). Mas o que acontece quando você seu time realmente não depende mais de você?</p><p>Nessa sessão, compartilharemos o que fazer quando nosso time fica tão independente quanto dizemos buscar.</p>
   level: Intermediário (Pré Requisitos São Importantes, Contudo Podem Ser Mais Genéricos)
@@ -250,7 +250,7 @@
   title: "Deixe de ser uma organização tarefeira e torne-se um parceiro estratégico do seu cliente"
   author: "Samuel Soares"
   coAuthor: "Anderson De Souza Ribeiro"
-  track: "Práticas De Trabalho: Da Ideia à Entrega"
+  track: "Práticas de Trabalho: Da Ideia à Entrega"
   abstract: |
     <p>Boa parte das organizações encontra-se no ciclo vicioso de planejar, executar projetos e usar como métrica de sucesso a simples verificação do planejado versus executado sem verificar o impacto real na experiência do cliente, negócio e na estratégia da organização. Vamos apresentar ferramentas eficazes para romper este ciclo e tornar sua organização numa real parceira estratégica do seu cliente, com foco em resultados.</p>
   level: Intermediário (Pré Requisitos São Importantes, Contudo Podem Ser Mais Genéricos)
@@ -262,7 +262,7 @@
   title: "Soluções ágeis em sáude: navegando pacientes em tempos de pandemia."
   author: "Renata Monteiro"
   coAuthor: "Rogério Ribeiro"
-  track: "Produtos E Negócios: Concepção, Design E Gestão"
+  track: "Produtos e Negócios: Concepção, Design e Gestão"
   abstract: |
     <p>O Manifesto Agile, nascido na indústria de software, valoriza a resposta às mudanças, as ferramentas de trabalho, os indivíduos, as interações e a colaboração. Além da aplicação em tecnologia, o público desta palestra verá como o Agile pode ser usado em outras áreas para gestão da mudança em cenários de crise. Nós aplicamos princípios Agile para cuidar da saúde das pessoas num cenário imprevisível e desafiador: a pandemia COVID-19. Vamos mostrar como criamos uma squad multiprofissional de saúde e, em 12 meses, conseguimos escalar a gestão de saúde de 800 para 12000 pessoas e criar uma plataforma tecnológica para jornadas customizadas de cuidado presencial e virtual. A apresentação revela como os profissionais com experiência em Agile podem contribuir em projetos de diferentes contextos.</p>
   level: Intermediário (Pré Requisitos São Importantes, Contudo Podem Ser Mais Genéricos)
@@ -273,9 +273,9 @@
 - sessionId: 3398
   title: "Qual a importância da cultura da qualidade para entregas ágeis?"
   author: "Francielle Vareira"
-  track: "Mão No Código: Desenvolvimento De Software E Tecnologia"
+  track: "Mão no Código: Desenvolvimento de Software e Tecnologia"
   abstract: |
-    <p>Hoje em nosso contexto de trabalho do mundo VUCA( Volatilidade, Incerteza, Complexidade e Ambiguidade), onde sempre temos que estar preparados para a mudança contínua, mas será que essa mudança esta sendo com qualidade para nosso cliente?</p><p>Quando falamos em qualidade de software, normalmente logo pensamos em automação de testes, na sua celeridade de testes na entrega, porém é muito mais do que automação de testes.</p><p>Esta pauta é para falarmos da cultura de qualidade e os impactos que ela tem sobre as entregas ágeis, muito além de uma pipeline.</p>
+    <p>Hoje em nosso contexto de trabalho do mundo VUCA( Volatilidade, Incerteza, Complexidade e Ambiguidade), onde sempre temos que estar preparados para a mudança contínua, mas será que essa mudança esta sendo com qualidade para nosso cliente? </p><p>Quando falamos em qualidade de software, normalmente logo pensamos em automação de testes, na sua celeridade de testes na entrega, porém é muito mais do que automação de testes.</p><p>Esta pauta é para falarmos da cultura de qualidade e os impactos que ela tem sobre as entregas ágeis, muito além de uma pipeline.</p>
   level: Inicial (Pré Requisitos São Opcionais)
   type: Apresentação
   duration: 25
@@ -284,7 +284,7 @@
 - sessionId: 3396
   title: "Product Operations, o que é e como vem ajudando na escala dos times de produto"
   author: "Diogenes Laertius Silva De Oliveira Filho"
-  track: "Produtos E Negócios: Concepção, Design E Gestão"
+  track: "Produtos e Negócios: Concepção, Design e Gestão"
   abstract: |
     <p>Nos últimos anos vivenciamos um boom da escala dos times de produto e também um momento pandêmico onde pessoas não só eram contratadas totalmente à distância como também não criavam vínculos com os times ou participavam sem silos dos processos da companhia. Assim, temos acompanhado um crescimento da área de product operations dentro de startups e empresas, ocupando um papel fundamental na gestão e organização dos times de produto e facilitando os processos que permeiam as diversas áreas da companhia. Nesse painel vamos discutir o que é Product Operations, quais os benefícios e como começar na sua empresa.</p>
   level: Inicial (Pré Requisitos São Opcionais)
@@ -296,7 +296,7 @@
   title: "Design Flow na prática - Etapa AS IS"
   author: "Raquel Rodrigues Silva"
   coAuthor: "Patricia Hajdu"
-  track: "Culturas De Trabalho: Pessoas, Times E Organizações"
+  track: "Culturas de Trabalho: Pessoas, Times e Organizações"
   abstract: |
     <p>O objetivo deste workshop será aprender a utilizar o método Design Flow para fazer o mapeamento AS IS de um processo muito simples, bem como identificar as dores a ele relacionadas.</p><p>Com esse aprendizado, os participantes conseguirão replicar as etapas em qualquer outro processo e colherão muitos benefícios com essa prática em seu dia a dia.</p>
   level: Inicial (Pré Requisitos São Opcionais)
@@ -308,9 +308,9 @@
   title: "Como definir valor para negócio e impacto na experiência do usuário nas nossas entregas?"
   author: "Ruth Helena Mendes Da Silva"
   coAuthor: "Michele Prieto"
-  track: "Relatos De Experiência: Sua História Sobre Agilidade"
+  track: "Relatos de Experiência: Sua História Sobre Agilidade"
   abstract: |
-    <p>Como definir de forma prática um conceito de valor para o negócio e impacto na experiência do usuário em diferentes tipos e estágios de projetos. </p><p>Como nós agilistas podemos ajudar nossos stakeholders na busca desses valores e impactos para dentro do nosso projeto?</p><p>Nesta palestra, vamos mostrar exemplos de como podemos começar a trabalhar com os conceitos de definição de valor para o negócio e experiência do usuário e como influenciam e melhoram a tomada de decisão do time. Tendo como benefícios: maior satisfação do cliente, redução de impactos financeiros e maior clareza na priorização de itens de trabalho.</p><p>É uma palestra provocativa para sairmos de questões teóricas e pensarmos de forma objetiva, simplificando conceitos e visualizando a sua importância nas entregas dos times.</p>
+    <p>Como definir de forma prática um conceito de valor para o negócio e impacto na experiência do usuário em diferentes tipos e estágios de projetos. </p><p>Como nós agilistas podemos ajudar nossos stakeholders na busca desses valores e impactos para dentro do nosso projeto? </p><p>Nesta palestra, vamos mostrar exemplos de como podemos começar a trabalhar com os conceitos de definição de valor para o negócio e experiência do usuário e como influenciam e melhoram a tomada de decisão do time. Tendo como benefícios: maior satisfação do cliente, redução de impactos financeiros e maior clareza na priorização de itens de trabalho. </p><p>É uma palestra provocativa para sairmos de questões teóricas e pensarmos de forma objetiva, simplificando conceitos e visualizando a sua importância nas entregas dos times.</p>
   level: Inicial (Pré Requisitos São Opcionais)
   type: Apresentação
   duration: 25
@@ -320,7 +320,7 @@
   title: "NuBlacks case: Como a agilidade pode influenciar a pauta de Diversidade e Inclusão."
   author: "Priscila De Souza Nunes"
   coAuthor: "Raphael Donaire Albino"
-  track: "Relatos De Experiência: Sua História Sobre Agilidade"
+  track: "Relatos de Experiência: Sua História Sobre Agilidade"
   abstract: |
     <p>Nesta sessão apresentaremos os insights e aprendizados que tivemos adicionando agilidade dentro de um grupo de afinidade de pessoas pretas de uma das maiores fintechs do mundo. O objetivo é compartilhar a transformação na estrutura de um grupo de afinidade, NuBlacks, que cresceu de 10 para aproximadamente 1000 pessoas em 2 anos. Ressaltando que a agilidade pode ser utilizada de diversas maneiras, e até em grupos menos óbvios, para reposicionar a estratégia, organização e rituais de um grupo, os fazendo mais efetivos.</p>
   level: Inicial (Pré Requisitos São Opcionais)
@@ -331,7 +331,7 @@
 - sessionId: 3378
   title: "Como tratar com intencionalidade a dívida técnica da sua empresa"
   author: "Alan Kuhn"
-  track: "Mão No Código: Desenvolvimento De Software E Tecnologia"
+  track: "Mão no Código: Desenvolvimento de Software e Tecnologia"
   abstract: |
     <p>Durante o nosso trabalho com desenvolvimento de software, geralmente surgem dúvidas relacionadas sobre como tratar a dívida técnica que aparece pelo caminho. Você faz entrega atrás de entrega, e a cada dia você vê aumentar aquela lista interminável de dívidas técnicas. Chega um momento em que isso se torna um grande problema, pois impacta diretamente o produto e qualidade das entregas, e por vezes, temos inúmeras dificuldade em gerenciá-los, gerando desmotivação e até mesmo a saída da empresa.</p><p>Se você tem passando por isso, essa palestra é pra você! Vamos mostrar como você pode dar maior intencionalidade na resolução da sua dívida técnica a partir de experimentos de ciclos de trabalho que temos rodado com o time de engenharia e produto da RD Station.</p>
   level: Intermediário (Pré Requisitos São Importantes, Contudo Podem Ser Mais Genéricos)
@@ -342,7 +342,7 @@
 - sessionId: 3376
   title: "Por lideranças mais Brown e menos Musk"
   author: "Gustavo Ayres Ferreira"
-  track: "Culturas De Trabalho: Pessoas, Times E Organizações"
+  track: "Culturas de Trabalho: Pessoas, Times e Organizações"
   abstract: |
     <p>Em agilidade falamos cada vez mais de liderança e gestão humanizada, usando muitas vezes livros como os da autora Brené Brown. Mas olhando para o mercado, vemos muitas vezes pessoas que são alavancadas para cargos de liderança serem as que tem claramente atitudes tóxicas e abusivas, e algumas dessas pessoas serem inclusive admiradas como é o caso de Elon Musk ou Steve Jobs.</p><p>Se esse é o feedback vindo do mercado, será que esse olhar mais focado nas pessoas não é uma romantização e idealização do que gostaríamos de ter como liderança?</p><p>Nessa talk vamos levantar essas dúvidas para depois apresentar e explorar diferentes estilos de liderança usando estudos recentes, ver como aplicá-los no dia a dia e espero que ao final você saia com a certeza que é possível ser mais Brown e menos Musk.</p>
   level: Inicial (Pré Requisitos São Opcionais)
@@ -354,7 +354,7 @@
   title: "Como criar um programa de estágio que une agilidade e mentoria técnica com diversidade e inclusão"
   author: "Denize Vásquez"
   coAuthor: "Lucas Nunes"
-  track: "Relatos De Experiência: Sua História Sobre Agilidade"
+  track: "Relatos de Experiência: Sua História Sobre Agilidade"
   abstract: |
     <p>Os desafios do mercado voraz na disputa por talentos em tecnologia necessitam de medidas que envolvam capacitação de pessoas e criação de pertencimento na jornada dentro das empresas. Também é fundamental que exista um ecossistema organizacional de aprendizagem contínua que dê base às novas pessoas através de uma cultura de compartilhamento de conhecimento com foco nas tecnologias existentes e nos métodos ágeis. Além disso, associar essas iniciativas a critérios bem definidos de Diversidade que sustentem uma cultura de Inclusão pode potencializar os resultados organizacionais nesse tipo de programa. Nessa conversa, vamos mostrar como criamos um programa com todas essas características e contar a vocês quais resultados obtivemos dele.</p>
   level: Inicial (Pré Requisitos São Opcionais)
@@ -365,9 +365,9 @@
 - sessionId: 3363
   title: "Furando a bolha: Inovação, gestão pública e diversidade"
   author: "Naomy Oliveira"
-  track: "Relatos De Experiência: Sua História Sobre Agilidade"
+  track: "Relatos de Experiência: Sua História Sobre Agilidade"
   abstract: |
-    <p>As soluções mais incríveis da área de Inovação são a que causam impacto na sociedade e que resolvem problemas reais e muito relevantes, mas o quanto o ecossistema de Tecnologia e Inovação está realmente conectado com quem realmente sofre dos problemas mais relevantes da sociedade? Se estamos falando de sociedade, porque não conectar mais a Inovação e Tecnologia a gestão pública, especificamente a educação básica?</p><p>Nessa palestra vou compartilhar trajetória de como venho construindo um espaço para pessoas periféricas, de escolas públicas e também da necessidade de nós profissionais da Inovação, estarmos conectados a educação básica, apresentando aos jovens outras possibilidades de projeto de vida e colocando como protagonistas e autores das grandes soluções quem sofre do problema.</p>
+    <p>As soluções mais incríveis da área de Inovação são a que causam impacto na sociedade e que resolvem problemas reais e muito relevantes, mas o quanto o ecossistema de Tecnologia e Inovação está realmente conectado com quem realmente sofre dos problemas mais relevantes da sociedade? Se estamos falando de sociedade, porque não conectar mais a Inovação e Tecnologia a gestão pública, especificamente a educação básica? </p><p>Nessa palestra vou compartilhar trajetória de como venho construindo um espaço para pessoas periféricas, de escolas públicas e também da necessidade de nós profissionais da Inovação, estarmos conectados a educação básica, apresentando aos jovens outras possibilidades de projeto de vida e colocando como protagonistas e autores das grandes soluções quem sofre do problema.</p>
   level: Inicial (Pré Requisitos São Opcionais)
   type: Apresentação
   duration: 25
@@ -377,7 +377,7 @@
   title: "Cultura Ágil com Entregas Frequentes, Iterativas e Incrementais: Meu Software Está Pronto pra Isso?"
   author: "Lucas Nunes"
   coAuthor: "Mariana Minossi"
-  track: "Mão No Código: Desenvolvimento De Software E Tecnologia"
+  track: "Mão no Código: Desenvolvimento de Software e Tecnologia"
   abstract: |
     <p>Diante do cenário atual, onde cada vez mais nossos softwares precisam seguir um modelo de entregas frequentes, iterativas e incrementais, se faz mandatório a adequação e aderência forte em direção a uma cultura técnica ágil, com posse de ferramentas e técnicas que permitam validar e garantir aspectos como consistência, confiabilidade e manutenibilidade do que está sendo entregue/posto em jogo a todo momento.</p><p>Sabendo dessa dinâmica desafiadora (e cada vez mais necessária), iremos apresentar, de forma simples e prática, como a Automação de Testes, aliada a práticas e à cultura DevOps, podem ajudar a validar aspectos importantes, garantindo qualidade e eficiência do que está sendo entregue. E também consistência daquilo que já foi entregue anteriormente.</p>
   level: Inicial (Pré Requisitos São Opcionais)
@@ -388,7 +388,7 @@
 - sessionId: 3357
   title: "Revelando a história do produto: Da estratégia a execução com User Story mapping"
   author: "Rafael Caceres"
-  track: "Produtos E Negócios: Concepção, Design E Gestão"
+  track: "Produtos e Negócios: Concepção, Design e Gestão"
   abstract: |
     <p>Histórias de usuário são pequenas histórias sobre algo muito específico que o usuário faz no sistema. O *User Story Mapping* vem para juntar todas essas pequenas histórias e fazer com que os todos os envolvidos conseguiam enxergar o panorama.</p><p>Uma grande história bem contada tem múltiplos personagens e várias linhas do tempo, e com seu produto não vai ser diferente.</p><p>O USM, como é conhecido, já é muito usado por pessoas de produto, mas muitas vezes é mal interpretado.</p><p>Vamos mostrar criar uma visão compartilhada entre negócios, design e desenvolvimento, conectando as entregas com os objetivos. Tudo isso em um roadmap que acomoda as mudanças e incentiva a experimentação.</p>
   level: Intermediário (Pré Requisitos São Importantes, Contudo Podem Ser Mais Genéricos)
@@ -399,7 +399,7 @@
 - sessionId: 3349
   title: "Mais que amigos, friends: QA e Produto, como criar sinergia para ampliar a qualidade"
   author: "Jeniffer Deus"
-  track: "Mão No Código: Desenvolvimento De Software E Tecnologia"
+  track: "Mão no Código: Desenvolvimento de Software e Tecnologia"
   abstract: |
     <p>A era de produtos e transformação digital veio para ficar e as organizações enfrentam diversos desafios em relação a qualidade em suas práticas, processos e também no que é entregue ao usuário final. Nesse contexto, vamos conversar sobre como pessoas que trabalham com QA e Produto transitam nesse espaço e sobre como podemos entender mais dessas disciplinas para alia-las nas entregas do dia a dia, transformando pessoas de Produto e QAs em muito próximas e amigas em prol dos melhores resultados.</p>
   level: Inicial (Pré Requisitos São Opcionais)
@@ -410,7 +410,7 @@
 - sessionId: 3339
   title: "Criando facilitações mais inclusivas sem mistério"
   author: "Felipe Higa"
-  track: "Culturas De Trabalho: Pessoas, Times E Organizações"
+  track: "Culturas de Trabalho: Pessoas, Times e Organizações"
   abstract: |
     <p>Tive o privilégio de facilitar algumas sessões para grupos de pessoas representantes de grupos minorizados dentro do espaço corporativo (pessoas com deficiência, racializadas, pertencentes à sigla LGBTQIAP+ e tantas outras). Esses encontros me valeram excelentes experiências, que misturam acertos e erros na condução e preparo dessas discussões. Nessa rápida sessão compartilharei alguns desses aprendizados (que estão longe de acabar) para encorajar mais pessoas a encarar esses desafios e nos apoiarmos juntos na busca por interações cada vez mais inclusivas.</p>
   level: Inicial (Pré Requisitos São Opcionais)
@@ -421,9 +421,9 @@
 - sessionId: 3338
   title: "Bora aprender com Sherlock Holmes a resolver problemas?"
   author: "Jéssica Ferrari"
-  track: "Culturas De Trabalho: Pessoas, Times E Organizações"
+  track: "Culturas de Trabalho: Pessoas, Times e Organizações"
   abstract: |
-    <p>Análise de causa raiz né? Parece simples. Imagine que você tem que desvendar como espantar passarinhos de uma praça que estão atrapalhando as luzes utilizadas por tráfego de veículos. Como você espantaria esses passarinhos? Colocando gatos na praça? Colocando substâncias que podem espantar? Um espantalho? E se eu te falar que para esse caso, apenas foram trocadas os tipos de lâmpada do parque para resolver o problema?</p><p>Analisar a causa raiz é quase como uma ciência, é necessário que utilizemos um novo jeito de ver o mundo para não cairmos em resoluções óbvias que nem sempre trazem a solução. E Sherlock Holmes era ninja em fazer isso para resolver os seus casos e vamos entender e praticar como ele fazia isso.</p>
+    <p>Análise de causa raiz né? Parece simples. Imagine que você tem que desvendar como espantar passarinhos de uma praça que estão atrapalhando as luzes utilizadas por tráfego de veículos. Como você espantaria esses passarinhos? Colocando gatos na praça? Colocando substâncias que podem espantar? Um espantalho? E se eu te falar que para esse caso, apenas foram trocadas os tipos de lâmpada do parque para resolver o problema? </p><p>Analisar a causa raiz é quase como uma ciência, é necessário que utilizemos um novo jeito de ver o mundo para não cairmos em resoluções óbvias que nem sempre trazem a solução. E Sherlock Holmes era ninja em fazer isso para resolver os seus casos e vamos entender e praticar como ele fazia isso.</p>
   level: Inicial (Pré Requisitos São Opcionais)
   type: Mão Na Massa
   duration: 110
@@ -433,9 +433,9 @@
   title: "Como aplicar melhoria implacável num chapter de agilidade utilizando o Fit for purpose - F4P"
   author: "Uedson Carlos"
   coAuthor: "Victor Vidal"
-  track: "Culturas De Trabalho: Pessoas, Times E Organizações"
+  track: "Culturas de Trabalho: Pessoas, Times e Organizações"
   abstract: |
-    <p>Como descobrir se seu trabalho de um Chapter de agilidade está dando os resultados esperados ?</p><p>Como descobrir os propósitos dos SM's, PO's, QAá e DEV's e entender como foram as suas experiências ao interagir com os serviços prestados pelo Chapter de agilidade?</p><p>Nessa palestra iremos destacar como usamos o fit for purpose para entender e melhorar os serviços prestados pela área de agilidade de uma instituição financeira que atende a mais de 500 times ágeis.</p><p>Iremos destacar o que nos motivou a usar o F4P, quais foram os ganhos, os aprendizados e os principais insights aplicados em mais de 2 ciclos do framework fit for purpose.</p>
+    <p>Como descobrir se seu trabalho de um Chapter de agilidade está dando os resultados esperados?</p><p>Como descobrir os propósitos dos SMs, POs, QAs e DEVs e entender como foram as suas experiências ao interagir com os serviços prestados pelo Chapter de agilidade?</p><p>Nessa palestra iremos destacar como usamos o fit for purpose para entender e melhorar os serviços prestados pela área de agilidade de uma instituição financeira que atende a mais de 500 times ágeis.</p><p>Iremos destacar o que nos motivou a usar o F4P, quais foram os ganhos, os aprendizados e os principais insights aplicados em mais de 2 ciclos do framework fit for purpose.</p>
   level: Intermediário (Pré Requisitos São Importantes, Contudo Podem Ser Mais Genéricos)
   type: Apresentação
   duration: 50
@@ -444,7 +444,7 @@
 - sessionId: 3330
   title: "Como desenvolver o pensamento estratégico na Business Agility"
   author: "Luiz Parzianello"
-  track: "Produtos E Negócios: Concepção, Design E Gestão"
+  track: "Produtos e Negócios: Concepção, Design e Gestão"
   abstract: |
     <p>Agilidade de Negócios, ou Business Agility em inglês, é considerada o modus operandi das empresas que mais se destacam na Nova Economia Digital. Ela tem relação direta com o desenvolvimento de novas capacidades organizacionais que permitem acelerar o crescimento e impactar positivamente todas as partes interessadas. Ela também é considerada a terceira onda da agilidade e está associada ao nível estratégico das organizações, podendo ser tratada como um estado futuro desejado de vantagem competitiva para os negócios. Esta palestra irá demonstrar como o modelo PuRe CaRe (Purpose, Results, Capabilities, Resources) é capaz de estruturar um pensamento estratégico exponencial adequado para a Business Agility, integrado com a gestão enxuta do portfólio de projetos e a governança ágil.</p>
   level: Intermediário (Pré Requisitos São Importantes, Contudo Podem Ser Mais Genéricos)
@@ -455,9 +455,9 @@
 - sessionId: 3327
   title: "O produto não começa no código..."
   author: "Bruna Biontino De Oliveira"
-  track: "Práticas De Trabalho: Da Ideia à Entrega"
+  track: "Práticas de Trabalho: Da Ideia à Entrega"
   abstract: |
-    <p>É muito comum que a gestão dê preferência somente para o fluxo do downstream e esquecer que existe etapas e fluxos importantes no upstream, um exemplo é Lead Time, quanto tempo a demanda ficou sendo preparada antes de começar a desenvolver.</p><p>Com o uso do upstream, pode-se descartar ideias e fazer uma pré-seleção antes mesmo de serem apresentadas para o time, gerando economia de tempo e agilizando todos os demais processos.</p><p>Somando ao processo de downstream otimizamos as etapas de fluxo de trabalho: seleção de ideias e a prática delas.</p><p>Com a palestra quero mostrar como chegamos em uma esteira que funcionasse para todos os envolvidos e como tive que unir forças com os PM's, galera de UX e equipe de CS.</p>
+    <p>É muito comum que a gestão dê preferência somente para o fluxo do downstream e esquecer que existe etapas e fluxos importantes no upstream, um exemplo é Lead Time, quanto tempo a demanda ficou sendo preparada antes de começar a desenvolver.</p><p>Com o uso do upstream, pode-se descartar ideias e fazer uma pré-seleção antes mesmo de serem apresentadas para o time, gerando economia de tempo e agilizando todos os demais processos.</p><p>Somando ao processo de downstream otimizamos as etapas de fluxo de trabalho: seleção de ideias e a prática delas.</p><p>Com a palestra quero mostrar como chegamos em uma esteira que funcionasse para todos os envolvidos e como tive que unir forças com os PMs, galera de UX e equipe de CS.</p>
   level: Inicial (Pré Requisitos São Opcionais)
   type: Apresentação
   duration: 25
@@ -466,7 +466,7 @@
 - sessionId: 3325
   title: "Being Agile about Architecture"
   author: "Joseph Yoder"
-  track: "Mão No Código: Desenvolvimento De Software E Tecnologia"
+  track: "Mão no Código: Desenvolvimento de Software e Tecnologia"
   abstract: |
     <p>When building complex systems, it can be too easy to focus on features and overlook software qualities, specifically those related to the architecture. If not enough attention is given to software qualities related to the architecture, technical debt and design problems can creep in until it becomes muddy with a side effect of teams being less agile. Sustainable architecture requires ongoing attention, especially when there are evolving priorities, technical risks, and many dependencies. This talk presents a set of practices for creating and evolving an architecture while remaining agile. These practices include a set of tools to allow teams to define “enough” architecture at the beginning of the project and to manage the state and the evolution of the architecture as the project evolves.</p>
   level: Intermediário (Pré Requisitos São Importantes, Contudo Podem Ser Mais Genéricos)
@@ -477,9 +477,9 @@
 - sessionId: 3319
   title: "Interpretando Métricas - Um jogo em busca da eficiência!"
   author: "Natalia Lima"
-  track: "Práticas De Trabalho: Da Ideia à Entrega"
+  track: "Práticas de Trabalho: Da Ideia à Entrega"
   abstract: |
-    <p>Um jogo entre equipes que representam consultorias de gestão que são conhecidas por aumentar a eficiência de seus clientes. A cada rodada as equipes vão recebendo novos insumos (as métricas que foram coletadas nos últimos meses) para diagnosticar e sugerir melhorias para a empresa a qual está prestando serviço. E ao final somente uma empresa será contratada para prestar uma consultoria milionária!</p><p>O jogo simula cenas totalmente fictícias que quase não existem na realidade (rs!)...</p><p>Será que você e seu time são capazes de se mostrarem gestores de fato (e não de papo!)?</p>
+    <p>Um jogo entre equipes que representam consultorias de gestão que são conhecidas por aumentar a eficiência de seus clientes. A cada rodada as equipes vão recebendo novos insumos (as métricas que foram coletadas nos últimos meses) para diagnosticar e sugerir melhorias para a empresa a qual está prestando serviço. E ao final somente uma empresa será contratada para prestar uma consultoria milionária! </p><p>O jogo simula cenas totalmente fictícias que quase não existem na realidade (rs!)... </p><p>Será que você e seu time são capazes de se mostrarem gestores de fato (e não de papo!)?</p>
   level: Intermediário (Pré Requisitos São Importantes, Contudo Podem Ser Mais Genéricos)
   type: Mão Na Massa
   duration: 110
@@ -489,7 +489,7 @@
   title: "Sustainable Development: Managing Technical Debt"
   author: "Joseph Yoder"
   coAuthor: "Graziela Simone Tonin"
-  track: "Mão No Código: Desenvolvimento De Software E Tecnologia"
+  track: "Mão no Código: Desenvolvimento de Software e Tecnologia"
   abstract: |
     <p>As systems become more complex, teams can be burdened with technical debt and other architectural challenges which slows down development, ultimately not being as agile and as nimble as desired. If there is not enough attention paid to technical debt, design problems will creep in until it becomes muddy, making it hard to deliver new features quickly and reliably. Many times technical debt items are unknown, unmonitored, and therefore not managed, thus resulting in high maintenance costs. In this workshop, we will discuss elements of sustainable development specifically for dealing with technical debt. The will include discussing the technical debt metaphor and concept, the impact of incurring technical debt, and how to identify, monitor, and manage technical debt.</p>
   level: Intermediário (Pré Requisitos São Importantes, Contudo Podem Ser Mais Genéricos)
@@ -500,7 +500,7 @@
 - sessionId: 3315
   title: "Chaves de sucesso dos times DevOps de plataforma"
   author: "Marcelo Noskoski"
-  track: "Práticas De Trabalho: Da Ideia à Entrega"
+  track: "Mão no Código: Desenvolvimento de Software e Tecnologia"
   abstract: |
     <p>Os times de plataforma são os times facilitadores dos times de produtos, manter toda a inteligência dentro do time de produto é importante, mas quando a empresa vai crescendo isso vai se tornando mais complexo.</p><p>Mas e quais são as principais responsabilidades dos times de plataforma para contribuir com os times de produtos e como os times de Plataforma atuam com sua maneira ágil de execução sem impactar os times de produto.</p>
   level: Inicial (Pré Requisitos São Opcionais)
@@ -512,7 +512,7 @@
   title: "Apertem os cintos, o controle sumiu! Como manter o foco e reduzir o stress do Agile Coach"
   author: "Caco - Cleiton Mafra"
   coAuthor: "Anderson Gonzaga De Souza"
-  track: "Relatos De Experiência: Sua História Sobre Agilidade"
+  track: "Relatos de Experiência: Sua História Sobre Agilidade"
   abstract: |
     <p>Você se sente sobrecarregado, vive com a agenda lotada e termina seus dias exausto? Saiba que você não está sozinho! É muito comum na nossa atuação como Agile Coach que após as melhorias nas equipes e conquistas de resultados, sejamos solicitados por mais times e áreas da empresa. É momento que você começa a se sobrecarregar até que uma hora se vê totalmente sufocado. Se essa é a sua realidade, então vem com a gente porque essa palestra é para você! </p><p>Apresentaremos com base na nossa experiência em diferentes empresas de tecnologia, como conseguimos manter o foco, aumentar nosso escopo de atuação sem se afogar nas demandas que surgem e reduzir o stress no dia-a-dia de trabalho.</p>
   level: Intermediário (Pré Requisitos São Importantes, Contudo Podem Ser Mais Genéricos)
@@ -524,9 +524,9 @@
   title: "Design para o ‘Metaverso’"
   author: "Lúcia Kaplan"
   coAuthor: "Leonardo Azzi Martins"
-  track: "Produtos E Negócios: Concepção, Design E Gestão"
+  track: "Produtos e Negócios: Concepção, Design e Gestão"
   abstract: |
-    <p>O conceito de Metaverso visa oferecer experiências imersivas que possam criar espaços integrados entre o físico e digital, centrados nas interações entre as pessoas.</p><p>Iremos apresentar o case da VRoom, desenvolvida pelo DBLab: uma plataforma de Ambientes Virtuais Imersivos derivada da plataforma aberta Hubs by Mozilla, que utiliza o Hubs como base e agrega seus próprios diferenciais.</p><p>Pela busca de padronização dos processos de design e da aplicação de um modelo adaptativo e incremental de desenvolvimento, elaboramos um framework próprio para produtos desenvolvidos no Metaverso utilizando os princípios das metodologias ágeis e ferramentas de pesquisa em UX.</p>
+    <p>O conceito de Metaverso visa oferecer experiências imersivas que possam criar espaços integrados entre o físico e digital, centrados nas interações entre as pessoas. </p><p>Iremos apresentar o case da VRoom, desenvolvida pelo DBLab: uma plataforma de Ambientes Virtuais Imersivos derivada da plataforma aberta Hubs by Mozilla, que utiliza o Hubs como base e agrega seus próprios diferenciais. </p><p>Pela busca de padronização dos processos de design e da aplicação de um modelo adaptativo e incremental de desenvolvimento, elaboramos um framework próprio para produtos desenvolvidos no Metaverso utilizando os princípios das metodologias ágeis e ferramentas de pesquisa em UX.</p>
   level: Inicial (Pré Requisitos São Opcionais)
   type: Apresentação
   duration: 50
@@ -535,7 +535,7 @@
 - sessionId: 3299
   title: "Porque é tão difícil ser um Scrum Master de verdade dentro das Empresas?"
   author: "Roberto Brasileiro"
-  track: "Práticas De Trabalho: Da Ideia à Entrega"
+  track: "Práticas de Trabalho: Da Ideia à Entrega"
   abstract: |
     <p>Sabe aquela sensação de querer fazer o certo mas ser "vencido" pelo sistema? Essa é a sensação da grande maioria dos Scrum Masters espalhados pelo Brasil e mundo.</p><p>Afinal, porque é tão difícil ser um Scrum Master de Verdade?</p><p>Nesse momento existem milhares de oportunidades em aberto para Scrum Masters no Brasil, toda empresa quer ter um, não é? O problema é que quase todas as empresas tratam o Scrum Master como um Gerente e é aqui que começam os verdadeiros desafios.</p><p>Essa disfunção é totalmente invisível para Empresa e para o próprio Scrum Master, que de empresa em empresa acaba sendo moldado como um Gerente "comando e controle" de agilidade.</p><p>Nessa palestra você vai descobrir se está sendo moldado pelo mercado e vai aprender a como atuar nessas situações invisíveis do dia-a-dia.</p>
   level: Intermediário (Pré Requisitos São Importantes, Contudo Podem Ser Mais Genéricos)
@@ -547,7 +547,7 @@
   title: "Descomplicando o framework Fit For Purpose"
   author: "João Grabosque"
   coAuthor: "Ranieri Santos"
-  track: "Produtos E Negócios: Concepção, Design E Gestão"
+  track: "Produtos e Negócios: Concepção, Design e Gestão"
   abstract: |
     <p>Imagina a quantidade de desperdícios que podemos evitar se soubermos o que nosso cliente espera do nosso produto ou serviço? Entender o propósito do cliente é um passo fundamental para construirmos estratégias de negócios mais eficazes e priorizarmos demandas mais aderentes ao que ele valoriza. </p><p>E pensando em endereçar essas questões que foi criado em meados de 2018 o framework Fit for Purpose (F4P) pelo David J. Anderson e Alexei Zheglov. Mas sabemos que à primeira vista ele é bastante complexo e de difícil compreensão. </p><p>Então se você está chegando agora no tema ou já tentou de várias formas entender os conceitos do F4P sem sucesso vem conosco nessa talk que nossa missão será descomplicar tudo isso para que você possa sair sabendo como colocar em prática.</p>
   level: Inicial (Pré Requisitos São Opcionais)
@@ -558,7 +558,7 @@
 - sessionId: 3284
   title: "Gestão de Portfólio na Prática: Conectando a Estratégia do Negócio com Execução (Case Ultragaz)"
   author: "Rodrigo Fernandes Barbosa"
-  track: "Práticas De Trabalho: Da Ideia à Entrega"
+  track: "Práticas de Trabalho: Da Ideia à Entrega"
   abstract: |
     <p>A Gestão de Portfólio em empresas é um grande desafio. Aumento de times, de frentes de negócios e de produtos trazem complexidade ao ambiente e geralmente degradam a eficiência, removendo a visibilidade e dificultando o alinhamento estratégico.</p><p>Essa apresentação mostrará nossa experiência durante a jornada de 2 anos de reestruturação da área de Governança de Portfólio de TI baseado em quatro pilares: Pessoas, Cultura, Processos e Ferramentas.</p><p>Compartilharei os experimentos feitos, dificuldades encontradas, adaptações, os resultados e as mudanças que a Gestão de Portfólio trouxe para a organização no nível de times até o board executivo.</p>
   level: Profundo (Pré Requisitos São Obrigatórios, E Devem Ser Específicos)
@@ -569,7 +569,7 @@
 - sessionId: 3282
   title: "Diminuindo os Custos Iniciais de uma Infraestrutura de Microsserviços"
   author: "Jiba Waghetti"
-  track: "Mão No Código: Desenvolvimento De Software E Tecnologia"
+  track: "Mão no Código: Desenvolvimento de Software e Tecnologia"
   abstract: |
     <p>Em alguns ambientes, a fé em microsserviços é maior do que a disciplina para fazer as coisas realmente funcionarem. A falta de disciplina é um problema impacta tanto monolitos quanto microsserviços (sendo ainda pior no segundo caso).</p><p>Os custos iniciais para manter uma arquitetura de microsserviços podem ser grandes, principalmente quando a organização ainda está entendo o domínio do problema a ser resolvido. Também existe o risco de entregas atrasarem por questões técnicas que poderiam ser implementadas mais facilmente e evoluídas com o tempo.</p><p>Nessa palestra, trago um passo-a-passo de como eu, partindo de um domínio desconhecido, iniciaria com um monolito e migraria para uma arquitetura de microsserviços, baseado em boas práticas como princípios SOLID e padrões de projeto.</p>
   level: Intermediário (Pré Requisitos São Importantes, Contudo Podem Ser Mais Genéricos)
@@ -581,7 +581,7 @@
   title: "Como a análise de maturidade ágil de times pode alavancar a agilidade na sua organização"
   author: "Rubia Toledo"
   coAuthor: "Samuel Soares"
-  track: "Culturas De Trabalho: Pessoas, Times E Organizações"
+  track: "Culturas de Trabalho: Pessoas, Times e Organizações"
   abstract: |
     <p>Tangibilizar o nível de maturidade ágil em que a organização se encontra é fundamental para engajar times e líderes no processo de transformação ágil e alavancar a melhoria contínua e a agilidade organizacional. O objetivo da palestra é apresentar uma visão ampla sobre o nosso método para análise de maturidade ágil de times em diferentes contextos organizacionais e explorar algumas dicas e potenciais armadilhas através de exemplos práticos.</p>
   level: Intermediário (Pré Requisitos São Importantes, Contudo Podem Ser Mais Genéricos)
@@ -592,7 +592,7 @@
 - sessionId: 3274
   title: "Nunca me sonharam - Da favela para a mundo da agilidade."
   author: "Monica Andrade"
-  track: "Relatos De Experiência: Sua História Sobre Agilidade"
+  track: "Relatos de Experiência: Sua História Sobre Agilidade"
   abstract: |
     <p>Nessa sessão irei abordar a minha trajetória: mulher preta, bissexual, mãe solo e moradora da favela do Montanhão em São Bernardo do Campo, que nunca havia sido sonhada até o mundo da agilidade.</p><ul><li>- Como a agilidade chegou até mim;</li><li>- Educafrotech e Diversidade na Agilidade </li><li>- Como projetos sociais me fizeram conhecer o universo da agilidade e alcançar minha primeira oportunidade na área;</li><li>- Como é ser uma pessoa diversa em ambientes de tecnologia e dentro da agilidade;</li><li>- Como se sentir pertencente em espaços onde não encontramos semelhantes;</li><li>- Conexões: Como se conectar com pessoas inspiradoras.</li></ul>
   level: Inicial (Pré Requisitos São Opcionais)
@@ -604,9 +604,9 @@
   title: "Design Shot: concebendo soluções inovadoras com tecnologias portadoras de futuro"
   author: "Eduardo Meira Peres"
   coAuthor: "Alessandra Guglieri"
-  track: "Produtos E Negócios: Concepção, Design E Gestão"
+  track: "Produtos e Negócios: Concepção, Design e Gestão"
   abstract: |
-    <p>Neste workshop você vai conceber produtos ou serviços digitais baseados no princípios ágeis para atender a necessidades de negócio a partir do potencial das tecnologias emergentes, apresentadas aos participantes através de cases e experimentos manuseados pelos próprios participantes.</p><p>Em uma experiência com etapas de inspiração, ideação e implementação, as soluções propostas serão materializadas pela construção de protótipos de baixa fidelidade que serão testados pelos participantes de outros times.</p><p>Integrando conceitos de Design Thinking, Lean Startup e Métodos Ágeis, o principal objetivo da atividade é incentivar, de forma prática, a reflexão sobre as possibilidades de uso das tecnologias portadoras de futuro na busca por soluções inovadoras, com criatividade e colaboração.</p>
+    <p>Neste workshop você vai conceber produtos ou serviços digitais baseados no princípios ágeis para atender a necessidades de negócio a partir do potencial das tecnologias emergentes, apresentadas aos participantes através de cases e experimentos manuseados pelos próprios participantes.</p><p>Em uma experiência com etapas de inspiração, ideação e implementação, as soluções propostas serão materializadas pela construção de protótipos de baixa fidelidade que serão testados pelos participantes de outros times. </p><p>Integrando conceitos de Design Thinking, Lean Startup e Métodos Ágeis, o principal objetivo da atividade é incentivar, de forma prática, a reflexão sobre as possibilidades de uso das tecnologias portadoras de futuro na busca por soluções inovadoras, com criatividade e colaboração.</p>
   level: Inicial (Pré Requisitos São Opcionais)
   type: Mão Na Massa
   duration: 110
@@ -615,7 +615,7 @@
 - sessionId: 3257
   title: "Fractais: inspiração de Simplicidade na construção de Organizações Complexas"
   author: "Mariana Zaparolli Martins"
-  track: "Produtos E Negócios: Concepção, Design E Gestão"
+  track: "Produtos e Negócios: Concepção, Design e Gestão"
   abstract: |
     <p>O desenvolvimento de Agilidade nos Negócios ou Agilidade Organizacional passa por grandes desafios culturais e sistêmicos.</p><p>Frameworks e referências do mercado tem sido utilizados para amparar a construção do design organizacional e dos processos-chave que nos cercam nas Organizações.</p><p>Nesta apresentação vou buscar referências nos Fractais, conhecidos pelos padrões matemáticos e muito vistos na natureza, como uma inspiração para potencializar a Simplicidade na construção de Organizações Complexas. Existem elementos que podem ser observados e absorvidos na forma como estamos (re)desenhando as organizações.</p>
   level: Intermediário (Pré Requisitos São Importantes, Contudo Podem Ser Mais Genéricos)
@@ -624,10 +624,10 @@
   preReqs: "A ideia é que qualquer pessoa possa se beneficiar do conteúdo apresentado, mas ele se tornará uma inspiração mais prática para pessoas que estão diretamente envolvidas em desafios organizacionais"
 
 - sessionId: 3255
-  title: "9 meses em 4 dias: Como a Coca-Cola inovou no lançamento de produtos"
+  title: "Extreme Agile: Como a coca-cola revolucionou o lançamento de produtos"
   author: "Marcos Garrido"
   coAuthor: "Fernanda Magalhães"
-  track: "Práticas De Trabalho: Da Ideia à Entrega"
+  track: "Práticas de Trabalho: Da Ideia à Entrega"
   abstract: |
     <p>Nesta sessão mostraremos como a Coca-Cola inovou ao usar sprints extremamente curtos para preparar o lançamento de sua primeira bebida alcoólica, reduzindo o tempo necessário para todo o processo de preparação de 9 meses para incríveis 4 dias. 40 pessoas envolvidas de 9 empresas diferentes e um história de sucesso que viralizou na industria de bebidas.</p>
   level: Inicial (Pré Requisitos São Opcionais)
@@ -639,9 +639,9 @@
   title: "Lightning Decision Jam - Como resolver problemas e tomar decisões em até 90min."
   author: "Isabel Coutinho"
   coAuthor: "Luciana Mara Neves Vogas"
-  track: "Práticas De Trabalho: Da Ideia à Entrega"
+  track: "Práticas de Trabalho: Da Ideia à Entrega"
   abstract: |
-    <p>Você já passou ou passa por situações de falta de clareza, reuniões sem objetivos claros, falhas na comunicação e sensação de improdutividade?</p><p>O Lightning Decision Jam ou LDJ para quem já ouviu falar é uma ferramenta que apoia grupos de pessoas a tomarem decisões e resolverem problemas em até 1h30min de acordo com o tamanho do grupo em 8 passos.</p><p>Vamos explorar cada um deles nessa sessão com muita mão na massa para apoiar pessoas que necessitem otimizar seus resultados na prática.</p>
+    <p>Você já passou ou passa por situações de falta de clareza, reuniões sem objetivos claros, falhas na comunicação e sensação de improdutividade? </p><p>O Lightning Decision Jam ou LDJ para quem já ouviu falar é uma ferramenta que apoia grupos de pessoas a tomarem decisões e resolverem problemas em até 1h30min de acordo com o tamanho do grupo em 8 passos. </p><p>Vamos explorar cada um deles nessa sessão com muita mão na massa para apoiar pessoas que necessitem otimizar seus resultados na prática.</p>
   level: Inicial (Pré Requisitos São Opcionais)
   type: Mão Na Massa
   duration: 110
@@ -650,7 +650,7 @@
 - sessionId: 3245
   title: "Apache NiFi - Fluxo de dados 100% automatizado, 1% codificado."
   author: "Cristian Celestino"
-  track: "Mão No Código: Desenvolvimento De Software E Tecnologia"
+  track: "Mão no Código: Desenvolvimento de Software e Tecnologia"
   abstract: |
     <p>Fluxo de dados automatizados entre sistemas de softwares de fio à pavio!!</p><p>Uma abordagem prática para evidenciar o poder da ferramenta mantida pela Apache Software Foundation que possibilita a automação de processos e fluxos dados.</p>
   level: Inicial (Pré Requisitos São Opcionais)
@@ -662,7 +662,7 @@
   title: "Consolidando conceitos de MVP utilizando blocos de montar"
   author: "Hanna Ohi"
   coAuthor: "Layra Gonçalves"
-  track: "Práticas De Trabalho: Da Ideia à Entrega"
+  track: "Práticas de Trabalho: Da Ideia à Entrega"
   abstract: |
     <p>Esta é uma versão autoral de atividades em grupo utilizando blocos de montar para consolidação de conceitos de mínimo produto viável.</p><p>A dinâmica envolvente pela construção de um protótipo de carrinho proporcionará oportunidades de reflexão e entendimento dos tópicos: personas, funcionalidades, hipóteses, pensamento Lean, métricas e riscos.</p>
   level: Intermediário (Pré Requisitos São Importantes, Contudo Podem Ser Mais Genéricos)
@@ -674,7 +674,7 @@
   title: "Como o Lean, Agile e Gestão 3.0 irão aumentar a entrega de valor?"
   author: "Mayra De Souza"
   coAuthor: "Aurineide Cavalcante"
-  track: "Práticas De Trabalho: Da Ideia à Entrega"
+  track: "Práticas de Trabalho: Da Ideia à Entrega"
   abstract: |
     <p>Como é o ciclo de vida do produto na sua organização? Início>meio>fim?</p><p>Esta palestra aborda como as organizações devem atuar para ter um desenvolvimento contínuo de produto: lidar com o Mundo VUCA&BANI, energizar pessoas, empoderar os times, alinhar a restrição, desenvolver as competências, escalar a estrutura e melhorar tudo.</p><p>Tendo um ambiente centrado nas pessoas e orientado à inovação, colaboração e propósito, com práticas Lean e Agile: design circular, karma design, lean inception, design sprint,PBB e strategic inception. Inspecionar e se adaptar a mudanças com indivíduos e interações atuando em colaboração com cliente o valor entregue ao mercado aumenta e tornando as pessoas sensacionais.</p>
   level: Intermediário (Pré Requisitos São Importantes, Contudo Podem Ser Mais Genéricos)
@@ -685,7 +685,7 @@
 - sessionId: 3231
   title: "Arquétipos do Product Owner: descubra quem é você na gestão de produto"
   author: "Rodrigo Pinto"
-  track: "Produtos E Negócios: Concepção, Design E Gestão"
+  track: "Produtos e Negócios: Concepção, Design e Gestão"
   abstract: |
     <p>No mundo da Agilidade existem inúmeras formas de aplicar os conceitos, práticas e frameworks.</p><p>Não é diferente com os papéis do time ágil, em especial do Product Owner.</p><p>Em suas diversas aplicações, o PO pode ser apresentado por meio de vários arquétipos (que nada mais são que modelos).</p><p>Isso ajudará a você produteiro (atuante ou em transição de carreira) a compreender corretamente sua função e também reconhecer anti-padrões que atrapalham seu desempenho.</p><p>Mas se você é um "suporte" ao PO (ex.: gerente, RH, agilista) passará a entender melhor como apoiar esse profissional no desenvolvimento do seu papel.</p><p>De quebra vamos usar os arquétipos para entender de uma vez por todas as diferenças entre Product Owner, Product Manager, Analista de Negócio, Head de Produto.</p>
   level: Inicial (Pré Requisitos São Opcionais)
@@ -696,7 +696,7 @@
 - sessionId: 3226
   title: "Business Agility: A space to think business challenges"
   author: "Tatiana Feitosa Correa Lima"
-  track: "Culturas De Trabalho: Pessoas, Times E Organizações"
+  track: "Culturas de Trabalho: Pessoas, Times e Organizações"
   abstract: |
     <p>Explorar contextos de negócio e aumentar o nível de consciência coletiva sobre os desafios existentes é fundamental, antes de tomar qualquer decisão.</p><p>Esse não é tradicionalmente o caminho percorrido por organizações que buscam evoluir e onde a atenção está orientada para buscar soluções prontas.</p><p>Cynthia Kurtz, bióloga, pesquisadora e referência mundial em complexidade, trouxe uma abordagem, que não impõe soluções e modelos prontos, mas ajuda na busca de soluções coletivamente. Uma abordagem que abraça todas as outras abordagens, sob a lógica do pensamento complexo e não do pensamento linear.</p><p>Nessa palestra, praticaremos o CONFLUENCE, espaço para pensar criado por Cynthia Kurtz com o objetivo de explorar desafios de negócio e ajudar a resolvê-los.</p>
   level: Intermediário (Pré Requisitos São Importantes, Contudo Podem Ser Mais Genéricos)
@@ -707,7 +707,7 @@
 - sessionId: 3220
   title: "Desafios na criação de um Capítulo de Agilidade"
   author: "Thaís Rigolon"
-  track: "Relatos De Experiência: Sua História Sobre Agilidade"
+  track: "Relatos de Experiência: Sua História Sobre Agilidade"
   abstract: |
     <p>Mudanças organizacionais são bem comuns, mas algumas podem reconfigurar um cenário inteiro de uma área. Esse foi o caso da Agilidade Organizacional no PicPay. Após uma descentralização da área, recebi o desafio de liderar a criação do Agile Chapter com foco em cuidar da disciplina de agilidade e temas mais estratégicos, além de manter a conexão com todas as pessoas agilistas que começaram a fazer parte direta da gestão das Unidades de Negócios.</p><p>Nessa palestra, contarei como foi passar por essa mudança estrutural, os impactos causados nas pessoas, a estratégia para retomar o relacionamento com stakeholders, os aprendizados e alguns experimentos. Também vou comparar a estrutura e contexto de agilidade que vivenciei no PicPay com o meu atual desafio dentro da Neon.</p>
   level: Inicial (Pré Requisitos São Opcionais)
@@ -718,7 +718,7 @@
 - sessionId: 3209
   title: "Mais funcionalidades não vão melhorar seu produto"
   author: "Marcell Almeida"
-  track: "Produtos E Negócios: Concepção, Design E Gestão"
+  track: "Produtos e Negócios: Concepção, Design e Gestão"
   abstract: |
     <p>É muito comum acreditarmos que mais funcionalidades vão deixar o nosso produto melhor ou, até mesmo, que ele vai vender mais. Infelizmente a realidade é outra e, muitas vezes, ter mais funcionalidades só piora o seu produto ao torná-lo mais complexo. Nessa palestra irei abordar esses erros comuns, mostrar como é possível evitá-los usando dados e técnicas de produto.</p>
   level: Intermediário (Pré Requisitos São Importantes, Contudo Podem Ser Mais Genéricos)
@@ -729,7 +729,7 @@
 - sessionId: 3196
   title: "O segredo para ser um Agilista em diferentes culturas"
   author: "Marina Bellenzier"
-  track: "Relatos De Experiência: Sua História Sobre Agilidade"
+  track: "Relatos de Experiência: Sua História Sobre Agilidade"
   abstract: |
     <p>Com a expansão de possibilidades em entrar no mercado internacional é essencial que se esteja preparado para enfrentar os desafios que as diferenças culturais podem impactar na forma como trabalhamos e atuamos como Coach. Nesta palestra estarei contando um pouco sobre minha trajetória, os obstáculos encontrados e como outros países estão olhando para agilidade.</p>
   level: Inicial (Pré Requisitos São Opcionais)
@@ -740,9 +740,9 @@
 - sessionId: 3166
   title: "Quando agilidade e o C-level se encontram"
   author: "Ewerton Santos (Ton)"
-  track: "Relatos De Experiência: Sua História Sobre Agilidade"
+  track: "Relatos de Experiência: Sua História Sobre Agilidade"
   abstract: |
-    <p>Saiba como ressignificar sua abordagem com C-level e outros interlocutores de alta influência.</p><p>Nesta palestra você verá um dos grandes vilões das transformações ágeis e organizacionais. O C-level !? NÃÃÃO. A dificuldade que muitos agentes de mudanças tem, para comunicar com versatilidade a importância da agilidade de negócios. Contrapartida, entenderá a postura do C-level ao receber as diversas abordagens do mercado.</p><p>Venha para esta palestra com mente aberta e perguntas poderosas para discussões saudáveis, livres de julgamentos.</p>
+    <p>Saiba como ressignificar sua abordagem com C-level e outros interlocutores de alta influência.</p><p>Nesta palestra você verá um dos grandes vilões das transformações ágeis e organizacionais. O C-level !? NÃÃÃO. A dificuldade que muitos agentes de mudanças tem, para comunicar com versatilidade a importância da agilidade de negócios. Contrapartida, entenderá a postura do C-level ao receber as diversas abordagens do mercado. </p><p>Venha para esta palestra com mente aberta e perguntas poderosas para discussões saudáveis, livres de julgamentos.</p>
   level: Intermediário (Pré Requisitos São Importantes, Contudo Podem Ser Mais Genéricos)
   type: Apresentação
   duration: 50
@@ -751,7 +751,7 @@
 - sessionId: 3163
   title: "Agile Testing realmente existe?"
   author: "Alan Voigt"
-  track: "Mão No Código: Desenvolvimento De Software E Tecnologia"
+  track: "Mão no Código: Desenvolvimento de Software e Tecnologia"
   abstract: |
     <p>Você já se perguntou se realmente os testes devem ser conduzidos de forma diferente quando estamos no universo ágil?</p><p>Os testes e a qualidade de software surgiram em um contexto muito tradicional de desenvolvimento de software e até hoje parecem não ter se encontrado muito bem neste novo mundo. Muitos se questionam, será que o Agile Testing realmente existe e funciona?</p><p>Nesta apresentação vamos desmistificar todo esse assunto!</p>
   level: Inicial (Pré Requisitos São Opcionais)
@@ -763,10 +763,43 @@
   title: "Kanban Game - Aprenda como esse jogo ONLINE e GRÁTIS pode ser o catalisador das práticas Kanban"
   author: "Caco - Cleiton Mafra"
   coAuthor: "Dieine Silva"
-  track: "Práticas De Trabalho: Da Ideia à Entrega"
+  track: "Práticas de Trabalho: Da Ideia à Entrega"
   abstract: |
-    <p>Você está procurando algum Game Kanban para ajudar a ensinar as práticas do método Kanban na sua empresa? Já viu alguns jogos mas ficou com dúvidas em como aplicar? Seus problemas acabaram!</p><p>Neste workshop você vai ter a experiência de praticar o método Kanban com um jogo GRÁTIS e ONLINE, aprender dicas de como rodar na sua empresa e como usá-lo como aliado na educação sobre Kanban.</p><p>Traga seu computador e vem com a gente.</p><p>Corre, porque são só 60 vagas!!!!!</p>
+    <p>Você está procurando algum Game Kanban para ajudar a ensinar as práticas do método Kanban na sua empresa? Já viu alguns jogos mas ficou com dúvidas em como aplicar? Seus problemas acabaram! </p><p>Neste workshop você vai ter a experiência de praticar o método Kanban com um jogo GRÁTIS e ONLINE, aprender dicas de como rodar na sua empresa e como usá-lo como aliado na educação sobre Kanban.</p><p>Traga seu computador e vem com a gente.</p><p>Corre, porque são só 60 vagas!!!!!</p>
   level: Intermediário (Pré Requisitos São Importantes, Contudo Podem Ser Mais Genéricos)
   type: Mão Na Massa
   duration: 110
   preReqs: "Conhecimento básico prévio no método Kanban"
+
+- sessionId: 3342
+  title: "Fui promovido a líder, e agora?"
+  author: "Fabio Massa"
+  track: "Culturas de Trabalho: Pessoas, Times e Organizações"
+  abstract: |
+    <p>Vamos falar sobre pessoas?</p><p>Quem iniciou a carreira como engenheiro de software/desenvolvedor e almeja algum cargo de liderança, passa por inúmeros questionamentos e muita indecisão. Afinal, ficar à frente da liderança de um time requer muita responsabilidade, ou ao menos, é sempre a primeira impressão sobre esse papel.</p><p>A proposta dessa talk é baseada na minha trajetória, como desenvolvedor, irei compartilhar como foi assumir o cargo de gestão e deixar de lado algo que eu gostava muito que era programar. Vou contar um pouquinho de quais desafios te esperam, e também dos momentos de orgulho e realizações nessa posição. Se você almeja um dia ficar à frente da liderança de um time de tecnologia, essa talk é para você!</p>
+  level: Inicial (Pré Requisitos São Opcionais)
+  type: Apresentação
+  duration: 25
+  preReqs: "Desejo e/ou vontade de liderar pessoas."
+
+- sessionId: 3486
+  title: "Destravando a LIDERANÇA ÁGIL com LEGO® SERIOUS PLAY®"
+  author: "Marcelo Macedo"
+  track: "Culturas de Trabalho: Pessoas, Times e Organizações"
+  abstract: |
+    <p>Criar novas habilidades é uma responsabilidade de todos, mas as lideranças tem papel fundamental para o sucesso das mudanças organizacionais.</p><p>A grande questão é que muitas vezes líderes se encontram TRAVADOS em estilos de gestão que os distanciam dos resultados desejados.</p><p>Esse WORKSHOP irá ajudar LÍDERES e AGILISTAS a compreender como desenvolver habilidades necessárias para construir times com maior autonomia, engajamento e energia para superar até as atividades mais desafiadoras!</p><p>Workshop totalmente prático e desbravador, você terá uma imersão profunda, por meio da metodologia LEGO® SERIOUS PLAY®, que promove a criatividade e a interação entre pessoas para descobrir formas de DESTRAVAR a liderança ágil.</p><p>Inscreva-se nesse workshop e venha destravar com a gente!</p>
+  level: Intermediário (Pré Requisitos São Importantes, Contudo Podem Ser Mais Genéricos)
+  type: Mão Na Massa
+  duration: 110
+  preReqs: "Fundamentos de agilidade."
+
+- sessionId: 3165
+  title: "Elaborando boas histórias na prática. Para além do INVEST"
+  author: "Nilton Garcia"
+  track: "Práticas de Trabalho: Da Ideia à Entrega"
+  abstract: |
+    <p>Histórias estão no centro da entrega de valor! Mas é comum o inicial ser dado por ultrapassado conforme os times avançam na adoção de preceitos da Agilidade.</p><p>Por isso, mostrarei alguns PADRÕES que ajudam a identificar e elaborar boas histórias, contribuindo com o INVEST do Mike Cohn. Você verá: 3 formas de gerir backlog, 2 formas de identificar histórias, 10 formas de fatiá-las, 8 disfunções ao escrever e o que conecta tudo, com exemplos.</p><p>Isso inclui, claro, os essenciais critérios de aceitação! "Ah, mas é tão difícil elaborá-los no formato BDD…". Bom, mostrarei uma alternativa interessante, que pode ser útil no seu contexto.</p><p>E, para além desse (importante) reforço, na esteira das tendências, indicarei 8 product-led patterns que também ajudam nessa busca contínua da eficácia.</p>
+  level: Intermediário (Pré Requisitos São Importantes, Contudo Podem Ser Mais Genéricos)
+  type: Apresentação
+  duration: 60
+  preReqs: "Familiaridade com a terminologia geral da Agilidade. Um pouco de prática com elaboração de histórias ajuda a entender a aplicação dos conceitos."
