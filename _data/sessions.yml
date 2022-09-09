@@ -792,14 +792,3 @@
   type: Mão Na Massa
   duration: 110
   preReqs: "Fundamentos de agilidade."
-
-- sessionId: 3165
-  title: "Elaborando boas histórias na prática. Para além do INVEST"
-  author: "Nilton Garcia"
-  track: "Práticas de Trabalho: Da Ideia à Entrega"
-  abstract: |
-    <p>Histórias estão no centro da entrega de valor! Mas é comum o inicial ser dado por ultrapassado conforme os times avançam na adoção de preceitos da Agilidade.</p><p>Por isso, mostrarei alguns PADRÕES que ajudam a identificar e elaborar boas histórias, contribuindo com o INVEST do Mike Cohn. Você verá: 3 formas de gerir backlog, 2 formas de identificar histórias, 10 formas de fatiá-las, 8 disfunções ao escrever e o que conecta tudo, com exemplos.</p><p>Isso inclui, claro, os essenciais critérios de aceitação! "Ah, mas é tão difícil elaborá-los no formato BDD…". Bom, mostrarei uma alternativa interessante, que pode ser útil no seu contexto.</p><p>E, para além desse (importante) reforço, na esteira das tendências, indicarei 8 product-led patterns que também ajudam nessa busca contínua da eficácia.</p>
-  level: Intermediário (Pré Requisitos São Importantes, Contudo Podem Ser Mais Genéricos)
-  type: Apresentação
-  duration: 60
-  preReqs: "Familiaridade com a terminologia geral da Agilidade. Um pouco de prática com elaboração de histórias ajuda a entender a aplicação dos conceitos."
