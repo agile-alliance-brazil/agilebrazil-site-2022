@@ -27,6 +27,13 @@
   start: 2022-05-09
   end: 2022-10-07
 
+- name: Pessoa com deficiência
+  price: 460
+  amount: 270
+  current: true
+  start: 2022-05-09
+  end: 2022-10-07
+
 - name: Normal
   price: 920
   amount: 250
