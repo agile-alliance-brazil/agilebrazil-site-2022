@@ -18,6 +18,11 @@
   url: https://www.thoughtworks.com/
   level: diamante
 
+- name: Dell
+  logo: assets/images/sponsors/sponsor-logo-dell.png
+  url: https://carreiras.dell.com/tech
+  level: diamante
+
 - name: SoftDesign
   logo: assets/images/sponsors/sponsor-logo-softDesign.png
   url: https://softdesign.com.br/
@@ -31,6 +36,11 @@
 - name: DB
   logo: assets/images/sponsors/sponsor-logo-db.png
   url: https://db.tec.br/
+  level: prata
+
+- name: Nubank
+  logo: assets/images/sponsors/sponsor-logo-nubank.png
+  url: https://international.nubank.com.br/careers/
   level: prata
 
 - name: Bain
