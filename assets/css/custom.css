@@ -25,12 +25,20 @@
   width: 10vw;
 }
 
+#footer .sponsorsInLevel img.prata.Dell {
+  width: 18vw;
+}
+
 #footer .sponsorsInLevel img.prata.SoftDesign {
   width: 22vw;
 }
 
 #footer .sponsorsInLevel img.prata.SoftDesign {
   width: 18vw;
+}
+
+#footer .sponsorsInLevel img.prata.Nubank {
+  width: 12vw;
 }
 
 #footer .sponsorsInLevel img.diversidade.RaphaAlbino,
@@ -66,12 +74,20 @@
     width: 20vw;
   }
 
-  #footer .sponsorsInLevel img.prata.SoftDesign {
+  #footer .sponsorsInLevel img.diamante.Dell {
+    width: 40vw;
+  }
+
+#footer .sponsorsInLevel img.prata.SoftDesign {
     width: 48vw;
   }
 
   #footer .sponsorsInLevel img.prata.SoftDesign {
     width: 36vw;
+  }
+
+  #footer .sponsorsInLevel img.prata.Nubank {
+    width: 24vw;
   }
 
   #footer .sponsorsInLevel img.diversidade.RaphaAlbino,
