@@ -22,7 +22,7 @@
 
 /* Footer customizations, desktop */
 #footer .sponsorsInLevel img.diamante.DTI {
-  width: 10vw;
+  width: 20vw;
 }
 
 #footer .sponsorsInLevel img.diamante.Dell {
@@ -71,11 +71,11 @@
 
   /* Footer customizations, mobile */
   #footer .sponsorsInLevel img.diamante.DTI {
-    width: 20vw;
+    width: 48vw;
   }
 
   #footer .sponsorsInLevel img.diamante.Dell {
-    width: 40vw;
+    width: 36vw;
   }
 
   #footer .sponsorsInLevel img.prata.SoftDesign {
