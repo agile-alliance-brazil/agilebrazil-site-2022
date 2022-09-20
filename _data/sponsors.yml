@@ -58,6 +58,11 @@
   url: https://www.wildtech.com.br/
   level: comunidade
 
+- name: K21
+  logo: assets/images/sponsors/sponsor-logo-k21.png
+  url: https://k21.global
+  level: comunidade
+
 - name: RaphaAlbino
   logo: assets/images/sponsors/sponsor-logo-raphaalbino.png
   url: https://rapha-albino.com.br/
