@@ -819,7 +819,8 @@
 - sessionId: Painel Patrocinadores
   title: "Business Agility: estamos preparados? (painel com patrocinadores)"
   author: "Luiz Parzianello (mediador)"
-  track: "Isabela Lopes Resende Cançado (ArcelorMittal), Fernanda Vieira de Paula (DTI)"
+  coAuthor: "Isabela Lopes Resende Cançado (ArcelorMittal), Fernanda Vieira de Paula (DTI)"
+  track: "Patrocinada"
   abstract: |
     <p>em breve</p>
   level: "-"
