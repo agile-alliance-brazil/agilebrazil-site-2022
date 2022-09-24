@@ -794,21 +794,21 @@
   preReqs: "Fundamentos de agilidade."
   
 - sessionId: 3318
-  title: O papel do "novo" Agile Coach: mais próxima à estratégia e ao negócio
-  author: Henrique Gonçalves
-  coAuthor: Natália Manha
-  track: Relatos de Experiência: Sua História Sobre Agilidade
+  title: "O papel do 'novo' Agile Coach: mais próxima à estratégia e ao negócio"
+  author: "Henrique Gonçalves"
+  coAuthor: "Natália Manha"
+  track: "Relatos de Experiência: Sua História Sobre Agilidade"
   abstract: |
     <p>"Agile Coaches, sem responsabilidade pela entrega não são o futuro" – Mary Poppendieck no evento Comunidade Mulheres Agilistas trouxe como conselho para todos os agilistas aprenderem sobre liderança de produtos e sugeriu um olhar do papel de Agile Coach além da facilitação. Muitas vezes nos deparamos com cenários em que existe grande dificuldade de interação entre agilistas e product owners, mas acreditamos que essa parceria é essencial para trazer resultados de negócios e o esperado valor da agilidade. Nosso objetivo nesta apresentação é trazer a experiência da construção das relações entre agilidade e produtos, com apoio de um Agile Coach e do Portfólio, em uma área de negócios.</p>
   level: Intermediário (Pré Requisitos São Importantes, Contudo Podem Ser Mais Genéricos)
   type: Apresentação
   duration: 50
-  preReqs: Experiência com liderança ágil
+  preReqs: "Experiência com liderança ágil"
   
 - sessionId: Flomatika
-  title: 7 padrões sistêmicos comuns: Mostre-me seus números, e eu direi quem você é!
-  author: Márcio Sete
-  track: Patrocinada
+  title: "7 padrões sistêmicos comuns: Mostre-me seus números, e eu direi quem você é!"
+  author: "Márcio Sete"
+  track: "Patrocinada"
   abstract: |
     <p>(em breve)</p>
   level: -
@@ -817,9 +817,9 @@
   preReqs: -
   
 - sessionId: Painel Patrocinadores
-  title: Business Agility: estamos preparados? (painel com patrocinadores)
-  author: Luiz Parzianello (mediador)
-  track: Isabela Lopes Resende Cançado (ArcelorMittal), Fernanda Vieira de Paula (DTI)
+  title: "Business Agility: estamos preparados? (painel com patrocinadores)"
+  author: "Luiz Parzianello (mediador)"
+  track: "Isabela Lopes Resende Cançado (ArcelorMittal), Fernanda Vieira de Paula (DTI)"
   abstract: |
     <p>em breve</p>
   level: -
