@@ -811,10 +811,10 @@
   track: "Patrocinada"
   abstract: |
     <p>(em breve)</p>
-  level: -
+  level: "-"
   type: Apresentação
   duration: 50
-  preReqs: -
+  preReqs: "-"
   
 - sessionId: Painel Patrocinadores
   title: "Business Agility: estamos preparados? (painel com patrocinadores)"
@@ -822,7 +822,7 @@
   track: "Isabela Lopes Resende Cançado (ArcelorMittal), Fernanda Vieira de Paula (DTI)"
   abstract: |
     <p>em breve</p>
-  level: -
+  level: "-"
   type: Apresentação
   duration: 50
-  preReqs: -
+  preReqs: "-"
