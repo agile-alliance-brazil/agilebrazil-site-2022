@@ -3,6 +3,11 @@
   url: https://kanbanize.com/
   level: título
 
+- name: TQI
+  logo: assets/images/sponsors/sponsor-logo-tqi.png
+  url: https://www.tqi.com.br
+  level: título
+
 - name: DTI
   logo: assets/images/sponsors/sponsor-logo-dti.png
   url: https://dti.ag/home-agilebrazil-2022
