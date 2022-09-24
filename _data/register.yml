@@ -20,10 +20,17 @@
   start: 2022-06-24
   end: 2022-09-18
 
+- name: Normal
+  price: 920
+  amount: 250
+  current: true
+  start: 2022-09-19
+  end: 2022-09-30
+
 - name: Estudante
   price: 460
   amount: 40
-  current: false
+  current: true
   start: 2022-05-09
   end: 2022-10-07
   token: 5234f47a3cfefe0eda7911c86e4f5fab
@@ -31,17 +38,10 @@
 - name: Pessoa com deficiência
   price: 460
   amount: 270
-  current: false
+  current: true
   start: 2022-05-09
   end: 2022-10-07
   token: b68d0b1725ab9d1a77f056ceab1990a0
-
-- name: Normal
-  price: 920
-  amount: 250
-  current: true
-  start: 2022-09-19
-  end: 2022-09-30
 
 - name: Última hora
   price: 1040
