@@ -1,6 +1,6 @@
 /* Footer default sizes, desktop */
 #footer .sponsorsInLevel img.título {
-  width: 48vw;
+  width: 45vw;
 }
 
 #footer .sponsorsInLevel img.diamante {
@@ -21,6 +21,11 @@
 }
 
 /* Footer customizations, desktop */
+#footer .sponsorsInLevel img.título.TQI {
+  width: 28vw;
+  margin: 0;
+}
+
 #footer .sponsorsInLevel img.diamante.DTI {
   width: 20vw;
 }
@@ -70,6 +75,10 @@
   }
 
   /* Footer customizations, mobile */
+  #footer .sponsorsInLevel img.título.TQI {
+    width: 60vw;
+  }
+
   #footer .sponsorsInLevel img.diamante.DTI {
     width: 48vw;
   }
@@ -199,6 +208,11 @@
 }
 
 @media screen and (max-width: 480px) {
+
+  #footer .sponsorsInLevel img.título {
+    width: 45vw;
+  }
+
   .program .session {
     max-width: unset;
   }
