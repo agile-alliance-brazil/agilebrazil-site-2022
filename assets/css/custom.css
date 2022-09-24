@@ -34,7 +34,8 @@
   width: 18vw;
 }
 
-#footer .sponsorsInLevel img.prata.SoftDesign {
+#footer .sponsorsInLevel img.prata.SoftDesign,
+#footer .sponsorsInLevel img.prata.Renner {
   width: 22vw;
 }
 
@@ -87,8 +88,9 @@
     width: 36vw;
   }
 
-  #footer .sponsorsInLevel img.prata.SoftDesign {
-    width: 48vw;
+  #footer .sponsorsInLevel img.prata.SoftDesign,
+  #footer .sponsorsInLevel img.prata.Renner {
+    width: 44vw;
   }
 
   #footer .sponsorsInLevel img.prata.DB {
@@ -208,10 +210,6 @@
 }
 
 @media screen and (max-width: 480px) {
-
-  #footer .sponsorsInLevel img.título {
-    width: 45vw;
-  }
 
   .program .session {
     max-width: unset;
