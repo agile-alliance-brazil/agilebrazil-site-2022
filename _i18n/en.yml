@@ -6,10 +6,6 @@ conference:
   venue: PUC-RS
   dates: october/5 to 7, 2022
   year: '2022'
-  # description: >-
-  #   The Agile Brazil is more than a conference, it's a community united by volunteering.
-  #   We are together to share knowledge to everyone who want learn and teach, independently of its Agile experience.
-  #   The event has the purpose of bring communication and collaboration to participants, with goal of spread the Agile culture across the country.
 
 nav:
   about: About
@@ -46,6 +42,7 @@ labels:
   community: Community
   see_the_program: See the program
   photo_of: Photo of
+  face_to_face_event: '100% face to face'
 
 texts:
   registrations_are_open: Registrations to Agile Brazil 2022 are open and we'll see you at Porto Alegre, at october 5 to 7, to session talks, hall talks and happy hours!

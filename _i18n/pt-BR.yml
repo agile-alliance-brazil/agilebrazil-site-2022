@@ -6,16 +6,12 @@ conference:
   venue: PUC-RS
   dates: 5 a 7/outubro, 2022
   year: '2022'
-  # description: >-
-  #   Agile Brazil é mais que uma conferência, é uma comunidade de pessoas unidas pelo voluntariado. 
-  #   Estamos juntos para compartilhar conhecimento com todos aqueles que querem aprender e ensinar, independente da sua experiência com agilidade.
-  #   O evento tem como propósito promover a comunicação e a colaboração entre seus integrantes visando a disseminação da cultura Ágil por todo o país.
 
 nav:
   about: Sobre
   about_covid_protocol_anchor: protocoloCovid
   registrations: Inscrições
-  program: Programa
+  program: Programação
   sponsorship: Patrocínio
   wbma: Workshop Brasileiro de Métodos Ágeis
   location: Local e parcerias
@@ -46,6 +42,7 @@ labels:
   community: Comunidade
   see_the_program: Veja a programação
   photo_of: Foto de 
+  face_to_face_event: '100% presencial'
 
 texts:
   registrations_are_open: As inscrições para a Agile Brazil 2022 já estão abertas e nos veremos em Porto Alegre, de 5 a 7 de outubro, para palestras, papos de corredor e happy hours!
