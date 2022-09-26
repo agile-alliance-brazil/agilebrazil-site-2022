@@ -1,0 +1,14 @@
+- name: Mentoring Corner
+  icon: assets/images/community.svg
+  description: >-
+    Uma descrição indentada assim
+
+- name: Open Spaces
+  icon: assets/images/community.svg
+  description: >-
+    Outra descrição indentada assim
+
+- name: Corredores
+  icon: assets/images/community.svg
+  description: >-
+    Mais uma descrição indentada assim
