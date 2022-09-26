@@ -55,6 +55,10 @@ blockquote, q {
 		content: none;
 	}
 
+details summary {
+	cursor: pointer;
+}
+
 table {
 	border-collapse: collapse;
 	border-spacing: 0;
@@ -4103,16 +4107,11 @@ input, select, textarea {
 		text-align: center;
 	}
 
-	#footer h2 {
-		color: var(--ab-logo-branco);
-		margin-top: 0.5rem;
-		text-align: left;
-	}
-
 	#footer h3 {
 		color: var(--ab-logo-branco);
-		font-size: 2rem;
+		font-size: 1.9rem;
 		margin-top: 0.5rem;
+		text-align: left;
 	}
 
 	#footer a {
@@ -4136,78 +4135,152 @@ input, select, textarea {
 		border-top: var(--ab-divisores) solid 1px;
 	}
 
-	#footer .footer-wrapper {
+	/* Footer > sponsors */
+	#footer .patrocinadoras,
+	#footer .sobre {
+		padding: 2em 4em;
+	}
+
+	#footer .patrocinadoras {
+		text-align: left;
+	}
+
+	#footer .patrocinadoras h2 {
+		color: var(--ab-logo-branco);
+	}
+
+	#footer .patrocinadoras .heading p {
+		color: var(--ab-logo-laranja);
+	}
+
+	#footer .sponsorsInLevel {
+		display: flex;
+		align-items: center;
+		gap: 2rem;
+		padding: 1rem;
+	}
+
+	#footer .patrocinadoras .cota {
+		flex: 0 0 320px;
+	}
+
+	#footer .patrocinadoras .cota h3 {
+		color: silver;
+		text-align: right;
+	}
+
+	#footer .patrocinadoras .título .cota h3 {
+		font-size: 2.4rem;
+	}
+
+	#footer .patrocinadoras .comunidade .cota h3,
+	#footer .patrocinadoras .diversidade .cota h3 {
+		font-size: 1.5rem;
+	}
+
+	#footer .patrocinadoras .empresas {
+		flex: 1 0 auto;
+		max-width: calc(100% - 320px - 2em);
+		display: flex;
+		flex-wrap: wrap;
+		align-items: center;
+		gap: 0 2em;
+    justify-content: space-evenly;
+	}
+
+	#footer .patrocinadoras .empresas img {
+		margin: 5vh 0;
+	}
+
+	/* sponsor level sizing at custom.css */
+
+	@media screen and (max-width: 736px) {
+		#footer .patrocinadoras {
+			padding: 2em;
+		}
+
+		#footer .sponsorsInLevel {
+			flex-direction: column;
+			padding: 2em 0;
+		}
+
+		#footer .sponsorsInLevel h3 {
+			text-align: center;
+		}
+
+		#footer .patrocinadoras .cota {
+			flex: 0 0 auto;
+		}
+
+		#footer .patrocinadoras .empresas {
+			gap: 2rem;
+		}
+	}
+
+
+	#footer .sobre {
+		border-top: var(--ab-divisores) solid 1px;
 		display: flex;
 		flex-direction: row;
 		gap: 2em;
 		align-items: flex-start;
 		justify-content: space-between;
 		align-items: center;
-		padding: 2em 4em;
 	}
 
-	#footer .sponsors {
-		display: flex;
-		flex-grow: 1;
-		flex-wrap: wrap;
-		gap: 1rem;
-		align-items: center;
-		justify-content: space-around;
+	#footer .localizacao address {
+		display: inline-block;
+		vertical-align: top;
+		padding-left: 1em;
+		text-align: left;
+		font-size: 1.2rem;
+	} 
+
+	#footer .localizacao address p {
+		margin-bottom: 0;
 	}
 
-	/* sponsor level sizing at custom.css */
-	#footer .sponsors img {
-		max-height: 120px;
-		max-width: 100vw;
-		padding: 1em;
+	#footer .localizacao address strong {
+		color: var(--ab-logo-branco);
+		display: block;
+		margin-bottom: 0.5em;
 	}
-
+	
 	#footer .apoio,
 	#footer .social {
 		border-left: var(--ab-divisores) solid 1px;
 		padding-left: 2em;
+		min-width: 320px;
+		max-width: 320px;
 	}
 
-	#footer .supporters {
+	#footer .apoio img {
+		width: 132px;
+		padding-bottom: 1em;
+	}
+
+	#footer .apoio .supporters {
+		align-items: center;
 		display: flex;
-		flex-direction: column;
+		flex-wrap: wrap;
+		gap: 1em;
+		justify-content: space-evenly;
 		margin-bottom: 0;
 	}
 
-	#footer .apoio a,
-	#footer .apoio img {
-		width: 140px;
-		padding-bottom: 0.5em;
-	}
-
-	#footer .social {
-		min-width: 320px;
-	}
-
 	#footer .copyleft {
-		padding: 1em 4em;
-	}
-
-	#footer .divider ul.icons li {
-		padding: 0;
-	}
-
-	#footer .divider span {
 		font-size: 13px;
+		padding: 1em;
 	}
 
-	#footer ul.icons {
+	#footer .social ul.icons {
 		display: flex;
 		flex-direction: row;
 		justify-content: space-evenly;
 		margin-bottom: 0;
 	}
 
-	#footer ul.icons li {
-		display: block;
-	}
-
-	#footer ul.icons li a {
+	#footer .social ul.icons li a {
 		box-shadow: inset 0 0 0 1px var(--ab-logo-branco);
 		color: var(--ab-logo-branco);
 		margin: 0;
@@ -4218,10 +4291,10 @@ input, select, textarea {
 
 	@media screen and (max-width: 980px) {
 
-		#footer .footer-wrapper {
+		#footer .sobre {
 			flex-direction: column;
 			gap: 1em;
-			padding: 2em 2em;
+			padding: 2em;
 		}
 
 		#footer .apoio,
@@ -4230,27 +4303,16 @@ input, select, textarea {
 			padding-left: unset;
 			border-top: var(--ab-divisores) solid 1px;
 			padding-top: 2em;
+			min-width: none;
 		}
 
-		#footer h2 {
+		#footer h3 {
 			text-align: center;
-			font-size: 2rem;
-			padding-bottom: 1rem;
-		}
-
-		#footer .supporters {
-			align-items: center;
-			flex-direction: row;
-			flex-wrap: wrap;
-			gap: 2em;
-			justify-content: space-evenly;
 		}
 	}
 
 	@media screen and (max-width: 736px) {
-
 	}
 
 	@media screen and (max-width: 480px) {
-
 	}

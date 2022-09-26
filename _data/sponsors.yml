@@ -1,24 +1,84 @@
 - name: Kanbanize
-  logo: /assets/images/sponsors/sponsor-logo-kanbanize.png
+  photo: /assets/images/sponsors/sponsor-logo-kanbanize.png
   url: https://kanbanize.com/
-  level: titulo
+  level: título
+
+- name: TQI
+  photo: /assets/images/sponsors/sponsor-logo-tqi.png
+  url: https://www.tqi.com.br
+  level: título
 
 - name: DTI
-  logo: /assets/images/sponsors/sponsor-logo-dti.png
+  photo: /assets/images/sponsors/sponsor-logo-dti.png
   url: https://dti.ag/home-agilebrazil-2022
   level: diamante
 
+- name: Flomatika
+  photo: /assets/images/sponsors/sponsor-logo-flomatika.png
+  url: https://www.flomatika.com/
+  level: diamante
+
+- name: ThoughtWorks
+  photo: /assets/images/sponsors/sponsor-logo-thoughtworks.png
+  url: https://www.thoughtworks.com/
+  level: diamante
+
+- name: Dell
+  photo: /assets/images/sponsors/sponsor-logo-dell.png
+  url: https://carreiras.dell.com/tech
+  level: diamante
+
 - name: SoftDesign
-  logo: /assets/images/sponsors/sponsor-logo-softdesign.png
+  photo: /assets/images/sponsors/sponsor-logo-softDesign.png
   url: https://softdesign.com.br/
   level: prata
 
 - name: ArcelorMittal
-  logo: /assets/images/sponsors/sponsor-logo-arcelormittal.png
+  photo: /assets/images/sponsors/sponsor-logo-arcelormittal.png
   url: https://www.linkedin.com/company/arcelormittal-sistemas
   level: prata
 
+- name: DB
+  photo: /assets/images/sponsors/sponsor-logo-db.png
+  url: https://db.tec.br/
+  level: prata
+
+- name: Nubank
+  photo: /assets/images/sponsors/sponsor-logo-nubank.png
+  url: https://international.nubank.com.br/careers/
+  level: prata
+
+- name: Renner
+  photo: /assets/images/sponsors/sponsor-logo-renner.png
+  url: https://encantech.gupy.io/
+  level: prata
+
 - name: Bain
-  logo: /assets/images/sponsors/sponsor-logo-bain.png
+  photo: /assets/images/sponsors/sponsor-logo-Bain.png
   url: https://www.bain.com.br/
   level: bronze
+
+- name: Suzano
+  photo: /assets/images/sponsors/sponsor-logo-suzano.png
+  url: https://www.suzano.com.br/
+  level: bronze
+
+- name: Wildtech
+  photo: /assets/images/sponsors/sponsor-logo-wildtech.png
+  url: https://www.wildtech.com.br/
+  level: comunidade
+
+- name: K21
+  photo: /assets/images/sponsors/sponsor-logo-k21.png
+  url: https://k21.global
+  level: comunidade
+
+- name: RaphaAlbino
+  photo: /assets/images/sponsors/sponsor-logo-raphaalbino.png
+  url: https://rapha-albino.com.br/
+  level: diversidade
+
+- name: TQI
+  photo: /assets/images/sponsors/sponsor-logo-tqi.png
+  url: https://www.tqi.com.br
+  level: diversidade

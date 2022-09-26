@@ -1,20 +1,24 @@
 <!-- Footer -->
 <footer id="footer">
-  <section class="footer-wrapper">
-    <div class="patrocinadores">
-      <h2>Patrocínio</h2>
+  {% include sponsors.html %}
 
-      <div class="sponsors">
-        {% for sponsor in site.data.sponsors %}
-        <a href="{{sponsor.url}}" target="_blank">
-          <img class="{{sponsor.level}}  {{sponsor.name}}" src="{{sponsor.logo | prepend: site.baseurl_root}}" alt="{{sponsor.name}}">
-        </a>
-        {% endfor %}
-      </div>
+  <section class="sobre">
+    <div class="localizacao">
+      <h3>Local</h3>
+
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3453.184831811097!2d-51.174284!3d-30.060236!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9519770132aa4629%3A0xc3d92a7009ad466d!2sCentro%20de%20Eventos%20da%20PUCRS!5e0!3m2!1sen!2sbr!4v1661814635369!5m2!1sen!2sbr" height="230" style="border:0;" loading="lazy" referrerpolicy="no-referrer-when-downgrade" title="Mapa do Centro de Evento s da PUCRS"></iframe>
+
+      <address>
+        <p><strong>Centro de Eventos &ndash; PUCRS</strong></p>
+        <p>
+          Av. Ipiranga, 6681, prédio 41<br>
+          Partenon &mdash; Porto Alegre/RS
+        </p>
+      </address>
     </div>
 
     <div class="apoio">
-      <h2>Apoio</h2>
+      <h3>Apoio</h3>
 
       <ul class="supporters">
         {% for supporter in site.data.supporters %}

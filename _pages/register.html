@@ -18,7 +18,11 @@ permalink_en: /registrations
     <div class="row gtr-50 gtr-uniform">
     {% for ticket in site.data.register %}
       {% if ticket.current %}
-        <a class="rate current" href="{{ site.sistemas.inscricoes }}" target="_blank">
+        {% if ticket.token %}
+          <a class="rate current" href="{{ site.sistemas.inscricoes }}/events/80/attendances/new?registration_token={{ticket.token}}">
+        {% else %}
+          <a class="rate current" href="{{ site.sistemas.inscricoes }}" target="_blank">
+        {% endif %}
       {% else %}
         <div class="rate">
       {% endif %}
@@ -34,7 +38,7 @@ permalink_en: /registrations
     </div>
 
 
-    <h2>Perguntas frequentes</h2>
+    <h2 id="faq">Perguntas frequentes</h2>
     <dl>
       {% for faq in site.data.faq %}
       <dt>{{faq.question}}</dt>

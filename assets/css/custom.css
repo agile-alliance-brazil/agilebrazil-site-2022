@@ -1,26 +1,110 @@
-#footer .sponsors img.titulo {
-  width: 45rem;
-  max-height: fit-content;
+/* Footer default sizes, desktop */
+#footer .sponsorsInLevel img.título {
+  width: 45vw;
 }
 
-#footer .sponsors .diamante {
-  width: 14rem;
-  max-height: fit-content;
+#footer .sponsorsInLevel img.diamante {
+  width: 32vw;
 }
 
-#footer .sponsors .prata {
-  width: 12rem;
-  max-height: fit-content;
+#footer .sponsorsInLevel img.prata {
+  width: 16vw;
 }
 
-#footer .sponsors .prata.SoftDesign {
-  width: 15rem;
-  max-height: fit-content;
+#footer .sponsorsInLevel img.bronze {
+  width: 12vw;
 }
 
-#footer .sponsors .bronze {
-  width: 12rem;
-  max-height: fit-content;
+#footer .sponsorsInLevel img.comunidade,
+#footer .sponsorsInLevel img.diversidade {
+  width: 10vw;
+}
+
+/* Footer customizations, desktop */
+#footer .sponsorsInLevel img.título.TQI {
+  width: 28vw;
+  margin: 0;
+}
+
+#footer .sponsorsInLevel img.diamante.DTI {
+  width: 20vw;
+}
+
+#footer .sponsorsInLevel img.diamante.Dell {
+  width: 18vw;
+}
+
+#footer .sponsorsInLevel img.prata.SoftDesign,
+#footer .sponsorsInLevel img.prata.Renner {
+  width: 22vw;
+}
+
+#footer .sponsorsInLevel img.prata.DB {
+  width: 18vw;
+}
+
+#footer .sponsorsInLevel img.prata.Nubank {
+  width: 12vw;
+}
+
+#footer .sponsorsInLevel img.diversidade.RaphaAlbino,
+#footer .sponsorsInLevel img.comunidade.Wildtech {
+  width: 12vw;
+}
+
+@media screen and (max-width: 736px) {
+  /* Footer default sizes, mobile */
+  #footer .sponsorsInLevel img.título {
+    width: 90vw;
+  }
+
+  #footer .sponsorsInLevel img.diamante {
+    width: 60vw;
+  }
+
+  #footer .sponsorsInLevel img.prata {
+    width: 40vw;
+  }
+
+  #footer .sponsorsInLevel img.bronze {
+    width: 32vw;
+  }
+
+  #footer .sponsorsInLevel img.comunidade,
+  #footer .sponsorsInLevel img.diversidade {
+    width: 20vw;
+  }
+
+  /* Footer customizations, mobile */
+  #footer .sponsorsInLevel img.título.TQI {
+    width: 60vw;
+  }
+
+  #footer .sponsorsInLevel img.diamante.DTI {
+    width: 48vw;
+  }
+
+  #footer .sponsorsInLevel img.diamante.Dell {
+    width: 36vw;
+  }
+
+  #footer .sponsorsInLevel img.prata.SoftDesign,
+  #footer .sponsorsInLevel img.prata.Renner {
+    width: 48vw;
+  }
+
+  #footer .sponsorsInLevel img.prata.DB {
+    width: 36vw;
+  }
+
+  #footer .sponsorsInLevel img.prata.Nubank {
+    width: 24vw;
+  }
+
+  #footer .sponsorsInLevel img.diversidade.RaphaAlbino,
+  #footer .sponsorsInLevel img.comunidade.Wildtech {
+    width: 30vw;
+  }
 }
 
 .codeOfConduct {
@@ -32,6 +116,10 @@
   color: #808080;
   font-style: normal;
   font-weight: 600;
+}
+
+.portoAlegre {
+  margin-bottom: 2rem;
 }
 
 .sobre h2 {
@@ -81,7 +169,7 @@
 
 /* Program */
 
-.program {
+.program ul {
   display: flex;
   flex-wrap: wrap;
   gap: 1em;
@@ -91,34 +179,44 @@
   padding: 0;
 }
 
+.program h2 {
+  margin-top: 2em;
+}
+
 .program .session {
   border: solid 1px #ddd;
   flex-grow: 1;
   padding: 1em;
-  max-width: 32%;
+  max-width: 49%;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
 }
 
-.program .session h3 {
-  letter-spacing: 1px;
+.program .session .classifications p {
   margin-bottom: 0;
 }
 
-.program .session p {
-  margin-bottom: 0.5em;
+.program .session h3 {
+  letter-spacing: 1px;
+  margin-bottom: 0;
+  margin-top: 1.25rem;
 }
 
 @media screen and (max-width: 980px) {
   .program .session {
-    max-width: 48%;
+    max-width: 100%;
   }
 }
 
 @media screen and (max-width: 480px) {
+
   .program .session {
     max-width: unset;
+  }
+
+  .program .session .classifications {
+    flex-direction: column;
   }
 }
 

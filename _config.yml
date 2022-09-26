@@ -25,7 +25,7 @@ lang: pt-BR
 languages: ["pt-BR", "en"]
 exclude_from_localizations: ["assets"]
 city: Porto Alegre
-venue: PUC-RS
+venue: PUCRS
 
 emails:
   - contato@agilebrazil.com
@@ -37,6 +37,15 @@ sistemas:
 
 url: "https://www.agilebrazil.com"
 baseurl: "/2022" # the subpath of your site, e.g. /blog
+
+cotas:
+  - título
+  - diamante
+#  - ouro
+  - prata
+  - bronze
+  - comunidade
+  - diversidade
 
 permalink: :slug
 theme: jekyll-theme-minimal
