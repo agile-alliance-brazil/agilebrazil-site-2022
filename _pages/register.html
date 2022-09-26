@@ -13,6 +13,13 @@ permalink: /inscricoes
 
     <h1>Ingressos e faixas de preço</h1>
 
+
+    <section id="registrations-closed">
+      <h2>Ingressos esgotados!</h2>
+      <p>As inscrições para a edição de 2022 já estão esgotadas, esperamos ver você no ano que vem.</p>
+      <p></p>
+    </section>
+
     <div class="row gtr-50 gtr-uniform">
     {% for ticket in site.data.register %}
       {% if ticket.current %}
@@ -34,7 +41,6 @@ permalink: /inscricoes
       {% endif %}
     {% endfor %}
     </div>
-
 
     <h2 id="faq">Perguntas frequentes</h2>
     <dl>
