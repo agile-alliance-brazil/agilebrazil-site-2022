@@ -10,11 +10,11 @@
 
   <ul class="links">
     {% for item in nav %}
-      <li><a href="{{ site.baseurl | append: item.url}}">{{item.name}}</a></li>
+      <li><a href="{% tl item.namespace %}">{% t item.name %}</a></li>
     {% endfor %}
   </ul>
 
-  <h4>Edições anteriores</h4>
+  <h4>{% t labels.previous_editions %}</h4>
   <ul class="links">
     {% for conf in past %}
       <li><a href="{{conf.url}}" target="_blank">{{conf.name}}</a></li>

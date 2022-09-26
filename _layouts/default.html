@@ -17,8 +17,8 @@
     {% include favicon.html %}
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link rel="stylesheet" href="assets/css/main.css" />
-    <link rel="stylesheet" href="assets/css/custom.css" />
+    <link rel="stylesheet" href="{{ "/assets/css/main.css" | prepend: site.baseurl_root }}" />
+    <link rel="stylesheet" href="{{ "/assets/css/custom.css" | prepend: site.baseurl_root }}" />
 
     {% seo %}
 	</head>
@@ -26,9 +26,9 @@
 
 		<!-- Header -->
 			<header id="header">
-				<a class="logo" href="index.html">{{ site.title }}</a>
+				<a class="logo" href="{{ site.baseurl }}">{{ site.title }}</a>
 				<nav>
-					<a href="#menu">Menu</a>
+					<a href="#menu">{% t labels.menu %}</a>
 				</nav>
 			</header>
 
@@ -42,11 +42,11 @@
     {% include footer.html %}
 
 		<!-- Scripts -->
-			<script src="assets/js/jquery.min.js"></script>
-			<script src="assets/js/browser.min.js"></script>
-			<script src="assets/js/breakpoints.min.js"></script>
-			<script src="assets/js/util.js"></script>
-			<script src="assets/js/main.js"></script>
+			<script src="{{ "/assets/js/jquery.min.js" | prepend: site.baseurl_root }}"></script>
+			<script src="{{ "/assets/js/browser.min.js" | prepend: site.baseurl_root }}"></script>
+			<script src="{{ "/assets/js/breakpoints.min.js" | prepend: site.baseurl_root }}"></script>
+			<script src="{{ "/assets/js/util.js" | prepend: site.baseurl_root }}"></script>
+			<script src="{{ "/assets/js/main.js" | prepend: site.baseurl_root }}"></script>
 
 	</body>
 </html>

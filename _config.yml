@@ -22,13 +22,10 @@ title: Agile Brazil 2022
 author: Agile Brazil
 generator: Agile Brazil
 lang: pt-BR
+languages: ["pt-BR", "en"]
+exclude_from_localizations: ["assets"]
 city: Porto Alegre
 venue: PUCRS
-dates: 5 a 7/outubro, 2022
-description: >-
-  Agile Brazil é mais que uma conferência, é uma comunidade de pessoas unidas pelo voluntariado. 
-  Estamos juntos para compartilhar conhecimento com todos aqueles que querem aprender e ensinar, independente da sua experiência com agilidade.
-  O evento tem como propósito promover a comunicação e a colaboração entre seus integrantes visando a disseminação da cultura Ágil por todo o país.
 
 emails:
   - contato@agilebrazil.com

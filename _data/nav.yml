@@ -1,31 +1,31 @@
-- name: Sobre
-  url: /sobre
+- name: nav.about
+  namespace: about
   production: true
 
-- name: Inscrições
-  url: /inscricoes
+- name: nav.registrations
+  namespace: registrations
   production: true
 
-- name: Programa
-  url: /programa
+- name: nav.program
+  namespace: program
   production: true
 
-- name: Patrocínio
-  url: /patrocinio
+- name: nav.sponsorship
+  namespace: sponsorship
   production: true
 
-- name: WBMA
-  url: /wbma
+- name: nav.wbma
+  namespace: wbma
   production: true
 
-- name: Local e parcerias
-  url: /local
+- name: nav.location
+  namespace: location
   production: true
 
-- name: Código de Conduta
-  url: /codigo-de-conduta
+- name: nav.code_of_conduct
+  namespace: code_of_conduct
   production: true
 
-- name: Diversidade & Inclusão
-  url: /diversidade-e-inclusao
+- name: nav.diversity_and_inclusion
+  namespace: diversity_and_inclusion
   production: true

@@ -24,7 +24,7 @@
         {% for supporter in site.data.supporters %}
         <li>
           <a href="{{supporter.url}}" target="_blank">
-            <img src="{{supporter.logo}}" alt="{{supporter.name}}">
+            <img src="{{supporter.logo | prepend: site.baseurl_root}}" alt="{{supporter.name}}">
           </a>
         </li>
         {% endfor %}

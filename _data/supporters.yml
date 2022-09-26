@@ -1,15 +1,15 @@
 - name: PUCRS
-  logo: assets/images/sponsors/supporter-logo-pucrs.png
+  photo: /assets/images/sponsors/supporter-logo-pucrs.png
   url: https://www.pucrs.br/
 
 - name: Convention Bureau Porto Alegre
-  logo: assets/images/sponsors/supporter-logo-conventionBureauPoA.png
+  photo: /assets/images/sponsors/supporter-logo-conventionBureauPoA.png
   url: http://visiteportoalegre.com/
 
 - name: Criativa Soluções em Eventos
-  logo: assets/images/sponsors/sponsor-logo-criativa.png
+  photo: /assets/images/sponsors/sponsor-logo-criativa.png
   url: http://criativaeventos.net
 
 - name: Agile Alliance
-  logo: assets/images/sponsors/sponsor-logo-agilealliancebrazil.png
+  photo: /assets/images/sponsors/sponsor-logo-agilealliancebrazil.png
   url: https://www.agilealliance.org/agilealliancebrazil
