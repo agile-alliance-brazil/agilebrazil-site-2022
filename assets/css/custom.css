@@ -164,6 +164,12 @@ html {
   cursor: pointer;
 }
 
+.registration .rate.inactive,
+.registration .rate.inactive h3 {
+  background-color: #f5f5f5;
+  color: #808080;
+}
+
 .registration .rate h3 {
   min-height: 56px;
 }
