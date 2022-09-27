@@ -1,3 +1,13 @@
+html {
+	--ab-logo-azul-escuro: #182C35;
+	--ab-logo-verde-escuro: #147332;
+	--ab-logo-verde-medio: #43AC4B;
+	--ab-logo-laranja: #FFA506;
+	--ab-logo-branco: #FFFFFF;
+  --ab-divisores: rgba(255, 255, 255, 0.15);
+}
+
+
 /* Footer default sizes, desktop */
 #footer .sponsorsInLevel img.título {
   width: 45vw;
@@ -116,6 +126,10 @@
   color: #808080;
   font-style: normal;
   font-weight: 600;
+}
+
+.connections .spotlight img {
+  background-color: var(--ab-logo-verde-medio);
 }
 
 .portoAlegre {
