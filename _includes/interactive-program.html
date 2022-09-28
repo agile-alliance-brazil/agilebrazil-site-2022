@@ -1,0 +1,15 @@
+  <h2>Conexões</h2>
+
+  <div class="connections spotlights">
+    {% for interaction in site.data.interactive-program %}
+    <div class="spotlight">
+      <article>
+        <img class="image fit" src="{{ interaction.icon }}" alt="{{ interaction.name }}" />
+        <div class="content">
+          <h3>{{ interaction.name }}</h3>
+          <p>{{ interaction.description }}</p>
+        </div>
+      </article>
+    </div>
+    {% endfor %}
+  </div>

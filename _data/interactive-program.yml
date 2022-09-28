@@ -1,0 +1,14 @@
+- name: Mentoring Corner
+  icon: assets/images/mentoring.png
+  description: >-
+    Você está com um desafio para resolver e quer pegar umas dicas com alguém mais experiente? Essa é a proposta do Mentoring Corner! Apresente sua questão e conecte-se com uma pessoa disposta a te ajudar.
+
+- name: Open Spaces
+  icon: assets/images/openspace.png
+  description: >-
+    Quer compartilhar uma ideia ou questão e convidar as pessoas para uma roda de discussão? Aqui você pode! É só chegar e sugerir o assunto, ou se juntar à discussão proposta por outras pessoas!
+
+- name: Corredores
+  icon: assets/images/corridors.png
+  description: >-
+    Há quem diga que o melhor da Agile Brazil acontece nos corredores! De papos sobre a última palestra a filosofia de boteco, os corredores da Agile Brazil são espaço fértil para excelentes trocas.
