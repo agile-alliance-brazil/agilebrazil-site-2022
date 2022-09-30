@@ -62,6 +62,10 @@ html {
   width: 12vw;
 }
 
+#footer .sponsorsInLevel img.bronze.GFT {
+  width: 18vw;
+}
+
 #footer .sponsorsInLevel img.diversidade.RaphaAlbino,
 #footer .sponsorsInLevel img.comunidade.Wildtech {
   width: 12vw;
@@ -118,6 +122,10 @@ html {
 
   #footer .sponsorsInLevel img.prata.Nubank {
     width: 24vw;
+  }
+
+  #footer .sponsorsInLevel img.bronze.GFT {
+    width: 36vw;
   }
 
   #footer .sponsorsInLevel img.diversidade.RaphaAlbino,
