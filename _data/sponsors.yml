@@ -63,6 +63,11 @@
   url: https://www.suzano.com.br/
   level: bronze
 
+- name: GFT
+  logo: assets/images/sponsors/sponsor-logo-gft.png
+  url: https://www.gft.com/
+  level: bronze
+
 - name: Wildtech
   logo: assets/images/sponsors/sponsor-logo-wildtech.png
   url: https://www.wildtech.com.br/
