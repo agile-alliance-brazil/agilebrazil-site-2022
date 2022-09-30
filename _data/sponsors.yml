@@ -8,14 +8,14 @@
   url: https://www.tqi.com.br
   level: título
 
-- name: DTI
-  logo: assets/images/sponsors/sponsor-logo-dti.png
-  url: https://dti.ag/home-agilebrazil-2022
-  level: diamante
-
 - name: Flomatika
   logo: assets/images/sponsors/sponsor-logo-flomatika.png
   url: https://www.flomatika.com/
+  level: título
+
+- name: DTI
+  logo: assets/images/sponsors/sponsor-logo-dti.png
+  url: https://dti.ag/home-agilebrazil-2022
   level: diamante
 
 - name: ThoughtWorks
