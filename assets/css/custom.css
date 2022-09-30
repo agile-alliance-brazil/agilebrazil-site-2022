@@ -36,6 +36,11 @@ html {
   margin: 0;
 }
 
+#footer .sponsorsInLevel img.título.Flomatika {
+  width: 48vw;
+  margin: 0;
+}
+
 #footer .sponsorsInLevel img.diamante.DTI {
   width: 20vw;
 }
@@ -88,6 +93,10 @@ html {
   /* Footer customizations, mobile */
   #footer .sponsorsInLevel img.título.TQI {
     width: 60vw;
+  }
+
+  #footer .sponsorsInLevel img.título.Flomatika {
+    width: 96vw;
   }
 
   #footer .sponsorsInLevel img.diamante.DTI {
