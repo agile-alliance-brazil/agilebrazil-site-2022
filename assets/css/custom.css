@@ -36,6 +36,11 @@ html {
   margin: 0;
 }
 
+#footer .sponsorsInLevel img.título.Flomatika {
+  width: 48vw;
+  margin: 0;
+}
+
 #footer .sponsorsInLevel img.diamante.DTI {
   width: 20vw;
 }
@@ -55,6 +60,10 @@ html {
 
 #footer .sponsorsInLevel img.prata.Nubank {
   width: 12vw;
+}
+
+#footer .sponsorsInLevel img.bronze.GFT {
+  width: 18vw;
 }
 
 #footer .sponsorsInLevel img.diversidade.RaphaAlbino,
@@ -90,6 +99,10 @@ html {
     width: 60vw;
   }
 
+  #footer .sponsorsInLevel img.título.Flomatika {
+    width: 96vw;
+  }
+
   #footer .sponsorsInLevel img.diamante.DTI {
     width: 48vw;
   }
@@ -109,6 +122,10 @@ html {
 
   #footer .sponsorsInLevel img.prata.Nubank {
     width: 24vw;
+  }
+
+  #footer .sponsorsInLevel img.bronze.GFT {
+    width: 36vw;
   }
 
   #footer .sponsorsInLevel img.diversidade.RaphaAlbino,

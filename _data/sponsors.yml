@@ -8,14 +8,14 @@
   url: https://www.tqi.com.br
   level: título
 
-- name: DTI
-  logo: assets/images/sponsors/sponsor-logo-dti.png
-  url: https://dti.ag/home-agilebrazil-2022
-  level: diamante
-
 - name: Flomatika
   logo: assets/images/sponsors/sponsor-logo-flomatika.png
   url: https://www.flomatika.com/
+  level: título
+
+- name: DTI
+  logo: assets/images/sponsors/sponsor-logo-dti.png
+  url: https://dti.ag/home-agilebrazil-2022
   level: diamante
 
 - name: ThoughtWorks
@@ -61,6 +61,11 @@
 - name: Suzano
   logo: assets/images/sponsors/sponsor-logo-suzano.png
   url: https://www.suzano.com.br/
+  level: bronze
+
+- name: GFT
+  logo: assets/images/sponsors/sponsor-logo-gft.png
+  url: https://www.gft.com/
   level: bronze
 
 - name: Wildtech
