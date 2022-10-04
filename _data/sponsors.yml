@@ -78,6 +78,16 @@
   url: https://k21.global
   level: comunidade
 
+- name: ColetivoAção
+  logo: assets/images/sponsors/sponsor-logo-coletivoAcao.png
+  url: https://coletivoacao.com/
+  level: comunidade
+
+- name: Caroli
+  logo: assets/images/sponsors/sponsor-logo-caroli.png
+  url: https://caroli.org/
+  level: comunidade
+
 - name: RaphaAlbino
   logo: assets/images/sponsors/sponsor-logo-raphaalbino.png
   url: https://rapha-albino.com.br/
