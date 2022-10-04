@@ -72,6 +72,14 @@ html {
   width: 12vw;
 }
 
+#footer .sponsorsInLevel img.comunidade.K21 {
+  width: 8vw;
+}
+
+#footer .sponsorsInLevel img.comunidade.Caroli {
+  width: 5vw;
+}
+
 @media screen and (max-width: 736px) {
   /* Footer default sizes, mobile */
   #footer .sponsorsInLevel img.título {
@@ -132,6 +140,18 @@ html {
   #footer .sponsorsInLevel img.diversidade.RaphaAlbino,
   #footer .sponsorsInLevel img.comunidade.Wildtech {
     width: 30vw;
+  }
+
+  #footer .sponsorsInLevel img.comunidade.ColetivoAção {
+    width: 28vw;
+  }
+
+  #footer .sponsorsInLevel img.comunidade.K21 {
+    width: 20vw;
+  }
+
+  #footer .sponsorsInLevel img.comunidade.Caroli {
+    width: 14vw;
   }
 }
 
