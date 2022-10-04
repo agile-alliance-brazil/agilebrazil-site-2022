@@ -38,6 +38,8 @@ sistemas:
   submissoes: "https://submissoes.agilebrazil.com"
   inscricoes: "https://inscricoes.agilebrazil.com/"
 
+app: "https://app.agilebrazil.com"
+
 url: "https://www.agilebrazil.com"
 baseurl: "/2022" # the subpath of your site, e.g. /blog
 
