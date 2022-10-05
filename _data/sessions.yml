@@ -812,28 +812,28 @@
   abstract: |
     <p>Os arquétipos de problemas na produção de software em escala são bastante similares, independente do domínio, indústria, ou localização geográfica da organização.
 
-Através da análise das métricas de fluxo de centenas de times ao redor do mundo por anos, eu consegui mapear, através de dados, sete padrões que times trabalhando com trabalho do conhecimento frequentemente se deparam.
+    Através da análise das métricas de fluxo de centenas de times ao redor do mundo por anos, eu consegui mapear, através de dados, sete padrões que times trabalhando com trabalho do conhecimento frequentemente se deparam.
 
-Explorando mais a fundo, ficou evidente que esses padrões normalmente tem 
-- causas comuns que os ativam
-- Eventos similares, uma vez que estes padrões estão se manifestando
-- Formas mapeadas de sair
+    Explorando mais a fundo, ficou evidente que esses padrões normalmente tem 
+    - causas comuns que os ativam
+    - Eventos similares, uma vez que estes padrões estão se manifestando
+    - Formas mapeadas de sair
 
-Tradicionalmente, para identificar estes comportamentos sistêmicos, líderes de negócios e tecnologia seguem dois caminhos clássicos:
-- Tentam identificar sintomas e causas através de narrativas (as famosas conversas de corredor)
-- Investem alto para que consultorias de gestão e agilidade façam o diagnóstico da situação atual, mapeiem o estado futuro desejado e como chegar lá
+    Tradicionalmente, para identificar estes comportamentos sistêmicos, líderes de negócios e tecnologia seguem dois caminhos clássicos:
+    - Tentam identificar sintomas e causas através de narrativas (as famosas conversas de corredor)
+    - Investem alto para que consultorias de gestão e agilidade façam o diagnóstico da situação atual, mapeiem o estado futuro desejado e como chegar lá
 
-Hoje, eu quero propor uma nova forma, muito mais efetiva e eficaz, que é a identificação através dos dados produzidos pelo seu sistema de trabalho.
+    Hoje, eu quero propor uma nova forma, muito mais efetiva e eficaz, que é a identificação através dos dados produzidos pelo seu sistema de trabalho.
 
-Nessa palestra, eu vou mostrar como identificar, somente usando os dados de trabalho do seu time (ex: Jira, Azure Bordas, Trello, etc) sete padrões sistêmicos:
+    Nessa palestra, eu vou mostrar como identificar, somente usando os dados de trabalho do seu time (ex: Jira, Azure Bordas, Trello, etc) sete padrões sistêmicos:
 
-- Times operando em estado de urgência
-- Times em processo de esgotamento profundo ou burnout
-- Times quebrando a confiança de seus clientes
-- Times com problemas sistêmicos de fluxo
-- Times que se comprometem com demandas de forma prematura
-- Times com alto índice de atraso e desperdício
-- Times estagnados</p>
+    - Times operando em estado de urgência
+    - Times em processo de esgotamento profundo ou burnout
+    - Times quebrando a confiança de seus clientes
+    - Times com problemas sistêmicos de fluxo
+    - Times que se comprometem com demandas de forma prematura
+    - Times com alto índice de atraso e desperdício
+    - Times estagnados</p>
   level: "-"
   type: Apresentação
   duration: 50
