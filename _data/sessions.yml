@@ -815,22 +815,22 @@
     <p>Através da análise das métricas de fluxo de centenas de times ao redor do mundo por anos, eu consegui mapear, através de dados, sete padrões que times trabalhando com trabalho do conhecimento frequentemente se deparam.</p>
 
     <p>Explorando mais a fundo, ficou evidente que esses padrões normalmente tem causas comuns que os ativam
-    <ol>
+    <ul>
     <li>Eventos similares, uma vez que estes padrões estão se manifestando</li>
     <li>Formas mapeadas de sair</li>
-    </ol>
+    </ul>
 
     <p>Tradicionalmente, para identificar estes comportamentos sistêmicos, líderes de negócios e tecnologia seguem dois caminhos clássicos:</o>
-    <ol>
+    <ul>
     <li>Tentam identificar sintomas e causas através de narrativas (as famosas conversas de corredor)</li>
     <li>Investem alto para que consultorias de gestão e agilidade façam o diagnóstico da situação atual, mapeiem o estado futuro desejado e como chegar lá</li>
-    </ol>
+    </ul>
 
     <p>Hoje, eu quero propor uma nova forma, muito mais efetiva e eficaz, que é a identificação através dos dados produzidos pelo seu sistema de trabalho.</p>
 
     <p>Nessa palestra, eu vou mostrar como identificar, somente usando os dados de trabalho do seu time (ex: Jira, Azure Bordas, Trello, etc) sete padrões sistêmicos:</p>
 
-    <ol>
+    <ul>
     <li>Times operando em estado de urgência</li>
     <li>Times em processo de esgotamento profundo ou burnout</li>
     <li>Times quebrando a confiança de seus clientes</li>
@@ -838,7 +838,7 @@
     <li>Times que se comprometem com demandas de forma prematura</li>
     <li>Times com alto índice de atraso e desperdício</li>
     <li>Times estagnados</li>
-    </ol>
+    </ul>
     </p>
   level: "-"
   type: Apresentação
